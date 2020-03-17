@@ -1,0 +1,29 @@
+---
+title: "Group O Visualising Singapore"
+author: "Clinton, Jolene"
+date: "17 March 2020"
+output: html_document
+---
+
+### 1. Set Up
+
+```{r message = FALSE}
+library(ggmap)
+library(dplyr)
+
+register_google(Sys.getenv("GOOGLE_MAPS_API_KEY"))
+
+school = readr::read_csv("data/general-information-of-schools.csv")
+```
+
+```{r}
+school = school %>%
+  mutate(addr = paste(school_name, "Singapore", postal_code)) %>%
+  mutate_geocode(addr)
+```
+
+```{r}
+write.csv(school, "general-information-of-schools-geocoded.csv")
+```
+
+
