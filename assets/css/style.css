@@ -1,0 +1,22 @@
+body {
+    font-family: 'Open Sans';
+    overflow-y: hidden;
+}
+
+.container-fluid {
+    padding: 0;
+    width: 100vw;
+    display: flex;
+    overflow-x: scroll;
+    scroll-snap-type: x mandatory;  
+    -webkit-overflow-scrolling: touch;
+    scroll-behavior: auto;
+}
+
+.slide {
+    display: inline-block;
+    position: relative;
+    min-width: 100vw;
+    height: 100vh;
+    scroll-snap-align: start;
+}
