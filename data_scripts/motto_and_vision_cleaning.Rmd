@@ -1,0 +1,42 @@
+---
+title: "Motto and Vision Processing"
+author: "Clinton, Jolene"
+date: "9 April 2020"
+output: html_document
+---
+
+```{r}
+library(tidytext)
+library(dplyr)
+
+schools = readr::read_csv("data/general-information-of-schools-geocoded.csv",
+                          na = c("na"))
+```
+
+```{r}
+schools %>%
+  unnest_tokens(input = visionstatement_desc,
+                output = word) %>%
+  anti_join(stop_words) %>%
+  select(word) %>%
+  filter(!is.na(word)) %>%
+  count(word) %>%
+  arrange(desc(n)) %>%
+  head(100) %>%
+  write.csv("vision.csv")
+```
+
+```{r}
+schools %>%
+  unnest_tokens(input = missionstatement_desc,
+                output = word) %>%
+  anti_join(stop_words) %>%
+  select(word) %>%
+  filter(!is.na(word)) %>%
+  count(word) %>%
+  arrange(desc(n)) %>%
+  head(100) %>%
+  write.csv("mission.csv")
+```
+
+

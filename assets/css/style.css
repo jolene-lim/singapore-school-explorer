@@ -26,3 +26,8 @@ body {
     width: 500px;
     height: 500px;
 }
+
+#interactive-map {
+    width: 80%;
+    height: 600px;    
+}
