@@ -2,7 +2,7 @@ var fill = color = d3.scaleLinear()
     .domain([1, 100])
     .range(["#26747c", "#ffd166"]);
 
-d3.csv("../../data/data/mission.csv", function (data) {
+d3.csv("data/data/mission.csv", function (data) {
     var mission = data
         .map(function (d) { return { text: d.word, size: d.n } })
 

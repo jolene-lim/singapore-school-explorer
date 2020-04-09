@@ -12,7 +12,7 @@ L.tileLayer(
 
 L.svg().addTo(interactiveMap);
 
-d3.csv("../../data/general-information-of-schools-geocoded.csv", function (data) {
+d3.csv("data/general-information-of-schools-geocoded.csv", function (data) {
 
     var locations = data
         .map(function (d) {
