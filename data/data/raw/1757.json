@@ -1,0 +1,735 @@
+{
+	"code": "1757",
+	"name": "COMPASSVALE PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1757D",
+	"logo": "./Medias/Images/Schools/logos/tn_1757.jpg",
+	"website": "http://www.compassvalepri.moe.edu.sg/",
+	"address": "21, COMPASSVALE ST ( 545091 )",
+	"telephone": [
+		"63882819"
+	],
+	"fax": [
+		"63882798"
+	],
+	"email": "cvps@moe.edu.sg",
+	"mrt": "Sengkang",
+	"bus": "83 (along Compassvale Street) 27 , 89 , 89E & 965 (along Compassvale Road). ",
+	"GeneralInformation": {
+		"Principal": "MR AW KER LEE JEFFREY",
+		"Vice Principal": [
+			"MISS TAN KWEE FOON",
+			"MDM TAN KAY LING"
+		],
+		"Vice Principal (Admin)": "MR FONG KOK WAI",
+		"School Vision": "Thinkers . Leaders . Champions",
+		"School Mission": "To nurture compassionate leaders excelling in service of the community and Singapore",
+		"School Philosophy, Culture and Ethos": "We are guided by our philosophy 'Every child matters and can learn and achieve', in our efforts to develop and nurture our students.  Aligned to the school's belief and commitment to provide a student-centric, values-driven education for every child and in nurturing each child holistically to be the best that he/she can be, the school has laid a strong foundation to deliver this outcome. This is done through growing staff capacity, developing student potential and enhancing its infrastructure and putting the appropriate systems and processes in place.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"FOUNDATION TAMIL",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Golf",
+			"Netball",
+			"Track & Field",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Singapore Red Cross Society"
+		],
+		"Visual and Performing Arts": [
+			"Band - Brass",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Ensemble - Harmonica",
+			"Speech And Drama Club"
+		],
+		"Clubs & Societies": [
+			"Robotics Club",
+			"Science Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Coding": "Inculcating 21st Century Competencies Through Robotics in Math & Science Curriculum",
+			"Music & Performing Arts": "Developing Aesthetics Appreciation  Through Music Empowerment"
+		},
+		"Special Student Development Programmes Offered": "The school believes in the importance of developing effective communication skills in the students as part of holistic education. The Mastery In Communication Skills (MICS) Programme developed by the EL Department leverages the use of speech and drama activities to systematically develop in all Compassvalites the confidence and oral competency to navigate in the 21st century."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Ensemble - Harmonica": "Gold"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Ensemble - Harmonica": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment"
+				}
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd"
+					],
+					[
+						"Taekwondo",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Bronze"
+				}
+			},
+			"2016": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band-Brass": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment"
+				}
+			},
+			"2017": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Bronze"
+				}
+			},
+			"2018": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-"
+					],
+					[
+						"",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div",
+						"'CN' Div"
+					],
+					[
+						"Golf",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Bronze"
+				}
+			}
+		}
+	},
+	"postalCode": "545091"
+}

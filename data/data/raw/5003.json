@@ -1,0 +1,582 @@
+{
+	"code": "5003",
+	"name": "CANOSSA CONVENT PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS5003L",
+	"logo": "./Medias/Images/Schools/logos/tn_5003.jpg",
+	"website": "http://www.canossaconventpri.moe.edu.sg/",
+	"address": "1, Sallim Road ( 387621 )",
+	"telephone": [
+		"68441418"
+	],
+	"fax": [
+		"68441417"
+	],
+	"email": "ccps@moe.edu.sg",
+	"mrt": "Macpherson MRT Station Mattar MRT (2017, just beside school)",
+	"bus": "61 , 62 , 64 , 65 , 66 , 100 , 135 , 155 , 154 ",
+	"GeneralInformation": {
+		"Principal": "MDM SIA LU-MING EUGENIE",
+		"Vice Principal": "MDM WONG WAN CHIN",
+		"Vice Principal (Admin)": "MR LEE HENG WENG",
+		"School Vision": "A community of compassionate leaders and passionate learners, in service of God, country and family.",
+		"School Mission": "To nurture and empower Canossians through a holistic education to be persons of integrity, committed to serving God and others.",
+		"School Philosophy, Culture and Ethos": [
+			"Established in 1941, Canossa Convent Primary School (CCPS) is one of the educational institutions set up by the sisters of the Canossian Daughters of Charity in Singapore. It is affiliated to St Anthony's Canossian Secondary, an autonomous school. ",
+			"Canossa Convent Primary School (CCPS) is an all-girls catholic school that delivers Canossian Education which anchors in the formation of the whole person. The Canossian education emulates the work and spirit of our foundress St Magdalene of Canossa to serve the poorest of the poor. It is inclusive and embraces persons of all faiths and races and those with special needs. The Canossian education emphasizes on the formation of the heart to anchor our pupils in values especially to instil in our pupils the spirit of serving the poor.",
+			"In line with the Canossian Education of building a whole person, CCPS aims to develop our pupils to be passionate learners who are self-directed and resilient and compassionate leaders who serve with humility. CCPS graduands will be leaders of character who live the Canossian Identity which encompasses the school values of 3Cs (Commitment, Compassion and Cheerfulness). ",
+			"It takes a village to raise a child and CCPS has a unique advantage as it is situated in the Canossian Eduplex, a unique borderless community, consisting of Canossa Convent, Canossa Convent Primary, Canossaville Children's Home, Canossian School for the hearing impaired, Magdalene's Kindergarten to provide for the social and educational needs of the community in Aljunied. The various sectors in the Canossian Eduplex share a common belief in the care of the child and work closely with one another to provide the love, care and education needed for the holistic development of the child."
+		],
+		"Type of School": "GOVERNMENT-AIDED SCH / GIRLS' SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton"
+		],
+		"Uniformed Groups": [
+			"Brownies"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Brass Band",
+			"Choir",
+			"International Dance",
+			"Multimedia Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "Service Innovation Through Design Thinking"
+		},
+		"Special Student Development Programmes Offered": "(1) Satellite Programme With Canossian School (CS)"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold (Hons)",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold (Hons)",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold (Hons)"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold (Hons)"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold (Hons)"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Gold (Hons)"
+				}
+			},
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			},
+			"2015": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			},
+			"2016": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			},
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			},
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				}
+			}
+		}
+	},
+	"postalCode": "387621"
+}

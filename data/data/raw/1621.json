@@ -1,0 +1,265 @@
+{
+	"code": "1621",
+	"name": "NEW TOWN PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1621L",
+	"logo": "./Medias/Images/Schools/logos/tn_1621.jpg",
+	"website": "http://www.newtownpri.moe.edu.sg/",
+	"address": "300, Tanglin Halt Road ( 148812 )",
+	"telephone": [
+		"64748805"
+	],
+	"fax": [
+		"64741249"
+	],
+	"email": "NTPS@MOE.EDU.SG",
+	"mrt": "Commonwealth MRT Station",
+	"bus": "SBS Numbers 32 , 100 , 105 , 111 , 145 , 147 , 195 , 196 , 198 , 855 ",
+	"GeneralInformation": {
+		"Principal": "DR NG SIEW PENG IRENE",
+		"Vice Principal": [
+			"MDM KHOO SU LIEN REGINA",
+			"MR ONG SZE CHONG BRYAN"
+		],
+		"Vice Principal (Admin)": "MDM TAY PUA HONG JODIE",
+		"School Vision": "Learning beyond Borders, Caring beyond Self",
+		"School Mission": "We nurture passionate learners, strong in character.",
+		"School Philosophy, Culture and Ethos": [
+			"New Town Primary provides a nurturing and holistic education through our unique brand of education that empowers our students to grow into confident, self-directed individuals and caring citizens. Built upon the School's Philosophy that Every Child can Learn and wants to Learn, the school focuses on providing differentiated learning experiences for each and every child to help them discover and hone their many passions and pursuits.",
+			"Beyond academic excellence, the school is committed to inculcate sound values in our students to be active contributors to the society. There is a pervasive culture of care in the school with strong emphasis on character development and nurturing a growth mindset. Our students are given opportunities to work in teams. The school has grown over the years and done well in many aspects due to a team of dedicated and caring staff, supportive parents, alumni and the school advisory committee."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MATHEMATICS",
+		"MUSIC",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball",
+			"Tchoukball"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Red Cross"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Chinese Dance",
+			"Choir",
+			"Indian Dance",
+			"International Dance",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"English Club",
+			"Fun & Fitness",
+			"It/Media Club",
+			"Library",
+			"Mathematics Club",
+			"Pa Club",
+			"Robotics Club",
+			"Science  & Environment Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "A Leader in Every Child"
+		},
+		"Special Student Development Programmes Offered": "Student Leadership Programme"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Choir": "Silver"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2011": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver"
+				}
+			},
+			"2012": {
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold"
+				}
+			},
+			"2013": {
+				"SYF Arts Presentation": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold"
+				}
+			},
+			"2014": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				}
+			},
+			"2015": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				}
+			},
+			"2016": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition(Sm)",
+					"Art - Category C": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				}
+			},
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment"
+				}
+			},
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band-Brass Ensemble": "Accomplishment",
+					"Band-Percussion Ensemble": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Brownies": "Bronze",
+					"Red Cross": "Silver"
+				}
+			}
+		}
+	},
+	"postalCode": "148812"
+}

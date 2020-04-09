@@ -1,0 +1,833 @@
+{
+	"code": "1750",
+	"name": "UNITY PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1750K",
+	"logo": "./Medias/Images/Schools/logos/tn_1750.jpg",
+	"website": "http://www.unitypri.moe.edu.sg",
+	"address": "21, CHOA CHU KANG CRESCENT ( 688268 )",
+	"telephone": [
+		"67676750"
+	],
+	"fax": [
+		"67676751"
+	],
+	"email": "UNITY_PS@MOE.EDU.SG",
+	"mrt": "Yew Tee MRT",
+	"bus": "TIBs 302",
+	"GeneralInformation": {
+		"Principal": "MRS JASMAIL SINGH GILL",
+		"Vice Principal": [
+			"MR KOH PENG YEOW",
+			"MDM LEE SUET FONG"
+		],
+		"School Vision": "Creative Minds, Caring Hearts",
+		"School Mission": "We shall nurture our pupils to be responsible individuals of integrity who respect others and have a passion for learning.",
+		"School Philosophy, Culture and Ethos": [
+			"We anchor our beliefs on growing the school 'from good to great' and structure our school processes through the UPS School Management Model which reflects the four principles of Quality Relationships, Building Capacity, Effective Leadership and Effective Systems. Guided by our philosophy of 'Everyone Matters', we strive to provide all students with our very own Unity experience, where we believe that all children can learn and are committed to achieving success.",
+			"Our commitment is to ensure that quality teaching and learning are the focus both in and out of classrooms. Through our CORE values of IC2R (Integrity, Courage, Respect and Responsibility), we guide our students to develop the foundations for lifelong learning, and also provide an educational experience that is both student centric and values driven. Over the years, our students have done well and their success is due to the hard work of a nurturing team of dedicated teachers and supportive parents. ",
+			"Teamwork amongst staff is also our strength and it defines our work at Unity Primary. We have a strong team in place and with a shared commitment, we continue to make great things possible for all our students. Our belief that Everyone Matters is our cornerstone and this experience will be wholesome, enriching and joyful, whereby we seek to nurture every student and staff to achieve our vision of Creative Minds, Caring Hearts."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Football",
+			"Netball"
+		],
+		"Uniformed Groups": [
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Dance - Chinese",
+			"Dance - Malay",
+			"Ensemble - Angklung/Kulintang",
+			"Ensemble - Handbell/Handchime"
+		],
+		"Clubs & Societies": [
+			"Infocom Club",
+			"Library",
+			"Mathematics Club",
+			"Science And Green Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Languages": "CAPtivate! – Critical Thinking Accelerated Programme @ UPS",
+			"Community Service & Student Leadership": "CharGE UP! (Character Development through Green & Experiential Learning @ Unity Primary)"
+		},
+		"Special Student Development Programmes Offered": "We believe that academic pursuits and character building are complementary in nature and equally important in the holistic development of our students."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Soccer",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze",
+					"Ensemble - Handbell / Handchime": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Handbell / Handchime": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Angklung / Kulintang": "Silver",
+					"Ensemble - Handbell / Handchime": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Angklung / Kulintang": "Silver",
+					"Ensemble - Handbell / Handchime": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			},
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Angklung / Kulintang": "Accomplishment",
+					"Ensemble - Handbell / Handchime": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Gold"
+				}
+			}
+		}
+	},
+	"postalCode": "688268"
+}

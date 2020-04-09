@@ -1,0 +1,752 @@
+{
+	"code": "1239",
+	"name": "CHANGKAT PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1239J",
+	"logo": "./Medias/Images/Schools/logos/tn_1239.jpg",
+	"website": "http://www.changkatpri.moe.edu.sg/",
+	"address": "11, SIMEI ST 3 ( 529896 )",
+	"telephone": [
+		"67830923"
+	],
+	"fax": [
+		"67844740"
+	],
+	"email": "CHANGKAT_PS@MOE.EDU.SG",
+	"mrt": "Simei MRT Station",
+	"bus": "9 , 38 , 5 ",
+	"GeneralInformation": {
+		"Principal": "MDM CHENG HUEY TENG",
+		"Vice Principal": "MDM TAY MENG HON",
+		"Vice Principal (Admin)": "MDM TAN GEK SIM MAGELLA",
+		"School Vision": "Learners with Passion, Citizens of Honour",
+		"School Mission": "To instil the love for learning and nurture all-round individuals, grounded by values",
+		"School Philosophy, Culture and Ethos": [
+			"The school's mission states its commitment to instilling in every child a zeal for learning, embracing innovation in teaching and learning and developing upright and responsible citizens.  The school values of Patriotism, Resilience, Integrity, Discipline and Empathy (PRIDE), are in alignment with its vision. ",
+			"Changkat Primary is committed to delivering a student-centric, values-driven education for all her students through the provision of a Differentiated Curriculum where teachers provide for different learner types. Learner information such as that obtained from formative assessments is actively sought to enable responsive teaching and active learning. To create a sense of autonomy and ownership, students are involved in tracking, reflecting on and following up on their areas for improvement and strengths. ",
+			"In the area of Pastoral Care, we strive to provide multiple platforms which encourage positive teacher-student interactions. This ensures timely gathering of student information to improve support structures and processes. The school also leverages students as a resource base to beef up pastoral support for all children. All these serve to create an environment that is secure and conducive for learning and play.",
+			"Changkat Primary provides a total curriculum that nurtures the whole child. We believe that the school curriculum and programmes need to be supported by strong Home-School Collaboration for greater effectiveness. Through multiple communication platforms, we ensure that parents are provided with useful and timely information about school policies and activities. This encourages active participation from parents in their child's school life and facilitates fruitful partnership between parents and teachers to meet the needs of every child."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"CHINESE",
+		"ENGLISH LANGUAGE",
+		"HINDI",
+		"MALAY",
+		"MATHEMATICS",
+		"SCIENCE",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Track & Field",
+			"Wushu"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Choir",
+			"Dance"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Sports, Outdoor, Athletics & Recreation @ Changkat Primary"
+		},
+		"Special Student Development Programmes Offered": "The school's Learning For Life Programme, SOAR@CKPS(Sports, Outdoor, Athletics, Recreation at Changkat Pr), creates rich learning opportunities and experiences to develop the child physically, mentally and emotionally so that he/she goes on to lead a healthy and active lifestyle. Through skilful questioning, teachers draw out student learning in values and life skills such as problem-solving, communication and teamwork.  SOAR@CKP seeks to provide students with a comprehensive sporting and outdoor experience while giving opportunities to those with greater interest and/or aptitude to pursue their strengths and interest further. This is done through a structured PE Program(P1-6), Program for Active Learning(P1-2), Modular Co-Curricular Activities(P3-6) and Co-Curricular Activities(P3-6)."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Ensemble - Angklung / Kulintang": "Gold",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"2nd",
+						"1st",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Ensemble - Angklung / Kulintang": "Gold",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"2nd",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Ensemble - Guzheng": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"-",
+						"3rd",
+						"-",
+						"1st",
+						"3rd",
+						"1st",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Ensemble - Angklung / Kulintang": "Bronze",
+					"Ensemble - Guzheng": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"1st",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Dance - Chinese": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"2nd",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Dance - Chinese": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"1st",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold (Hons)",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd",
+						"1st",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Gold (Hons)",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"1st",
+						"2nd",
+						"-",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				}
+			},
+			"2018": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Ensemble - Guitar": "Commendation"
+				}
+			}
+		}
+	},
+	"postalCode": "529896"
+}

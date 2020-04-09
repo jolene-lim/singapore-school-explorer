@@ -11,6 +11,7 @@ body {
     scroll-snap-type: x mandatory;  
     -webkit-overflow-scrolling: touch;
     scroll-behavior: auto;
+    transition: transform .4s ease-in;
 }
 
 .slide {
@@ -19,4 +20,9 @@ body {
     min-width: 100vw;
     height: 100vh;
     scroll-snap-align: start;
+}
+
+#school-map {
+    width: 500px;
+    height: 500px;
 }

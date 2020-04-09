@@ -1,0 +1,1033 @@
+{
+	"code": "1220",
+	"name": "SHUQUN PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1220G",
+	"logo": "./Medias/Images/Schools/logos/tn_1220.jpg",
+	"website": "http://www.shuqunpri.moe.edu.sg",
+	"address": "8, JURONG WEST STREET 51 ( 649332 )",
+	"telephone": [
+		"65637129"
+	],
+	"fax": [
+		"65637418"
+	],
+	"email": "sqps@moe.edu.sg",
+	"mrt": "W11 Lakeside",
+	"bus": "98 , 187 , 335 ",
+	"GeneralInformation": {
+		"Principal": "MISS GEETHA D/O DORAISAMY",
+		"Vice Principal": [
+			"MDM ADELINE CHONG",
+			"MR MUHAMMAD FADYLLA B RASHIMAN"
+		],
+		"School Vision": "A vibrant learning community, rooted in values and ready to serve.",
+		"School Mission": "To nurture a star in every Shuqunite, who places community above self.",
+		"School Philosophy, Culture and Ethos": [
+			"With its long and rich history and heritage, the school has positioned itself in the community as one that offers a holistic, enriching school experience for its students. We provide a comprehensive and exciting learning curriculum that aims at developing the mind, body and soul of every Shuqunite. We are guided by the belief that every student has unique talents and strengths and our customised programmes   allow students to realise their full potential.",
+			"Our dedicated and caring team of teachers and school staff are committed in bringing out the best in our students so that they shine as engaged learners who are rooted in values and ready to serve.  Our stakeholders play an important part, giving us firm support in providing a positive learning environment for our students."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"FOUNDATION TAMIL",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Football",
+			"Golf",
+			"Netball",
+			"Sailing",
+			"Silat",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Brownies",
+			"Girls' Brigade",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Band - Brass",
+			"Choir",
+			"Contemporary Dance",
+			"Indian Dance",
+			"Lion Dance Troupe",
+			"Malay Dance",
+			"String - Ensemble (Violin)"
+		],
+		"Clubs & Societies": [
+			"Edison's Club (Science & Robotics)",
+			"Green Club",
+			"Library",
+			"Media Production House"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Character and Leadership development through ADventure (CLAD)"
+		},
+		"Special Student Development Programmes Offered": "Guided by our ICARE values, (Integrity, Care, Adaptability, Respect, and Excellence), our Character and Citizenship Education programmes aim to develop Shuqunites into confident leaders with sound character who contribute actively to the community. We offer a wide variety of programmes such as Values-in-Action (VIA), Play and Learn @Shuqun (PAL) and Values Education to inculcate values and develop the necessary knowledge and life skills. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Strings": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze",
+					"Scout": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Strings": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Sepak Takraw",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies (Pack 1)": "Bronze",
+					"Girls' Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies (Pack 1)": "Silver",
+					"Girls' Brigade": "Bronze"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Ensemble - Strings": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (National Education)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Ensemble - Strings": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (National Education)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (National Education)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Ensemble - Strings": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver"
+				}
+			},
+			"2014": {
+				"Development Award": "DA (National Education)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2015": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2016": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2017": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Commendation",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2018": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band-Brass": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			}
+		}
+	},
+	"postalCode": "649332"
+}

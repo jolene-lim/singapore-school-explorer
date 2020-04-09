@@ -1,0 +1,632 @@
+{
+	"code": "1177",
+	"name": "FERNVALE PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1177B",
+	"logo": "./Medias/Images/Schools/logos/tn_1177.jpg",
+	"website": "http://www.fernvalepri.moe.edu.sg/home",
+	"address": "1, Fernvale Lane ( 797701 )",
+	"telephone": [
+		"63153051"
+	],
+	"fax": [
+		"63153067"
+	],
+	"email": "fernvale_ps@moe.edu.sg",
+	"mrt": "Fernvale LRT (Sengkang West Loop)",
+	"bus": "Sengkang and Toa Payoh interchange - no 163 , Along Yio Chu Kang Road , - no 70 , 86 , 103 and 854. ",
+	"GeneralInformation": {
+		"Principal": "MDM BALAKRISHNA VYJANTHIMALA",
+		"Vice Principal": "MISS YAP AI LI",
+		"Vice Principal (Admin)": "MRS HARYATI TEH",
+		"School Vision": [
+			"Global Learners of Tomorrow",
+			"- Confident Person   ",
+			"- Successful Learner",
+			"- Involved Citizen"
+		],
+		"School Mission": "A vibrant school that inspires all to maximize their potential, instills in them a passion for learning and brings out in them a heart to serve.",
+		"School Philosophy, Culture and Ethos": [
+			"We, at Fernvale Primary School, believe that Every Child Can Learn and Every Child is Unique.",
+			"Every Child Can Learn - Each child comes to our school with a different entry point. We identify the learning needs of each child and customize the curriculum to pace each child's learning in a safe environment, conducive for learning. Our teachers guide each child's efforts by giving regular feedback, emphasizing that effort directed at growth leads to success. Every child is engaged in his assessment, setting his own learning targets and taking the responsibility to track, reflect on and share his learning progress with peers.",
+			"Every Child is Unique - Each child has strengths and interests that are different from others. We recognize the abilities every child has in the area of Sports, Art & Crafts and Music. Our teachers design a range of programmes in and out of the classroom, nurturing the potential in Sports and Aesthetics in every child at the level the child can attain.",
+			"Our Defining Statement, Caring Hearts, Creative Minds, Uniquely Fernvale, characterizes our school.",
+			"Caring Hearts - We believe in fostering good relationships between staff and students. Every member of our staff, from our security guards to our teachers, nurtures a caring attitude towards our students. Our Student Development Team creates appropriate level-wide programmes to deepen the bonding between teachers and students.",
+			"Creative Minds - We promote a culture of innovation among our teachers, working in collaborative teams to create programmes that enhance student learning.",
+			"Uniquely Fernvale - We do things differently in developing a Quality School Experience for our students. We encourage students of different cultures to participate in CCAs such as Dikir Barat, Wushu, Guzhen and Indian Dance, for them to appreciate other cultures. Our Learning for Life Programme and Satellite Partnership with Fernvale Gardens School, emphasizing a heart to serve, also add to our uniqueness."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION SCIENCE",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Wushu"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Coding": "Future Skills Programme",
+			"Community Service & Student Leadership": "Greenova - To nurture, innovative, responsible, young environmentalists who love and care for the environment"
+		},
+		"Special Student Development Programmes Offered": "Programmes that build the Confident Person"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"SYF Central Judging": {
+					"Dance - Indian": "Gold (Hons)"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Dance - Indian": "Gold (Hons)"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Dance - Indian": "Gold (Hons)"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Dance - Indian": "Gold (Hons)"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Indian": "Gold (Hons)",
+					"Ensemble - Guzheng": "Bronze"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Indian": "Gold (Hons)",
+					"Ensemble - Guzheng": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Indian": "Gold (Hons)",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"2nd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Gold (Hons)",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze"
+				}
+			},
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"2nd",
+						"2nd",
+						"1st",
+						"1st"
+					],
+					[
+						"Taekwondo",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"4th",
+						"-",
+						"4th",
+						"-",
+						"1st",
+						"1st",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"2nd",
+						"4th",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			}
+		}
+	},
+	"postalCode": "797701"
+}

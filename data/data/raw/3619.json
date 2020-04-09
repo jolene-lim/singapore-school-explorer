@@ -1,0 +1,971 @@
+{
+	"code": "3619",
+	"name": "KENT RIDGE SECONDARY SCHOOL",
+	"levels": "S",
+	"uen": " T07GS3619L",
+	"logo": "./Medias/Images/Schools/logos/tn_3619.jpg",
+	"website": "http://www.kentridgesec.moe.edu.sg",
+	"address": "147, WEST COAST ROAD ( 127368 )",
+	"telephone": [
+		"67731127"
+	],
+	"fax": [
+		"67735119"
+	],
+	"email": "KRSS@MOE.EDU.SG",
+	"mrt": "CLEMENTI MRT, HAW PAR VILLA MRT",
+	"bus": "30 , 51 , 143 , 175 , 176 , 201 , 282 ",
+	"GeneralInformation": {
+		"Principal": "MDM S SAROJA",
+		"Vice Principal": [
+			"MISS WEE MEI YEN JANICE",
+			"MR QUAH SIEW KIN"
+		],
+		"School Vision": "A Kent Ridgean has the Heart of a Saint, the Passion of an Inventor, and the Will of an Olympian.",
+		"School Mission": "Kent Ridge Secondary nurtures the heart, ignites the passion and strengthens the will of all Kent Ridgeans to become individuals of exemplary character.",
+		"School Philosophy, Culture and Ethos": "The hallmark of an education at Kent Ridge is the culture of care and excellence. Guided by our philosophy that 'Every Student Counts', our passionate and dedicated staff place our students at the centre of all that we do and spare no effort to instil the right values in them. This commitment to excellence has been recognised at the national level by the awarding of the President's Award for Teachers in 2013, the nation's highest award for teachers and the Caring Teacher Award in 2010. Our holistic curriculum has also been recognised by the awarding of the Best Practice (Student All Round Development) in 2015. Kent Ridge is proud of what we have achieved in nurturing our students to be exemplary individuals who have the Heart of a Saint, Passion of an Inventor and Will of an Olympian. We look forward to scaling greater heights as we continue to go 'Beyond Frontiers'. Kent Ridge offers many opportunities for our students to learn and grow through our rich array of programmes such as the Experiential Week, KR Hands-On Day (School VIA), Entrepreneurship Fair, Project Work, the Arts Programme, Inter-class games, Speak Up, Speak Out, Speak Right Oracy Programme, Shanghai Twinning Programme, Hong Kong Immersion Programme, Overseas Learning Journeys, Sports Electives, Applied Learning Programme in Robotics and Learning for Life Programme in Sports and Outdoor Education.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CHINESE B",
+		"CHINESE N(A)",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HISTORY",
+		"HOME ECONOMICS",
+		"LITERATURE(E)",
+		"MALAY",
+		"MALAY B",
+		"MALAY N(A)",
+		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"PRINCIPLES OF A/C",
+		"PRINCIPLES OF ACCOUNTS",
+		"PROJECT WORK",
+		"SCIENCE (PHY, CHEM)",
+		"SCIENCE (SYLL T)",
+		"SOCIAL STUDIES"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton Club",
+			"Basketball Club",
+			"Floorball Club",
+			"Football Club",
+			"Sailing Club"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"Ncc (Land)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Choir",
+			"Concert Band",
+			"Dance Club",
+			"Drama Club"
+		],
+		"Clubs & Societies": [
+			"Debate Society",
+			"Earth Club",
+			"Infocomm And Robotics Club",
+			"Media Club",
+			"Media Resource Library"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Developing Computational Thinking through Robotics",
+			"Sports & Outdoor Education": "EVOKE!@KR (Educational Values of Olympism at Kent Ridge) through Sports and Outdoor Education"
+		},
+		"Special Student Development Programmes Offered": "At Kent Ridge, we are committed to providing a holistic education for all our students anchored on our school values of Fitness of Mind and Body; Integrity in Word and Deed; Respect for Self, Community and Environment and Excellence in All Our Endeavours. Students will have opportunities to take part in key programmes including: Character and Citizenship Education with a focus on personal and social life-skills; Learning for Life Programme (Sports and Outdoor Education); Applied Learning Programme (Robotics); Values-in-Action Programme; National Education; Student Leadership Development; Elective Modules; Advanced Elective Modules; Career Guidance; Internationalisation Programme; Subject-based Enrichment Modules; Family Matters! programmes; After School Engagement programmes."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Soccer",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Bronze"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Bronze"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - International": "Silver",
+					"Choir": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2015": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2016": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncdcc": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncdcc": "Bronze",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sailing (Optimist)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"80",
+				"115",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"188",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"120",
+				"120",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"78",
+				"106",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"188",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"114",
+				"131",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"69",
+				"107",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"188",
+				"222",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"121",
+				"135",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"69",
+				"106",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"189",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"154",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"87",
+				"112",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"193",
+				"228",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"154",
+				"184",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"76",
+				"158",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"105",
+				"159",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"190",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"120",
+				"156",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"197",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"115",
+				"153",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"195",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"112",
+				"158",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"199",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"107",
+				"150",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"200",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"109",
+				"155",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"203",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"104",
+				"151",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"206",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"107",
+				"158",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "127368"
+}

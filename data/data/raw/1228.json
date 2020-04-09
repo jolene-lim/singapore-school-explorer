@@ -1,0 +1,530 @@
+{
+	"code": "1228",
+	"name": "PRINCESS ELIZABETH PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1228H",
+	"logo": "./Medias/Images/Schools/logos/tn_1228.jpg",
+	"website": "http://www.princesselizabethpri.moe.edu.sg",
+	"address": "30, BUKIT BATOK WEST AVENUE 3 ( 659163 )",
+	"telephone": [
+		"65655111"
+	],
+	"fax": [
+		"65637859"
+	],
+	"email": "PEPS@MOE.EDU.SG",
+	"mrt": "Bukit Batok MRT Station",
+	"bus": "Bus 174 , 157 , 178 , 66 , 941 ",
+	"GeneralInformation": {
+		"Principal": "MDM MOLIAH BINTE HASHIM",
+		"Vice Principal": [
+			"MISS CHENG SHIN MIIN",
+			"MR LEE WEI YAP, ROY"
+		],
+		"School Vision": "Every Child an Engaged Learner, a Caring Citizen and a Steadfast Leader",
+		"School Mission": "Together, We Nurture and Inspire an Inclusive Spirit.",
+		"School Philosophy, Culture and Ethos": [
+			"School Philosophy:",
+			"Every One Can Learn, Love and Lead",
+			"School Culture:",
+			"The School embraces a Culture of Care, Innovation and Discipline, where discipline is unpacked as having the 'Disciplined People, Disciplined Thoughts, and Disciplined Actions'."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Basketball",
+			"Floorball",
+			"Football",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Brownies",
+			"Girls' Brigade",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Band - Concert",
+			"Choir",
+			"Dance - Ballet",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Ensemble - Harmonica",
+			"Ensemble - String",
+			"Orchestra - Chinese"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "ASPIRE to Serve and Lead"
+		},
+		"Special Student Development Programmes Offered": "Excellence in Character Development"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"SYF Central Judging": {
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver",
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout": "Bronze",
+					"Boys' Brigade": "Silver",
+					"Brownies": "Bronze"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies (Pack 1)": "Silver",
+					"Scout": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Bronze",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (CHERISH)"
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Harmonica": "Bronze",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2012": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (CHERISH)"
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold (Hons)",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies (Pack 1)": "Gold",
+					"Girls' Brigade": "Bronze"
+				}
+			},
+			"2013": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (CHERISH)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold (Hons)",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies (Pack 1)": "Gold",
+					"Girls' Brigade": "Bronze"
+				}
+			},
+			"2014": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment",
+					"Orchestra - Chinese": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies (Pack 1)": "Gold",
+					"Girls' Brigade": "Bronze"
+				}
+			},
+			"2015": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment",
+					"Orchestra - Chinese": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Gold",
+					"Girls' Brigade": "Silver"
+				}
+			},
+			"2016": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Outstanding Development Award": [
+					"ODA (Character Development)",
+					"ODA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies (Pack 1)": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			},
+			"2017": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"3rd",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Silver",
+					"Girls' Brigade": "Gold"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Commendation",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies": "Silver",
+					"Girls' Brigade": "Gold"
+				}
+			}
+		}
+	},
+	"postalCode": "659163"
+}

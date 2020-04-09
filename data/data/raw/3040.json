@@ -1,0 +1,645 @@
+{
+	"code": "3040",
+	"name": "BUKIT VIEW SECONDARY SCHOOL",
+	"levels": "S",
+	"uen": " T07GS3040F",
+	"logo": "./Medias/Images/Schools/logos/tn_3040.jpg",
+	"website": "http://www.bukitviewsec.moe.edu.sg",
+	"address": "16, BUKIT BATOK STREET 21 ( 659633 )",
+	"telephone": [
+		"65661990"
+	],
+	"fax": [
+		"65630945"
+	],
+	"email": "BUKITVIEW_SS@MOE.EDU.SG",
+	"mrt": "BUKIT BATOK MRT",
+	"bus": "173 , 189 , 990 ",
+	"GeneralInformation": {
+		"Principal": "MR KEVIN ANG",
+		"Vice Principal": [
+			"MISS WONG KAH WAI SHIRLEY",
+			"MR ANG CHERN KWANG KYRIS"
+		],
+		"School Vision": "A Dynamic Institution That Adds Value To All",
+		"School Mission": "To nurture Bukit Viewans to be creative, passionate and resilient learners who possess moral integrity and are responsible to self and society",
+		"School Philosophy, Culture and Ethos": "Every student matters. BVSS focuses on providing every student with a quality and meaningful school experience through a school-based total curriculum. Students enjoy learning in a positive, enriching and stimulating environment and teachers care for, grow and nurture students into wholesome, contributing and thinking individuals. Strong teacher-student relations establish an ethos of care and provide the environment to imbue students in strong moral values so that they grow and mature into confident persons, concerned citizens and active contributors - individuals with robust character and a quest for knowledge and learning.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
+		"COMPUTER APPLICATIONS",
+		"COMPUTING",
+		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"HISTORY",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Floorball",
+			"Hockey",
+			"Table Tennis",
+			"Track & Field",
+			"Volleyball"
+		],
+		"Uniformed Groups": [
+			"Girls' Brigade",
+			"Ncc (Land)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Band - Military",
+			"Choir",
+			"Dance - International",
+			"Drama - English",
+			"Media Club"
+		],
+		"Clubs & Societies": [
+			"Environmental Club",
+			"Infocom Club",
+			"Singapore Youth Flying Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Clean Energy and Environmental Technology",
+			"Music & Performing Arts": "Learning the Arts, Living the Values"
+		},
+		"Special Student Development Programmes Offered": "Learning at BVSS is centred on providing an exciting range of learning experiences to develop students' passions and prepare them to be future ready. Every Secondary 1 learner will be allocated a Chromebook to allow for 1-to-1 Personal Learning Device enabled learning. BVSS believes in developing students who take ownership of their learning and collaborate effectively with others. "
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Gold"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Land Girls)": "Silver",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Gold"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Bronze",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Boys' Brigade": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Bronze",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"AA (Academic Value-added) (Special/Express)"
+				],
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			},
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2015": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2016": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2018": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"204",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"161",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"93",
+				"111",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"207",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"88",
+				"115",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"208",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"89",
+				"110",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"206",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"194",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"71",
+				"108",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"210",
+				"227",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"62",
+				"112",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"207",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"95",
+				"151",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"204",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"163",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"113",
+				"154",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"204",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"163",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
+				"158",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"205",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"166",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
+				"157",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"204",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"106",
+				"158",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"206",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"108",
+				"150",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"203",
+				"227",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"107",
+				"151",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"205",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"195",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"205",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"199",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "659633"
+}

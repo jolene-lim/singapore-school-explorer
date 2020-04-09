@@ -1,0 +1,842 @@
+{
+	"code": "1752",
+	"name": "RIVERVALE PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1752B",
+	"logo": "./Medias/Images/Schools/logos/tn_1752.jpg",
+	"website": "http://www.rivervalepri.moe.edu.sg/",
+	"address": "80, RIVERVALE DRIVE ( 545092 )",
+	"telephone": [
+		"63887450"
+	],
+	"fax": [
+		"63887449"
+	],
+	"email": "RIVERVALE_PS@MOE.EDU.SG",
+	"mrt": "Nearest LRT Station : Rumbia",
+	"bus": "Bus Service 86.",
+	"GeneralInformation": {
+		"Principal": "MISS SEET ENG GEOK LENA",
+		"Vice Principal": "MR KNG WEE BENG",
+		"Vice Principal (Admin)": "MR KHOU BENG CHEW",
+		"School Vision": "The Rivervale - School of Excellence, Individuals of Character",
+		"School Mission": "To inspire and develop Riverlites to be responsible citizens and passionate learners.",
+		"School Philosophy, Culture and Ethos": [
+			"The school's focus on 'The Whole Child in Every Riverlite' guides the school in its decisions, actions and interactions with its stakeholders in achieving its goals. A new set of core values, Respect, Responsibility, Resilience, Integrity, Care, Harmony, Excellence and Teamwork (R3ICHET), was initiated with effect from 2017 to complement the school's existing culture of care and excellence and to emphasise its focus on CCE. Desired behaviours are constantly communicated and emphasized to encourage students to demonstrate the core values through platforms such as assembly, school programmes and learning journeys. Other programmes under CCE, IP, Student Leadership, VIA and CCAs also reinforce the teaching and learning of these core values. ",
+			"The school adopts the 'Leading by Serving' philosophy to support an inviting and vibrant school that leads by example and commits to the service for others. Staff and students practise 'Leading by Serving' through their participation in school programmes and activities: 'Keep My Classroom Clean', 'Good Morning, Rivervale!', 'A Helping towards My Friends' and 'P1 Buddying'. The school also adopts the Restorative Practice as part of its 'discipline with care' approach to help students take responsibility for their behaviour. ",
+			"The school promotes safety and social responsibility among students through the 'Keep Myself Safe' and 'Keep My Friends Safe' campaigns. EAS staff are also involved in sustaining the culture of care through providing and supporting teachers and stakeholders with excellent service to realise the school's vision of the The Rivervale - School of Excellence, Individuals of Characters."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MALAY",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"FOUNDATION TAMIL",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Athletics",
+			"Badminton",
+			"Hockey",
+			"Soccer"
+		],
+		"Uniformed Groups": [
+			"Red Cross Youth",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Brass Band",
+			"Chinese Dance",
+			"Choir",
+			"Fusion Dance",
+			"Guzheng",
+			"Indian Dance",
+			"Lion Dance",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Robotics"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Coding": "Multi-Literacy Programme (MLP)",
+			"Music & Performing Arts": "DANCE FEVER – Dance Aces Nurturing Cultural Expression For EVEry Riverlite"
+		},
+		"Special Student Development Programmes Offered": "(1) The focus of the Learning for Life Programme (LLP) is on mass participation. DANCE FEVER (Dance Appreciation Nurturing Cultural Expression For EVEry Riverlite) was reviewed and refined to encompass fitness and movement on top of cultural literacy. All students are exposed to a range of dance forms through a spiral progression of knowledge and skills training from basic level 1 to intermediate level 4. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Gold"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"SYF Central Judging": {
+					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Gold",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Gold",
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Bronze"
+				}
+			},
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2015": {
+				"Development Award": "PARTNERS (Merit)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2016": {
+				"Development Award": "PARTNERS (Merit)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band-Brass": "Distinction",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Distinction",
+					"Choir": "Commendation",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Band-Brass": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Accomplishment",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Scout": "Silver"
+				}
+			}
+		}
+	},
+	"postalCode": "545092"
+}

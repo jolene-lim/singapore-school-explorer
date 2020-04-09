@@ -1,0 +1,1010 @@
+{
+	"code": "3238",
+	"name": "GUANGYANG SECONDARY SCHOOL",
+	"levels": "S",
+	"uen": " T07GS3238F",
+	"logo": "./Medias/Images/Schools/logos/tn_3238.jpg",
+	"website": "http://guangyangsec.moe.edu.sg",
+	"address": "8, BISHAN STREET 12 ( 579807 )",
+	"telephone": [
+		"62589781"
+	],
+	"fax": [
+		"63543108"
+	],
+	"email": "gyss@moe.edu.sg",
+	"mrt": "BISHAN MRT",
+	"bus": "410 , 13 , 56 , 57 , 59 , 88 , 93 , 157 , 163 ",
+	"GeneralInformation": {
+		"Principal": "MR LIM HOCK CHUAN ALVIN",
+		"Vice Principal": [
+			"MR FATHUL RAHMAN BIN KAMSANI",
+			"MR KOH LIP KANG"
+		],
+		"Vice Principal (Admin)": "MR ANBALAGAN S/O THANGARAJAH",
+		"School Vision": "An engaged learner today, a life-long learner tomorrow.",
+		"School Mission": "GYSS - A place where learning is an enjoyable and sustainable journey.",
+		"School Philosophy, Culture and Ethos": "GYSS aspires to build a community of motivated and committed individuals. It adopts a people-centric approach to bring out the best in students and develop them into Leaders, Thinkers and Advocators. Integral to achieving this objective is the school's 'People First' culture which embraces constructive professional engagement to empower staff, build capacity and create a vibrant, caring and dynamic learning environment. Our students are encouraged to Challenge Convention and Champion their Passion through student-initiated programmes that promote self-directed learning and discovery. Students' holistic development is reinforced by the school values of 5Gs - Gracious, Giving, Grateful, Grounded and Green - which serve to imbue in our students a sense of purpose as they take ownership of their learning and responsibility for their growth.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HISTORY",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"SCIENCE (SYLL T)",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Cross Country",
+			"Football"
+		],
+		"Uniformed Groups": [
+			"Girls' Brigade",
+			"Ncc (Land)",
+			"Npcc",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Band",
+			"Choir",
+			"Dance",
+			"Drama"
+		],
+		"Clubs & Societies": [
+			"Audio Visual Club",
+			"Green Club",
+			"Infocomm Club",
+			"Outdoor Activities Club"
+		],
+		"Others": [
+			"Prefectorial Board"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Environmental Science for Sustainable Living",
+			"Music & Performing Arts": "heARTbeat -- Art for Life"
+		},
+		"Special Student Development Programmes Offered": "Both curricular and co-curricular programmes are designed to incorporate constructivist learning with the aim of providing our students with rich and authentic learning experiences. The school conducts specific level-wide programmes that are progressively facilitated to cater to the development of students. These include the Sec 1 Orientation Camp, the Sec 2 Eco-Adventure Camp, the Sec 3 Overseas Trip with a focus on understanding and appreciating rice-planting, and the symbolic Sec 4&5 Walk of Dreams from the school to Marina Barrage. Complementing these programmes is a host of signature programmes that serve to engage students meaningfully and to broaden their learning for the 21st century. These signature programmes include the Applied Learning Programme (ALP) in STEM: Environmental Science for Sustainable Living that comprises a Forensic Science Programme based on the CSI series; the Learning for Life Programme (LLP) in Aesthetics: HeARTbeat - Art for Life; the EXperiential and Authentic Learning Trail (EXALT) @ Bishan-AMK Park that promotes interdisciplinary learning through specially-designed activities conducted at different learning stations; Thank Goodness It's Friday (TGIF) Programme for NT students where the curriculum is customised to provide hands-on learning experiences in and outside school; Living Lit Up Programme at lower secondary that offers students an all-embracing Literature curriculum covering prose, poetry, play and drama; the Experience Sports @ GYSS where Sec 1 students get to experience different sports under the guidance of CCA Sports coaches; and the Sports Climbing Level 1 course for Sec 2 students which promotes ruggedness and resilience."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Scout": "Bronze"
+				}
+			},
+			"2007": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Npcc": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Bronze",
+					"Scout (Unit 1)": "Bronze",
+					"Girls' Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Bronze",
+					"Scout (Unit 1)": "Bronze"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Bronze",
+					"Scout (Unit 1)": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - International": "Silver"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Silver",
+					"Scout (Unit 1)": "Bronze",
+					"Girls' Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Commendation"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"4th"
+					],
+					[
+						"Taekwondo",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Commendation"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Band - Concert": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"4th",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"2nd",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Commendation"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Silver"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"191",
+				"220",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"182",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"66",
+				"106",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"198",
+				"220",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"155",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"76",
+				"110",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"201",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"191",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"82",
+				"112",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"203",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"69",
+				"107",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"203",
+				"234",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"85",
+				"107",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"203",
+				"231",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"184",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"152",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"195",
+				"222",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"96",
+				"153",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"195",
+				"223",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"98",
+				"158",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"197",
+				"225",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"154",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"119",
+				"150",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"194",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"100",
+				"150",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"201",
+				"229",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"93",
+				"151",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"197",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"97",
+				"151",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"189",
+				"238",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"153",
+				"190",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"109",
+				"156",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"181",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"113",
+				"155",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "579807"
+}

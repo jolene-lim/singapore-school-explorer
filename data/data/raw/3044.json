@@ -1,0 +1,789 @@
+{
+	"code": "3044",
+	"name": "BUKIT BATOK SECONDARY SCHOOL",
+	"levels": "S",
+	"uen": " T07GS3044A",
+	"logo": "./Medias/Images/Schools/logos/tn_3044.jpg",
+	"website": "http://www.bukitbatoksec.moe.edu.sg",
+	"address": "50, BUKIT BATOK WEST AVE 8 ( 658962 )",
+	"telephone": [
+		"65663121"
+	],
+	"fax": [
+		"65607006"
+	],
+	"email": "bbss@moe.edu.sg",
+	"mrt": "BUKIT BATOK MRT",
+	"bus": "66 , 157 , 174 , 174E , 178 , 506 , 941 , 991 ",
+	"GeneralInformation": {
+		"Principal": "MR PHUA HUAT CHUAN",
+		"Vice Principal": [
+			"MR MAK YEW CHONG",
+			"MR LOI GUANG YOU"
+		],
+		"School Vision": "A premier school which provides quality holistic education to every BBSSian.",
+		"School Mission": "To nurture BBSSians to be self-directed learners with abundance mentality.",
+		"School Philosophy, Culture and Ethos": "We believe every child is unique and has innate abilities to be developed. At BBSS, children are firmly at the heart of our work and we seek to develop the whole child by providing meaningful and connected learning experiences that will allow every BBSSian to develop the right values, competencies and skills to Be Our Best. Our school values - RESPECT (Reflection, Enterprise, Self-discipline, Perseverance, Empathy, Creativity, Teamwork), mission and vision, represent our collective aspirations, and guide us in how we work with our parents, community and partners to realise the potential of our students. Hence, we endeavour to build a culture of care, self-directedness and abundance mentality amongst staff and students.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BASIC TAMIL",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CHINESE N(A)",
+		"CIVICS & MORAL EDUCATION",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"ENGLISH LANGUAGE (SYLL A)",
+		"ENGLISH LANGUAGE (SYLL T)",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"LITERATURE(E)",
+		"MALAY",
+		"MALAY (SPECIAL PROGRAMME)",
+		"MALAY N(A)",
+		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE",
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES",
+		"SOCIAL STUDIES N(T)",
+		"TAMIL",
+		"TAMIL N(A)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle",
+			"Badminton",
+			"Basketball (Boys)",
+			"Cross Country",
+			"Rugby (Boys)",
+			"Softball (Girls)"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"Ncc (Land) (Boys)",
+			"Ncc (Sea)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Chinese Orchestra",
+			"Concert Band",
+			"Eldds (Drama & Debate)",
+			"Malay Dance",
+			"Modern Dance",
+			"Show Choir"
+		],
+		"Clubs & Societies": [
+			"Media & Photography Club",
+			"Pa Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Developing Proactive Problem-Solvers who care for our World through STEM",
+			"Community & Youth Leadership": "Developing Community Youth Leadership through VIA - Journey to Become RESPECTful Leaders"
+		},
+		"Special Student Development Programmes Offered": "To deliver the school mission, we adopted Arthur L. Costa's Habits of Mind (HOM) since 2003 to inculcate in BBSSians thinking dispositions. These dispositions are taught explicitly via activity-based lessons and every student would habitually practise HOM daily so as to prepare them for future challenges as self-directed learners. Our students possess the strength of character to do well academically and in their CCAs, thus actualising our school vision of providing quality holistic education. This is delivered through our LLP, Community Youth Leadership Programme, which aims to nurture RESPECTful Leaders who are self-directed in serving the community with abundance mentality. It integrates the twin pillars of Leadership Development and Values In Action (VIA) to provide BBSSians with leadership training experiences and opportunities to organise community-wide events like Blood Donation Drive, and overseas service learning expeditions as part of our Internationalisation Programme. Such projects aim to develop dispositions like \"Listening with Understanding and Empathy\" and \"Questioning and Problem Posing\". Our ALP is in the area of embedded electronics which builds upon our strength in Science, Technology, Engineering and Mathematics (STEM) to develop BBSSians as proactive problem-solvers by focusing on the application of sensor technologies, coding and mBOT robots to simple real-life scenarios. Our students' innate abilities are cultivated through our Talent Development Programme where we facilitate many student-initiated interest groups like aesthetic performances by dance groups and singers, mind games get-together with Scrabble and Rubik's Cube, technology-driven enthusiasts through drones and robotics, and communication via radio DJ shows and history. All these holistic experiences cultivate students' joy of learning thus developing their disposition of \"Remaining open to Continuous Learning\" which will prepare the students well for the future."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"3rd",
+						"2nd"
+					]
+				],
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides": "Bronze",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea)": "Silver",
+					"Npcc": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Bronze",
+					"Dance - Indian": "Gold",
+					"Dance - Malay": "Bronze",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea)": "Gold",
+					"Npcc": "Silver",
+					"St John Ambulance Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Bronze",
+					"Dance - Indian": "Gold",
+					"Dance - Malay": "Bronze",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Bronze",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea Boys)": "Silver",
+					"Npcc": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Bronze",
+					"Drama - English": "Bronze",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (National Education)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Special/Express)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold (Hons)",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (National Education)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold (Hons)",
+					"Drama - English": "Silver",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Development Award": "DA (National Education)",
+				"Achievement Award": "AA (Academic Value-added) (Special/Express)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2014": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2015": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2016": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Orchestra - Chinese": "Distinction",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Ncc (Sea)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2017": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides (Coy 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2018": {
+				"Best Practice Awards": "BPA (Staff Well-Being)",
+				"Special Awards": "LHL Award for Innovation in the Normal Course",
+				"Development Award": "DA (National Education)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Drama - English": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Gold",
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Ncc (Sea)": "Gold",
+					"Npcc (Land)": "Bronze"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"225",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"98",
+				"109",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"226",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"99",
+				"110",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"227",
+				"246",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"114",
+				"127",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"77",
+				"109",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"225",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"173",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"83",
+				"109",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"227",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"102",
+				"115",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"221",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"178",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"112",
+				"151",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"223",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"135",
+				"152",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"222",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"178",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"128",
+				"154",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"224",
+				"243",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"130",
+				"159",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"224",
+				"240",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"164",
+				"195",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"130",
+				"157",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"226",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
+				"151",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"222",
+				"241",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"115",
+				"159",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"222",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"173",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"123",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"223",
+				"253",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"127",
+				"159",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "658962"
+}

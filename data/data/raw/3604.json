@@ -1,0 +1,816 @@
+{
+	"code": "3604",
+	"name": "WOODLANDS RING SECONDARY SCHOOL",
+	"levels": "S",
+	"uen": " T07GS3604D",
+	"logo": "./Medias/Images/Schools/logos/tn_3604.jpg",
+	"website": "http://www.woodlandsringsec.moe.edu.sg",
+	"address": "10, WOODLANDS RING ROAD ( 738239 )",
+	"telephone": [
+		"63643712"
+	],
+	"fax": [
+		"63643713"
+	],
+	"email": "wrss@moe.edu.sg",
+	"mrt": "ADMIRALTY MRT",
+	"bus": "912",
+	"GeneralInformation": {
+		"Principal": "MDM NG SIEW BEE",
+		"Vice Principal": [
+			"MDM KOMATHI D/O P KESAVAN",
+			"MDM NUR HIDAYANI IBRAHIM"
+		],
+		"School Vision": "Every WRS Student is Worthy, Resilient and Selfless",
+		"School Mission": "Nurturing Self-Directed, Confident and Caring Learners",
+		"School Philosophy, Culture and Ethos": "We believe that each student is unique and whose potential can be maximised so as to contribute selflessly to society. In line with our culture of learning, the school focusses on holistic, values-driven, student development programmes to engage the hearts and minds of our learners. We are committed to providing our students with a safe and conducive learning environment to pursue their interests and strive for excellence. Staff and students are encouraged to live out the school motto: Work hard and smart, Rise to every challenge, Serve the school and community.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"ART NA LEVEL",
+		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ELECTRONICS",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MOBILE ROBOTICS",
+		"MUSIC",
+		"PHYSICS",
+		"SCIENCE",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES N(T)"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton (Boys Only)",
+			"Basketball (Boys Only)",
+			"Hockey (Boys Only)",
+			"Netball",
+			"Softball (Boys Only)",
+			"Volleyball (Girls Only)"
+		],
+		"Uniformed Groups": [
+			"National Civil Defence Cadet Corps",
+			"Ncc (Land) (Boys Only)",
+			"Npcc"
+		],
+		"Visual and Performing Arts": [
+			"Band - Symphonic",
+			"Chinese Dance",
+			"Choir",
+			"Dance - Contemporary",
+			"English Drama Club",
+			"Guzheng Ensemble",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Ava/Photography Club",
+			"Media Resource Library",
+			"Robotics Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "The Robotics Education & Enterprise (TREE)",
+			"Community & Youth Leadership": "Student Leadership Development through Involvement in the Community Programme"
+		},
+		"Special Student Development Programmes Offered": "We adopt a Values-based and Student-centric focussed curriculum where our Strategic Thrusts of Engaged Learning and Character Excellence are the common threads that bind both the academic and co-curricular programmes. True to our philosophy that every student is unique and can contribute to society, we strive to inculcate critical thinking and future-ready skills. The school's Applied Learning Programme, The Robotics Education & Enterprise  [TREE], instils in students a curiosity to learn through experimentation, questioning, problem-solving and risk-taking. Dedicated to providing authentic and engaging experiences, TREE integrates learning across disciplines such as Science, Technology, Engineering and Mathematics (STEM), and develops in students the ability to make connections with real-life problems. As an extension of learning and early exposure to possible post-secondary courses of study and future work opportunities, the school is offering Applied Subjects such as Mobile Robotics and Electronics, to Upper Secondary students. With an emphasis on building confidence and strengthening effective communication, programmes are introduced to develop Oracy and Self-Confidence through creative expression in the languages. Our Learning for Life Programme (LLP), Student Leadership Development through Involvement in the Community, aims to instil the purpose of caring for and leading others in the community through their outreach activities. Our Sec 2 students attend a CCE camp during which they demonstrate and hone their SE competencies and our Sec 3 students learn about team challenges and adaptation through OBS. By working with partners, both locally and overseas, the LLP programme is designed to help students better appreciate what they have and live out the school values of 'Responsibility, Respect & Resilience' and motto 'Serve the School and Community'."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc": "Bronze",
+					"St John Ambulance Brigade": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Bronze",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Silver",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Silver",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "AA (Academic Value-added) (Normal)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Gold",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "AA (Academic Value-added) (Normal)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Uniformed Groups)"
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Dance - Chinese": "Distinction",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2015": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2016": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2017": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			},
+			"2018": {
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"St John Ambulance Brigade": "Gold"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"205",
+				"249",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"171",
+				"193",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"97",
+				"112",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"210",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"101",
+				"112",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"210",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"104",
+				"112",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"213",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"64",
+				"112",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"216",
+				"250",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"87",
+				"122",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"217",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"114",
+				"157",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"216",
+				"247",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"176",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"142",
+				"159",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"215",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"179",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"143",
+				"157",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"217",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"174",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"130",
+				"159",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"216",
+				"248",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"175",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"138",
+				"159",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"219",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"177",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"159",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"215",
+				"237",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"172",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"126",
+				"156",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"212",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"168",
+				"199",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"130",
+				"159",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"211",
+				"245",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"170",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"133",
+				"159",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "738239"
+}

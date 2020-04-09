@@ -1,0 +1,917 @@
+{
+	"code": "1770",
+	"name": "WEST GROVE PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1770J",
+	"logo": "./Medias/Images/Schools/logos/tn_1770.jpg",
+	"website": "http://www.westgrovepri.moe.edu.sg/",
+	"address": "1, JURONG WEST ST 72 ( 649223 )",
+	"telephone": [
+		"62679234"
+	],
+	"fax": [
+		"62679235"
+	],
+	"email": "WGPS@MOE.EDU.SG",
+	"mrt": "Boon Lay MRT",
+	"bus": "Bus 99 , 242 ",
+	"GeneralInformation": {
+		"Principal": "MRS CHANDLER JAY SIVA",
+		"Vice Principal": [
+			"MR FOO CHUAN KAI",
+			"MISS PHAM HONG LIEN PHYLLIS G."
+		],
+		"School Vision": "Active Minds, Gracious Hearts",
+		"School Mission": "We aspire to create a conducive environment where pupils learn from the past, appreciate the present and prepare for the future.",
+		"School Philosophy, Culture and Ethos": [
+			"West Grove Primary School's vision statement \"Active Minds, Gracious Hearts\" was re-defined in 2006. The first part of the vision statement \"Active Minds\" was further unpacked to be referred as \"Learners with a passion for life-long learning.\" The second part of the vision statement \"Gracious Hearts\" was further unpacked to be referred as \"Concerned citizens rooted in the school's six core values: R3ICK (Respect, Responsibility, Resilience, Integrity, Commitment, Kindness)\". The vision when translated into the school motto becomes \"Wisdom\" (Active Minds) and \"Grace\" (Gracious Hearts). The school motto \"Wisdom and Grace\" (based on the school's initials) is also written on the school crest to ensure the school's vision is entrenched in the hearts and minds of all members of the school.",
+			"West Grove Primary School's mission is then \"To create a school environment where pupils learn from the past, appreciate the present and prepare for the future.\" Essentially, the school leaders aspire the school to be able to prepare our pupils for the future through the rigorous primary curriculum and actively developing their 21st Century Competencies by providing our pupils with opportunities to analyse information, communicate their thoughts and ideas, collaborate with one another to create, examine their own thinking and engage in reflection on how to be better (learn from the past). At the same time, the school aims to instil in our pupils a sense of appreciation of the people around them and the hard work that has been put in to achieve what we have as a nation today.",
+			"The school believes that Values should be the bedrock of the school's culture. The school culture is therefore defined as Caring and Learning - aligned with our school vision of Active Minds, Gracious Hearts, to demonstrate the range of behaviours, attitudes and values relevant for the holistic development of the children."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"HEALTH EDUCATION",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Football",
+			"Netball",
+			"Rope Skipping"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Brownies",
+			"Girls' Brigade",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - International",
+			"Ensemble - Guzheng"
+		],
+		"Clubs & Societies": [
+			"Book Buzz Club",
+			"Environmental Club",
+			"Infomedia Club",
+			"Wgps Robotix"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Visual Arts & Design": "Thoughtful Learning through the Arts"
+		},
+		"Special Student Development Programmes Offered": "The school believes in the holistic education of every child and that each pupil should achieve Wisdom and Grace by the time they leave West Grove."
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - International": "Silver",
+					"Ensemble - Guzheng": "Bronze"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Art & Craft (Silver)": "2 Awards",
+					"Choir": "Bronze",
+					"Dance - International": "Silver",
+					"Ensemble - Guzheng": "Bronze"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Art & Craft (Silver)": "2 Awards",
+					"Choir": "Silver",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Choir": "Silver",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Bronze"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Choir": "Bronze",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"3rd",
+						"3rd",
+						"3rd",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Boys' Brigade": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (National Education)",
+				"Sustained Achievement Award": "SAA (Sports)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"3rd",
+						"4th",
+						"3rd"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Dance - International": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Silver",
+					"Girls' Brigade": "Bronze"
+				}
+			},
+			"2014": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Commendation",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold",
+					"Girls' Brigade": "Bronze"
+				}
+			},
+			"2015": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Commendation",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Gold",
+					"Brownies (Pack 2)": "Gold",
+					"Girls' Brigade": "Silver",
+					"Scout": "Silver"
+				}
+			},
+			"2016": {
+				"Development Award": "DA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Silver",
+					"Girls' Brigade": "Silver",
+					"Scout": "Gold"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Gold"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Brownies": "Silver",
+					"Girls' Brigade": "Silver",
+					"Scout": "Gold"
+				}
+			}
+		}
+	},
+	"postalCode": "649223"
+}

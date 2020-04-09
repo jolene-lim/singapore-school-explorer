@@ -1,0 +1,1167 @@
+{
+	"code": "1238",
+	"name": "KEMING PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1238B",
+	"logo": "./Medias/Images/Schools/logos/tn_1238.jpg",
+	"website": "http://www.kemingpri.moe.edu.sg",
+	"address": "90, BUKIT BATOK EAST AVENUE 6 ( 659762 )",
+	"telephone": [
+		"68962054"
+	],
+	"fax": [
+		"65632356"
+	],
+	"email": "KMPS@MOE.EDU.SG",
+	"mrt": "Bukit Batok",
+	"bus": "61 , 66 , 77 , 106 , 157 , 174 , 178 , 963 ",
+	"GeneralInformation": {
+		"Principal": "MISS CHEW TOCK LEE",
+		"Vice Principal": [
+			"MDM ANG CHAI TING, JESSIE",
+			"MISS SARASWATHY D/O IDAMBAN"
+		],
+		"School Vision": "Enlightened Students, Enriched Citizens",
+		"School Mission": "Connecting Hearts, Engaging Minds",
+		"School Philosophy, Culture and Ethos": [
+			"We believe that",
+			"(1) Every child can learn, whatever his starting point.  We will help each child find success in learning. ",
+			"(2)  Every child is unique. Each child will therefore succeed in different ways. ",
+			"(3)  Every child needs different attributes to succeed in the future.  We will nurture the whole child. ",
+			"We provide a caring and supportive environment for our students with a focus on connecting hearts and engaging minds."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Floorball",
+			"Sepak Takraw",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art Club",
+			"Chinese Dance",
+			"Dance - International"
+		],
+		"Clubs & Societies": [
+			"Debate",
+			"Infocomm Club",
+			"International Chess",
+			"Science Club",
+			"Young Inventors' Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Sports & Outdoor Education": "Sports4All@Keming: Character Development through Sports"
+		},
+		"Special Student Development Programmes Offered": "Learning comes alive for Kemingnites through Authentic Learning@Keming.  "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Sepak Takraw",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Silver",
+					"Dance - Malay": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Floorball",
+						"2nd",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"4th",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Gold (Hons)",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Silver",
+					"Dance - International": "Bronze",
+					"Dance - Malay": "Gold (Hons)",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Bronze",
+					"Dance - Malay": "Gold",
+					"Orchestra - Chinese": "Gold"
+				}
+			},
+			"2011": {
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (CHERISH)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Bronze",
+					"Dance - Malay": "Gold",
+					"Orchestra - Chinese": "Gold"
+				}
+			},
+			"2012": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"1st",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2013": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Floorball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"1st",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - Chinese": "Gold",
+					"Dance - Malay": "Silver",
+					"Orchestra - Chinese": "Silver"
+				}
+			},
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"3rd",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				}
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"2nd",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"4th",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Dance - Malay": "Accomplishment",
+					"Dance - Chinese": "Distinction"
+				}
+			},
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)",
+					"PARTNERS (Merit)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"4th",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Chinese Orchestra-Full Orchestra": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Malay": "Accomplishment"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - International": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze"
+				}
+			}
+		}
+	},
+	"postalCode": "659762"
+}

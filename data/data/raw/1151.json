@@ -1,0 +1,928 @@
+{
+	"code": "1151",
+	"name": "MAYFLOWER PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1151E",
+	"logo": "./Medias/Images/Schools/logos/tn_1151.jpg",
+	"website": "http://www.mayflowerpri.moe.edu.sg",
+	"address": "200, ANG MO KIO AVE 5 ( 569878 )",
+	"telephone": [
+		"64520849"
+	],
+	"fax": [
+		"64534116"
+	],
+	"email": "MAYFLOWER_PS@MOE.EDU.SG",
+	"mrt": "Yio Chu Kang MRT Station.",
+	"bus": "13 , 86 , 138 , 162 , 269 , 851 , 852 , 853. ",
+	"GeneralInformation": {
+		"Principal": "MRS LIM- CHUA SIOW LING",
+		"Vice Principal": [
+			"MDM THILAGAMANI D/O T SIVANANDAM",
+			"MISS CHEE YEUNG WAI"
+		],
+		"School Vision": [
+			"Our Pupils, Exemplary Citizens of Tomorrow.",
+			"Our pupils are of sound character and imbibed with right values; love Singapore and lead and serve the community; are engaged learners who are future-ready; are physically active, living healthy lifetyles; and appreciate the Arts developing artistic dispositions"
+		],
+		"School Mission": [
+			"Touching Hearts:",
+			"We care for my pupils and lead them to believe in themselves.",
+			"Engaging Minds: ",
+			"As lead learners, we inspire our pupils to think creatively and have inquiring minds.",
+			"Nurturing Talents: ",
+			"We seek to uncover our pupils' talents and lead them to maximise their potential."
+		],
+		"School Philosophy, Culture and Ethos": [
+			"At Mayflower Primary School, we believe that the purpose of education is to prepare every child for the real world. Hence, the school recognises the importance of building a strong, broad-based education that opens up students' horizons and exposes them to varied, holistic learning experiences. Success goes beyond academic achievements as we help our pupils pursue their dreams by capitalising on their strengths, interests and talents. We strive to engage each child to discover what makes school and learning worth their time, energy and effort, thereby inspiring them to take greater ownership of their learning. ",
+			"The school aspires to build a culture of care, excellence, openness and trust. A learner is motivated to excel when there are clear, high expectations set and high levels of support provided. Setting high standards serves to keep learners engaged in a challenging task. It also enhances their confidence and self-esteem when the goals are achieved. High expectations should be accompanied by high levels of support so as to minimise frustration and abortion of plans due to early failures. Teachers are key to effective pupil learning.  We are committed to building a team of caring and excellent educators who believe in bringing out the best in each child. We place premium on establishing quality teacher-student relationships, thereby creating a safe, conducive and vibrant environment for learning. Our teachers are role models of lifelong learning who continually re-examine their professional practice and keep abreast of educational trends and development.",
+			"Nurturing the whole child is a shared responsibility between the school and family and we seek to build a strong partnership with parents to bring out the best in each child."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION CHINESE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"FOUNDATION SCIENCE",
+		"FOUNDATION TAMIL",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"HINDI",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Football",
+			"Netball",
+			"Taekwondo"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Cub Scouts",
+			"Girls' Brigade"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Choir",
+			"Dance - Chinese",
+			"Dance - Indian",
+			"Dance - Malay",
+			"Drama Club",
+			"Ensemble - Guzheng",
+			"Ensemble - String"
+		],
+		"Clubs & Societies": [
+			"Eco-Ranger Club",
+			"Infocomm Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Music & Performing Arts": "LLP@MFPS: Development of Character, Citizenship and 21CC in and through the Arts"
+		},
+		"Special Student Development Programmes Offered": "We believe that if pupils 'Make Thinking Visible' and 'Learn by Doing\", the learning process will be more engaging. Hence we adopt innovative teaching pedagogies to make learning more enjoyable and effective. The list of enrichment/signature programmes shown below is just a snapshot of what the school has to offer:"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Strings": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Red Cross": "Silver",
+					"Scout": "Gold"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Strings": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Red Cross": "Silver"
+				}
+			},
+			"2008": {
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Guzheng": "Silver",
+					"Ensemble - Strings": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Red Cross": "Bronze",
+					"Scout": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Guzheng": "Silver",
+					"Ensemble - Strings": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Red Cross": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver",
+					"Ensemble - Strings": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Netball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Silver",
+					"Ensemble - Guzheng": "Silver",
+					"Ensemble - Strings": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Guzheng": "Silver",
+					"Ensemble - Strings": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Red Cross": "Bronze",
+					"Scout": "Gold"
+				}
+			},
+			"2013": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Achievement Award": "CHERISH Award",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Dance - Indian": "Silver",
+					"Dance - Malay": "Gold",
+					"Ensemble - Guzheng": "Silver",
+					"Ensemble - Strings": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Development Award": "DA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Accomplishment",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Bronze"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"3rd",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category C": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Scout": "Bronze"
+				}
+			},
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"-",
+						"1st",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Ensemble - Strings": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold"
+				}
+			},
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Teaching and Learning)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Taekwondo (Poomsae)",
+						"4th",
+						"2nd",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Track & Field",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - Malay": "Distinction",
+					"Ensemble - Guzheng": "Accomplishment",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Gold",
+					"Scout": "Bronze"
+				}
+			}
+		}
+	},
+	"postalCode": "569878"
+}

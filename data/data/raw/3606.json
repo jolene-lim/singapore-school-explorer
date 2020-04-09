@@ -1,0 +1,1222 @@
+{
+	"code": "3606",
+	"name": "SEMBAWANG SECONDARY SCHOOL",
+	"levels": "S",
+	"uen": " T07GS3606G",
+	"logo": "./Medias/Images/Schools/logos/tn_3606.jpg",
+	"website": "http://www.sembawangsec.moe.edu.sg",
+	"address": "30, SEMBAWANG CRESCENT ( 757704 )",
+	"telephone": [
+		"67566760"
+	],
+	"fax": [
+		"67585380"
+	],
+	"email": "SEMBAWANG_SS@MOE.EDU.SG",
+	"mrt": "SEMBAWANG MRT",
+	"bus": "859 , 962 ",
+	"GeneralInformation": {
+		"Principal": "MR JASWANT SINGH",
+		"Vice Principal": [
+			"MR LEE KAH SIONG JIMMY",
+			"MR GOH KEE YONG @ GOH CHONG HENG"
+		],
+		"School Vision": "Leaders and Change-Makers",
+		"School Mission": "To nurture our learners to lead purposeful lives by guiding them to be morally upright, civic-minded, resilient, and future-ready",
+		"School Philosophy, Culture and Ethos": "We nurture our students to become Active Learners, Skilful Leaders of Self and Others, and to be Purposeful in Service.  As Active Learners, our students are self-directed, demonstrate love for learning, and are challenged to apply their learning. As Skilful Leaders, our students understand themselves better, develop influential leadership skills, learn to work collaboratively, and lead with a strong moral foundation. Through Purposeful Service, our students develop active citizenship by building strong communities in school and beyond, learning to serve others, leading in community service, and taking responsibility for the environment as global citizens. We believe that learners are best nurtured in a safe and caring environment, and we aspire for all our students to be Leaders and Change-Makers, adding value to society.  To provide a strong moral compass for our students, we develop in them the RESPIRE values (Respect, Responsibility, Integrity, Innovative Spirit, Resilience, and Empathy). We believe every child can learn and must be developed to the fullest potential.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"FOOD AND CONSUMER EDUCATION",
+		"GEOGRAPHY",
+		"HIGHER CHINESE",
+		"HISTORY",
+		"HUMANITIES (SS, GEOGRAPHY)",
+		"HUMANITIES (SS, HISTORY)",
+		"HUMANITIES (SS, LIT IN ENGLISH)",
+		"LITERATURE(E)",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"PHYSICS",
+		"PRINCIPLES OF ACCOUNTS",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"SOCIAL STUDIES N(T)",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton Team",
+			"Floorball Team",
+			"Netball Team",
+			"Soccer Team",
+			"Volleyball Team"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Girls' Brigade",
+			"National Cadet Corps (Sea)",
+			"National Police Cadet Corps"
+		],
+		"Visual and Performing Arts": [
+			"Art And Design Club",
+			"Chinese Dance",
+			"Concert Band - Sembwinds",
+			"Malay Dance"
+		],
+		"Clubs & Societies": [
+			"Audio Visual Aids Club",
+			"Mediacomm Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Languages & Humanities": "Critical & Inventive Thinking (CIT) thru Media Literacy",
+			"Community & Youth Leadership": "Developing Community Leaders through VIA and Outdoor Education"
+		},
+		"Special Student Development Programmes Offered": "Our ALP niche - Critical and Inventive Thinking through Media Literacy -  empowers students by developing their critical lens as responsible and active consumers and producers of information. Through authentic projects based in the community (Sec 1 Geographical Investigation, Sec 2 Community Concerns project, Sec 3 Social Documentary production), students develop thinking and collaborative skills, become confident communicators, and market ideas to authentic audiences, while gaining a deeper understanding of concepts through application. IT skills are developed through the elective coding programme, school-initiated PEARL project which facilitates access to independent & collaborative learning tools in ICT, and Micro-bits explorations in Science. In addition, Elective Modules and Advanced Elective Modules are mounted regularly for exploration of student talents. Our LLP niche encompasses Values in Action projects (teacher-facilitated at Lower Sec., student-initiated at Upper Sec.) which develop empathy and civic-consciousness, Outdoor Education programmes (Sec 1 Orienteering, Sec 2 Dragon boating, Sec 3 Adventure Camp) which develop resilience, and Leadership Development. The LLP strengthens student minds, bodies, and hearts, and develops in them strong direction to lead purposeful lives through meaningful and challenging pursuits. A wide range of CCAs and academic subjects are offered to cater to student abilities and interests, and classroom learning is complemented by abundant out-of-classroom learning experiences, expertly facilitated by our caring teachers."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "3 Awards"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Sea)": "Bronze"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Sepak Takraw",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"2nd",
+						"-",
+						"1st",
+						"4th"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "3 Awards",
+					"Dance - Malay": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Sea)": "Bronze",
+					"Npcc": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "2 Awards",
+					"Dance - Malay": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Ncc (Sea Boys)": "Bronze"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "2 Awards",
+					"Band - Concert": "Silver",
+					"Dance - Malay": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Sea Boys)": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Golf",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Silver",
+					"Dance - Malay": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Sea Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Achievement Award": "CHERISH Award",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Archery",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Dance - Malay": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Sea Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2012": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Achievement Award": "CHERISH Award",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Golf",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Dance - Malay": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Sea Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2013": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"CHERISH Award"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Golf",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Sea Boys)": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2014": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2015": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"1st",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Gold",
+					"Ncc (Sea)": "Silver",
+					"Npcc (Land)": "Bronze"
+				}
+			},
+			"2016": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Silver",
+					"Ncc (Sea)": "Silver",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2017": {
+				"Development Award": "DA (Character Development)",
+				"Outstanding Development Award": "ODA (National Education)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Volleyball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"4th",
+						"4th"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Silver",
+					"Ncc (Sea Boys)": "Silver",
+					"Npcc (Land)": "Silver"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Football",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Band - Concert": "Accomplishment",
+					"Dance - Malay": "Distinction"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Ncc (Sea Boys)": "Gold",
+					"Npcc (Land)": "Silver"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"119",
+				"119",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"61",
+				"107",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"188",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"183",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"73",
+				"109",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"188",
+				"223",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"196",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"78",
+				"111",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"188",
+				"224",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"162",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"71",
+				"106",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"188",
+				"257",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"114",
+				"118",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"86",
+				"121",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"189",
+				"221",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"155",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"70",
+				"149",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"189",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"97",
+				"151",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"188",
+				"227",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"197",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"110",
+				"145",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"188",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"158",
+				"198",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"122",
+				"156",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"188",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"119",
+				"154",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"188",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"120",
+				"159",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"188",
+				"226",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"160",
+				"180",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"109",
+				"151",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"188",
+				"256",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"154",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"120",
+				"152",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"221",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"187",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"120",
+				"157",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "757704"
+}

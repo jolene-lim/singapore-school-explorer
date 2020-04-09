@@ -1,0 +1,671 @@
+{
+	"code": "1168",
+	"name": "DA QIAO PRIMARY SCHOOL",
+	"levels": "P",
+	"uen": " T07GS1168D",
+	"logo": "./Medias/Images/Schools/logos/tn_1168.jpg",
+	"website": "http://www.daqiaopri.moe.edu.sg",
+	"address": "8, ANG MO KIO STREET 54 ( 569185 )",
+	"telephone": [
+		"64588225"
+	],
+	"fax": [
+		"64584028"
+	],
+	"email": "dqps@moe.edu.sg",
+	"mrt": "Ang Mo Kio",
+	"bus": "265 , 74 , 165 , 55 , 76 , 73 , 268 , 88 , 132 ",
+	"GeneralInformation": {
+		"Principal": "MRS JOYCE ANG",
+		"Vice Principal": "MR AZHAR B MOHAMED HUSSAIN",
+		"School Vision": "A Flourishing School with Happy and Confident Learners",
+		"School Mission": "Developing Students' Potential, Inculcating Moral Integrity and Social Responsibility, Nurturing Resilience and Creativity",
+		"School Philosophy, Culture and Ethos": [
+			"At Da Qiao Primary School, we believe that everyone can flourish, develop their talents/skills and become contributing citizens. Our focus on the holistic development of students is encapsulated in the school mission 'Developing Students' Potential, Inculcating Moral Integrity & Social Responsibility, Nurturing Resilience & Creativity\" as well as the school core values of CREATE, namely, Compassion, Responsibility, Enterprise, Appreciation, Teamwork and Excellence. Our teachers build quality teacher-student relationships and provide a conducive environment for learning and engagement in and out of the classroom. ",
+			"As a school, we are committed to develop \"A Flourishing School with Happy and Confident Learners\" through Positive Education (Pos Ed) and Holistic Assessment (HA). Pos Ed focuses on specific skills that empower students to strengthen their relationships, build positive emotions, and celebrate accomplishments in engaging activities that are meaningful and purposeful. The school's culture of care is strengthened through the conscious integration of the 5 tenets of wellbeing which is termed as PERMA (Positive Emotions, Engagement, Relationship, Meaning, and Accomplishment). When the the strength of every individual is harnessed consciously, resilience is nurtured in the community and the habit of mindfulness is practised by everyone, the outcome is students FEEL GOOD about themselves and they are motivated and inspired to DO GOOD towards others. ",
+			"Complementing the above, HA (which is a balanced use of formative and summative assessments) helps students to develop the skills of achievement. Students take ownership of their learning and are engaged in lessons where peers are part of the learning resource. Formative assessments in day to day lessons lead to improvements in achievements as students learn to be self-directed and independent learners."
+		],
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"HINDI",
+		"MALAY",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES",
+		"TAMIL"
+	],
+	"Cca": {},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"Community Service & Student Leadership": "FLOURISH @ DQ: Developing Character Strengths, Resilience & Mindfulness through VIA"
+		},
+		"Special Student Development Programmes Offered": "Da Qiao Primary School's Learning for Life Programme (LLP) \"FLOURISH @ DQ\" is aimed at  developing Character Strengths, Resilience & Mindfulness through Values In Action(VIA) in students. FLOURISH @ DQ focuses on enhancing wellbeing through the provision of learning experiences where values can be put into action. "
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th"
+					],
+					[
+						"",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div",
+						"'A' Div",
+						"'B' Div"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Ensemble - Harmonica": "Bronze"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Ensemble - Harmonica": "Bronze"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": "CHERISH Award",
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Silver",
+					"Ensemble - Harmonica": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Central Judging": {
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Ensemble - Harmonica": "Bronze"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Silver",
+					"Dance - Indian": "Gold",
+					"Ensemble - Harmonica": "Bronze"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Bronze"
+				}
+			},
+			"2014": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Silver"
+				}
+			},
+			"2015": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"3rd",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Silver",
+					"Scout": "Bronze"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Bronze"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver",
+					"Brownies (Pack 1)": "Silver"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Rope Skipping",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Dance - Chinese": "Accomplishment",
+					"Dance - Indian": "Distinction",
+					"Ensemble - Harmonica": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Brownies": "Silver",
+					"Scout": "Bronze"
+				}
+			}
+		}
+	},
+	"postalCode": "569185"
+}

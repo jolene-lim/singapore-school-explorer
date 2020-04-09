@@ -1,0 +1,805 @@
+{
+	"code": "3612",
+	"name": "NORTHBROOKS SECONDARY SCHOOL",
+	"levels": "S",
+	"uen": " T07GS3612F",
+	"logo": "./Medias/Images/Schools/logos/tn_3612.jpg",
+	"website": "http://www.northbrookssec.moe.edu.sg",
+	"address": "585, YISHUN RING ROAD ( 768692 )",
+	"telephone": [
+		"67524311"
+	],
+	"fax": [
+		"67566110"
+	],
+	"email": "NORTHBROOKS@MOE.EDU.SG",
+	"mrt": "YISHUN MRT, KHATIB MRT",
+	"bus": "804 , 806 , 807 , 860 , 103 ",
+	"GeneralInformation": {
+		"Principal": "MR CHAN CHOON LOONG",
+		"Vice Principal": [
+			"MRS VENKATRAMAN CHITHRA",
+			"MR ADAM BIN AHMAD"
+		],
+		"School Vision": "Every Brooksian a Champion, Impacting the Community.",
+		"School Mission": "To empower Brooksians to develop a passion for learning, strong moral values and a keen sense of duty and community.",
+		"School Philosophy, Culture and Ethos": "Our school motto, Soaring Yet Rooted, challenges our students to SOAR to greater heights whilst staying ROOTED in strong values and to be motivated to excel, lead and serve. We aim for all students to strive for their very best in whatever they do and always be grateful to the people who have helped them in their journey. The school aims to imbue in every Brooksian our core values of Graciousness, Integrity, Fortitude, Teamwork, Empathy and Discipline (G.I.F.T.E.D) in their Brooksian education experience. Guided by this core mission, our purpose is to make a conscious effort to design a plethora of deep learning experiences and quality interactions within the school and beyond for our students to explore, and thereby discover and ultimately maximise their potential.",
+		"Type of School": "GOVERNMENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ADDITIONAL MATHEMATICS",
+		"ART NA LEVEL",
+		"ART NT LEVEL",
+		"ART 'O' LEVEL",
+		"BASIC CHINESE",
+		"BASIC MALAY",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CHINESE B",
+		"CHINESE N(A)",
+		"CIVICS & MORAL EDUCATION",
+		"COMBINED HUMANITIES (S,G)",
+		"COMBINED HUMANITIES (S,H)",
+		"COMBINED HUMANITIES (S,L)",
+		"COMPUTER APPLICATIONS",
+		"DESIGN & TECHNOLOGY",
+		"ELEMENTS OF BUSINESS SKILLS",
+		"ENGLISH LANGUAGE",
+		"FOOD & NUTRITION",
+		"FOOD STUDIES, N LEVEL",
+		"MALAY",
+		"MALAY N(A)",
+		"MATHEMATICS",
+		"MATHEMATICS (SYLLABUS A)",
+		"MATHEMATICS (SYLLABUS T)",
+		"PHYSICS",
+		"SCIENCE (CHEM, BIO)",
+		"SCIENCE (PHY, CHEM)",
+		"SCIENCE (SYLL T)",
+		"SOCIAL STUDIES"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Floorball"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Ncc(Air)",
+			"Npcc",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Concert Band",
+			"Drama Club",
+			"Environmental Art Club",
+			"Guzheng Ensemble",
+			"Modern Dance",
+			"Photography Club"
+		],
+		"Clubs & Societies": [
+			"Audio Visual Aids Club",
+			"Infocomm Club",
+			"Northbrooks Youth Flying Club",
+			"Outdoor Activities Club"
+		],
+		"Others": [
+			"Students' Council"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Not Available"
+		],
+		"School Distinctive Programmes": {
+			"STEM": "Northbrooks Aerospace Programme (Applied Learning In Aerospace)",
+			"Sports & Outdoor Education": "Northbrooks Outdoor Education: Adventure, Character, Environment (A.C.E.) Programme"
+		},
+		"Special Student Development Programmes Offered": "The school offers a variety of programmes to widen the students' learning experiences for greater development in cognitive, social-moral, leadership, physical and aesthetic domains. The school's distinctive Applied Learning Programme (ALP) in Aerospace, together with many related partners, provides our students an edge when applying for aerospace-related courses which in turn opens a career pathway for them in the rapidly growing aerospace industry. All Lower Secondary students are equipped with basic knowledge in aerospace topics and essential STEM skills. Our Learning for Life Programme (LLP) in Outdoor Education which is known as A.C.E (Adventure-Character-Environment) aims to develop character, inculcate values of grit and resilience and build leadership traits in all students, as they learn adventure skills such as orienteering as well as cultivate an appreciation for the environment. Students who excel at the various adventure skills may have the opportunity to participate in various competitions. In addition, the Stained Glass Art Programme empowers the students to express their creativity and develop their spirit of innovation. As the making of stained glass artwork requires skill and patience, students working in teams will develop fortitude while learning to value each other's strengths. Northbrooks offers a range of Values-in-Action opportunities for all students.  All students take part in Recyclatron, an annual recycling activity which allows students to spread the message of recycling.  The Secondary Two students undergo a learning journey to VWOs to learn the fundamentals of Service Learning.  This culminates in the Secondary Three student-initiated service learning project. The Whole-School Approach to Effective Communication (WSA-EC) aims to build students' competencies in communicating in English by raising students' interest and motivation in reading and speaking good English through specific learning activities."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {},
+			"2006": {
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Girl Guides": "Bronze",
+					"Girls' Brigade": "Bronze",
+					"Npcc": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Npcc": "Bronze",
+					"Red Cross": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Bronze"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2009": {
+				"SYF Central Judging": {
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Gold",
+					"Girls' Brigade": "Bronze",
+					"Npcc": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2010": {
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2011": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - International": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Bronze",
+					"Girls' Brigade": "Bronze",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Silver"
+				}
+			},
+			"2012": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Bronze",
+					"Dance - International": "Bronze",
+					"Drama - English": "Bronze",
+					"Ensemble - Guzheng": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Girl Guides (Coy 1)": "Silver",
+					"Girls' Brigade": "Bronze",
+					"Ncc (Land Boys)": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2013": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"Achievement Award": [
+					"AA (Academic Value-added) (Normal)",
+					"CHERISH Award"
+				],
+				"Sustained Achievement Award": "SAA (Uniformed Groups)",
+				"SYF Arts Presentation": {
+					"Band - Concert": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2014": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Girls' Brigade": "Silver",
+					"Boys' Brigade": "Silver",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			},
+			"2015": {
+				"Development Award": [
+					"DA (Character Development)",
+					"DA (National Education)"
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2016": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Commendation",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2017": {
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze",
+					"Girls' Brigade": "Silver",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Bronze",
+					"Red Cross": "Gold"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Dance - International": "Accomplishment",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guzheng": "Accomplishment"
+				},
+				"Best Unit Award": {
+					"Ncc (Air Boys)": "Silver",
+					"Boys' Brigade": "Bronze",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"188",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"116",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"66",
+				"110",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"191",
+				"224",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"122",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"67",
+				"105",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"188",
+				"242",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"129",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"72",
+				"108",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"131",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"61",
+				"109",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"188",
+				"244",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"113",
+				"136",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"64",
+				"111",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"188",
+				"235",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"185",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"83",
+				"151",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"188",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"74",
+				"151",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"188",
+				"232",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"80",
+				"151",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"188",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"157",
+				"184",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"94",
+				"155",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"188",
+				"239",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"186",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"103",
+				"155",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"188",
+				"236",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"192",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"111",
+				"150",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"188",
+				"248",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"159",
+				"189",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"116",
+				"151",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"188",
+				"233",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"152",
+				"183",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"124",
+				"154",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"188",
+				"230",
+				"None-posted"
+			],
+			"Normal Academic": [
+				"156",
+				"188",
+				"None-posted"
+			],
+			"Normal Technical": [
+				"131",
+				"153",
+				"None-posted"
+			]
+		}
+	},
+	"postalCode": "768692"
+}

@@ -1,0 +1,1098 @@
+{
+	"code": "5168",
+	"name": "KONG HWA SCHOOL",
+	"levels": "P",
+	"uen": " T07GS5168A",
+	"logo": "./Medias/Images/Schools/logos/tn_5168.jpg",
+	"website": "http://www.konghwa.moe.edu.sg",
+	"address": "350, GUILLEMARD ROAD ( 399772 )",
+	"telephone": [
+		"63421195"
+	],
+	"fax": [
+		"63421120"
+	],
+	"email": "KONGHWA_SCH@MOE.EDU.SG",
+	"mrt": "Dakota",
+	"bus": "Service 7 , 70 , 70M , 197(to Guillemard Road) ",
+	"GeneralInformation": {
+		"Principal": "MDM CHUA YE LING",
+		"Vice Principal": "MDM FOO MEI PING",
+		"Vice Principal (Admin)": "MR CHONG YEW BUN EDWARD",
+		"School Vision": "Learning with Perseverance, Serving with Sincerity.",
+		"School Mission": "To bring out the best in every Kong Hwaian and to inculcate in him sound moral values and a passion to learn and serve.",
+		"School Philosophy, Culture and Ethos": "We are guided by the school motto, \"Sincerity and Perseverance\", a common motto shared by the 6 affiliated schools under the Singapore Hokkien Huay Kuan. With the Chinese school background, rich heritage and the emphasis on inculcating moral values, the school is poised to be a Special Assistance Plan (SAP) School that carries the mission to preserve Chinese culture and values and to promote bilingualism and biculturalism. We aim to develop our students holistically in the 5 domains - moral, cognitive, physical, social and aesthetic.",
+		"Type of School": "GOVERNMENT-AIDED SCH / CO-ED SCHOOL / SINGLE SESSION",
+		"Mother Tongue": "Chinese",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"CHINESE",
+		"CIVICS & MORAL EDUCATION",
+		"CO-CURRICULAR ACTIVITIES",
+		"ENGLISH LANGUAGE",
+		"FOUNDATION ENGLISH",
+		"FOUNDATION MATHEMATICS",
+		"HEALTH EDUCATION",
+		"HIGHER CHINESE",
+		"MATHEMATICS",
+		"MUSIC",
+		"PHYSICAL EDUCATION",
+		"SCIENCE",
+		"SOCIAL STUDIES"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Badminton",
+			"Basketball",
+			"Netball",
+			"Table Tennis",
+			"Tchoukball",
+			"Wushu"
+		],
+		"Uniformed Groups": [
+			"Brownies",
+			"Scouts"
+		],
+		"Visual and Performing Arts": [
+			"Art And Craft Club",
+			"Chinese Calligraphy And Brush Painting",
+			"Choir",
+			"Dance - Chinese",
+			"Drama - English",
+			"Ensemble - Guzheng",
+			"Orchestra - Chinese"
+		],
+		"Clubs & Societies": [
+			"Chess Club - Chinese",
+			"Chess Club - International",
+			"Infocom Club",
+			"Weiqi Club"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"SAP"
+		],
+		"School Distinctive Programmes": {
+			"Languages": "Every Pupil an Effective Communicator",
+			"Sports & Outdoor Education": "Exposure-Experience-Excel through Sports"
+		},
+		"Special Student Development Programmes Offered": "Our SAP Flagship programme enhances the learning of Chinese Language and promote awareness and appreciation of Chinese culture through a structured 6-year programme. Part of the flagship programme is an overseas immersion programme that provides our students an opportunity to"
+	},
+	"AchievementHistory": {
+		"Primary": {
+			"2005": {},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"3rd",
+						"-"
+					],
+					[
+						"Badminton",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Ensemble - Guzheng": "Silver",
+					"Orchestra - Chinese": "Gold (Hons)"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"3rd",
+						"-",
+						"3rd",
+						"1st",
+						"1st",
+						"3rd"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Bronze",
+					"Dance - Chinese": "Silver",
+					"Ensemble - Guzheng": "Silver",
+					"Orchestra - Chinese": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Bronze"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"3rd",
+						"-",
+						"1st",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Ensemble - Guzheng": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Scout": "Silver"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"2nd",
+						"-",
+						"4th",
+						"-",
+						"1st",
+						"4th",
+						"4th",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold)": "2 Awards",
+					"Art & Craft (Silver)": "2 Awards",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Ensemble - Guzheng": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Silver",
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"2nd",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"3rd",
+						"1st",
+						"1st",
+						"1st"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold)": "2 Awards",
+					"Art & Craft (Silver)": "2 Awards",
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Ensemble - Guzheng": "Silver",
+					"Orchestra - Chinese": "Gold (Hons)"
+				}
+			},
+			"2011": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"3rd",
+						"-",
+						"2nd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Bronze",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold",
+					"Ensemble - Guzheng": "Silver",
+					"Orchestra - Chinese": "Gold (Hons)"
+				}
+			},
+			"2012": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"2nd",
+						"-",
+						"2nd",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"2nd",
+						"1st"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Choir": "Gold",
+					"Dance - Chinese": "Gold (Hons)",
+					"Ensemble - Guzheng": "Gold",
+					"Orchestra - Chinese": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies (Pack 1)": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2013": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"4th",
+						"1st",
+						"3rd",
+						"2nd",
+						"3rd",
+						"1st",
+						"2nd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"1st",
+						"3rd",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Choir": "Gold",
+					"Dance - Chinese": "Gold (Hons)",
+					"Ensemble - Guzheng": "Gold",
+					"Orchestra - Chinese": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Silver"
+				}
+			},
+			"2014": {
+				"School Distinction Awards": "SDA",
+				"Best Practice Awards": "BPA (Teaching and Learning)",
+				"Development Award": [
+					"DA (Character Development)",
+					"PARTNERS (Merit)"
+				],
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"2nd",
+						"4th",
+						"1st"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"3rd",
+						"2nd",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout": "Silver",
+					"Boys' Brigade": "Gold",
+					"Brownies (Pack 1)": "Silver"
+				}
+			},
+			"2015": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"2nd",
+						"2nd",
+						"1st",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"1st",
+						"2nd"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies (Pack 1)": "Bronze",
+					"Scout": "Gold"
+				}
+			},
+			"2016": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"3rd",
+						"2nd",
+						"2nd",
+						"3rd",
+						"1st",
+						"1st"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"2nd",
+						"2nd",
+						"1st"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2017": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"4th",
+						"4th",
+						"-",
+						"2nd",
+						"1st",
+						"2nd",
+						"3rd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"2nd",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Accomplishment",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Scout": "Silver"
+				}
+			},
+			"2018": {
+				"School Distinction Awards": "SDA",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior",
+						"Junior",
+						"Senior"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"3rd",
+						"2nd",
+						"1st",
+						"2nd"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"4th",
+						"3rd",
+						"1st",
+						"1st",
+						"1st",
+						"1st",
+						"1st"
+					],
+					[
+						"Taekwondo (Kyorugi)",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition",
+					"Art - Category B": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Ensemble - Guzheng": "Distinction",
+					"Choir": "Commendation"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Brownies": "Silver"
+				}
+			}
+		}
+	},
+	"postalCode": "399772"
+}

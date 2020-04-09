@@ -1,0 +1,7030 @@
+{
+	"code": "3009",
+	"name": "RAFFLES INSTITUTION",
+	"levels": "SJT",
+	"uen": " T07GS3009E",
+	"logo": "./Medias/Images/Schools/logos/tn_3009.jpg",
+	"website": "http://www.ri.edu.sg",
+	"address": "1, RAFFLES INSTITUTION LANE ( 575954 )",
+	"telephone": [
+		"64199242"
+	],
+	"fax": [
+		"64199238"
+	],
+	"email": "comms@ri.edu.sg",
+	"mrt": "BISHAN MRT, MARYMOUNT MRT",
+	"bus": "410 , 13 , 50 , 52 , 53 , 54 , 55 , 56 , 57 , 58 , 59 , 71 , 74 , 88 , 93 , 128 , 130 , 132 , 156 , 157 , 162 , 163 , 165 , 166 , 167 , 851 , 852 , 855 , 980 ",
+	"GeneralInformation": {
+		"Principal": "MR YEO KOK PENG FREDERICK",
+		"Vice Principal": [
+			"MR MAGENDIRAN K SINATHURAI",
+			"MDM THOR POH SIN THERESA",
+			"MRS REAVLEY MUNN YE",
+			"MR ANG PENG SIONG BRIAN LAGMAN",
+			"MR EDWARD NG",
+			"MR CHEN ZIYANG"
+		],
+		"School Vision": "To be the 'Hope of a Better Age', as encapsulated in the school's Latin motto, Auspicium Melioris Aevi.",
+		"School Mission": "Nurturing Thinkers, Leaders and Pioneers of character who serve by leading and lead in serving.",
+		"School Philosophy, Culture and Ethos": "Founded in 1823, Raffles Institution (RI) provides its students with an all-round education through its integrated six-year Raffles Programme, which leads to the GCE A-Level certification for boys aged 13 to 18 and girls aged 17 to 18. Modelled on exemplary gifted education principles and practices for high-ability learners, the programme lays a solid foundation for critical thinking, innovation and character development. The Cognitive development domain of the programme is based on the GCE A-Level subject specialisations with extended enrichment modules. Through a wide spectrum of programmes, students are nurtured in this and four other domains of life: Character and Leadership; Community and Citizenship; Sports and Health, and Arts and Aesthetics. RI's special focus is on Character and Leadership development, particularly in giving back to the community. The Raffles Programme develops students into thinkers, leaders and pioneers, who understand that the basis of leadership is service, and actively seek to serve others. Students will come to a greater awareness of their talents and gifts, and learn where and how to put these talents to their best use.",
+		"Type of School": "INDEPENDENT SCHOOL / CO-ED SCHOOL / SINGLE SESSION",
+		"IP Partner Schools": "RAFFLES GIRLS' SCHOOL (SECONDARY)",
+		"Mother Tongue": "Chinese / Malay / Tamil",
+		"Affiliated Schools": "Not Applicable"
+	},
+	"SubjectOffered": [
+		"ART",
+		"BIOLOGY",
+		"CHEMISTRY",
+		"CHINESE",
+		"CHINESE (SPECIAL PROGRAMME)",
+		"Computer Studies",
+		"Design Thinking",
+		"ENGLISH LANGUAGE",
+		"FRENCH",
+		"GEOGRAPHY",
+		"GERMAN",
+		"HIGHER CHINESE",
+		"HIGHER MALAY",
+		"HIGHER TAMIL",
+		"HISTORY",
+		"JAPANESE",
+		"LITERATURE(E)",
+		"MALAY",
+		"MALAY (SPECIAL PROGRAMME)",
+		"MATHEMATICS",
+		"MUSIC",
+		"Philosophy",
+		"PHYSICS",
+		"Research Education",
+		"SOCIAL STUDIES",
+		"SPANISH",
+		"TAMIL"
+	],
+	"Cca": {
+		"Physical Sports": [
+			"Air Rifle / Air Pistol",
+			"Badminton",
+			"Basketball",
+			"Cricket",
+			"Cross Country",
+			"Fencing",
+			"Floorball",
+			"Hockey",
+			"Judo",
+			"Rugby",
+			"Sailing",
+			"Shooting",
+			"Softball",
+			"Squash",
+			"Swimming",
+			"Table Tennis",
+			"Tennis",
+			"Track & Field",
+			"Water Polo"
+		],
+		"Uniformed Groups": [
+			"Boys' Brigade",
+			"Ncc (Land)",
+			"Npcc",
+			"Raffles 01 & 02 Scouts",
+			"Raffles Scouts",
+			"Red Cross",
+			"Red Cross Youth"
+		],
+		"Visual and Performing Arts": [
+			"Guitar Ensemble",
+			"Raffles Photography & Arts Club",
+			"Raffles Players",
+			"Raffles Voices",
+			"Rico (Ri Chinese Orchestra)",
+			"Rimb (Ri Military Band)",
+			"String Ensemble"
+		],
+		"Clubs & Societies": [
+			"Astronomy Club",
+			"Chess Club",
+			"Chinese Cultural Club",
+			"Chinese Drama Circle / Literary Club",
+			"Humanities Club",
+			"Indian Cultural Club",
+			"Infocomm Club",
+			"Interact Club",
+			"Malay Cultural Club",
+			"Mathematics Club",
+			"Raffles Archives & Museum",
+			"Raffles Debaters",
+			"Raffles Publications",
+			"Science Club"
+		],
+		"Others": [
+			"House Appointment",
+			"Prefectorial Board"
+		]
+	},
+	"SpecialProgrammes": {
+		"MOE Programmes": [
+			"Integrated Programme",
+			"Gifted Education Programme",
+			"LANGUAGE ELECTIVE PROGRAMME (ENGLISH)",
+			"MUSIC ELECTIVE PROGRAMME"
+		],
+		"Special Student Development Programmes Offered": "Character & Leadership Education Programme, Regional Studies Programme (RSP), Raffles Academy (for students with an exceptional aptitude in specific subjects), GAP Semester (a self-directed curriculum where students receive structured mentoring and gain knowledge of both local issues and global solutions), Raffles Boarding Programme, Raffles Science Institute (e.g. in-house research electives, external research attachments), E W Barker Institute of Sports (Sports Science Programme), RI Lecture Series (a Cabinet Minister is invited to speak to students) and RI Ambassador Series (an ambassador is invited to speak to students)."
+	},
+	"AchievementHistory": {
+		"Secondary": {
+			"2005": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track and Field",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold (Hons)",
+					"Drama": "Gold (Hons)",
+					"Chinese Orchestra": "Silver",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Concert Band": "Gold (Hons)"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Red Cross": "Gold",
+					"NPCC": "Silver",
+					"Scout": "Silver",
+					"NCC (Land Boys)": "Gold"
+				}
+			},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art & Craft (Gold)": "1 Award"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc": "Gold",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold (Hons))": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Band - Concert": "Gold",
+					"Choir": "Gold",
+					"Drama - Chinese": "Silver",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Gold (Hons)",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc": "Silver",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Silver",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"4th",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold)": "1 Award",
+					"Band - Concert": "Gold",
+					"Choir": "Gold",
+					"Drama - Chinese": "Silver",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Gold (Hons)",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Gold)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Malay": "Silver",
+					"Drama - Chinese": "Gold",
+					"Drama - English": "Silver",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Strings": "Gold",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc": "Bronze",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"4th",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Silver",
+					"Choir": "Gold",
+					"Dance - Malay": "Silver",
+					"Drama - Chinese": "Gold",
+					"Drama - English": "Silver",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Strings": "Gold",
+					"Orchestra - Chinese": "Silver"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2011": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Organisational Effectiveness)",
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Gold",
+					"Choir": "Gold (Hons)",
+					"Dance - Malay": "Silver",
+					"Drama - Chinese": "Silver",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Gold (Hons)",
+					"Ensemble - Strings": "Gold",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2012": {
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"4th",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Gold",
+					"Choir": "Gold (Hons)",
+					"Dance - Malay": "Silver",
+					"Drama - Chinese": "Silver",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Gold (Hons)",
+					"Ensemble - Strings": "Gold",
+					"Orchestra - Chinese": "Gold"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold",
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold"
+				}
+			},
+			"2013": {
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)",
+					"SAA (Uniformed Groups)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Art & Craft (Gold)": "1 Award",
+					"Art & Craft (Silver)": "1 Award",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Scout (Unit 2)": "Gold",
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold"
+				}
+			},
+			"2014": {
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"4th",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Accomplishment",
+					"Choir": "Distinction",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				},
+				"Best Unit Award": {
+					"Red Cross": "Gold",
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2015": {
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"4th",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2016": {
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"3rd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Optimist)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Silver",
+					"Npcc (Land)": "Silver",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Optimist)",
+						"-",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Art - Category B": "Recognition",
+					"Band - Concert": "Distinction",
+					"Choir": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Drama - Multi-Lingual": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Gold",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"National",
+						"National",
+						"Zone",
+						"Zone",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls",
+						"Boys",
+						"Boys",
+						"Girls",
+						"Girls"
+					],
+					[
+						"",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div",
+						"'B' Div",
+						"'C' Div"
+					],
+					[
+						"Badminton",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"4th",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Byte)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing (Optimist)",
+						"-",
+						"1st",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"2nd",
+						"-",
+						"-",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"3rd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"1st",
+						"4th",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"2nd",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category A": "Recognition(Sm)",
+					"Band - Concert": "Distinction",
+					"Drama - English": "Accomplishment",
+					"Drama - Multi-Lingual": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Ensemble - Strings": "Distinction",
+					"Choir": "Distinction"
+				},
+				"Best Unit Award": {
+					"Boys' Brigade": "Gold",
+					"Ncc (Land Boys)": "Gold",
+					"Npcc (Land)": "Gold",
+					"Red Cross": "Silver",
+					"Scout (Unit 1)": "Gold",
+					"Scout (Unit 2)": "Gold"
+				}
+			}
+		},
+		"Junior College": {
+			"2005": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Hockey",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Track and Field",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Gold",
+					"Chinese Orchestra": "Gold",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Gold",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Gold (Hons)"
+				}
+			},
+			"2006": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Tenpin Bowling",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"4th",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"2nd",
+						"-",
+						"2nd"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"2nd",
+						"-",
+						"1st"
+					],
+					[
+						"Softball",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Artistic)",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Drama - English": "Gold"
+				}
+			},
+			"2007": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Gold (Hons)",
+					"Drama - English": "Gold",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold"
+				}
+			},
+			"2008": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Choir": "Silver",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Gold",
+					"Dance - International": "Gold (Hons)",
+					"Drama - Chinese": "Gold",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold",
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Gold"
+				}
+			},
+			"2009": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Wushu",
+						"-",
+						"4th",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "1 Award",
+					"Band - Concert": "Gold",
+					"Choir": "Gold",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Gold (Hons)",
+					"Dance - Malay": "Silver",
+					"Drama - Chinese": "Gold",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold"
+				}
+			},
+			"2010": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Soccer",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Choir": "Gold",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Gold (Hons)",
+					"Dance - Malay": "Silver",
+					"Drama - English": "Gold",
+					"Ensemble - Guitar": "Gold",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold"
+				}
+			},
+			"2011": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Organisational Effectiveness)",
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Archery",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"4th",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Band - Concert": "Gold",
+					"Choir": "Gold (Hons)",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Gold (Hons)",
+					"Dance - Malay": "Gold",
+					"Drama - Chinese": "Gold",
+					"Drama - English": "Gold",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold (Hons)"
+				}
+			},
+			"2012": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"4th",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Rhythmic)",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Central Judging": {
+					"Art & Craft (Bronze)": "3 Awards",
+					"Art & Craft (Gold (Hons))": "2 Awards",
+					"Band - Concert": "Gold",
+					"Choir": "Gold (Hons)",
+					"Dance - Chinese": "Gold (Hons)",
+					"Dance - Indian": "Gold (Hons)",
+					"Dance - International": "Gold (Hons)",
+					"Dance - Malay": "Gold",
+					"Drama - Chinese": "Silver",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Silver",
+					"Ensemble - Harmonica": "Silver",
+					"Ensemble - Strings": "Gold (Hons)",
+					"Orchestra - Chinese": "Gold (Hons)"
+				}
+			},
+			"2013": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": [
+					"SAA (Aesthetics)",
+					"SAA (Sports)"
+				],
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"3rd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Orchestra - Chinese": "Distinction",
+					"Art & Craft (Bronze)": "3 Awards",
+					"Art & Craft (Gold (Hons))": "2 Awards",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Gold (Hons)",
+					"Ensemble - Guitar": "Distinction"
+				}
+			},
+			"2014": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sustained Achievement Award": "SAA (Aesthetics)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Hockey",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Badminton",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"3rd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Choir": "Distinction",
+					"Dance - Chinese": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Dance - Malay": "Accomplishment",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Orchestra - Chinese": "Distinction"
+				}
+			},
+			"2015": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"4th",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Accomplishment",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				}
+			},
+			"2016": {
+				"School Excellence Awards": "SEA",
+				"Best Practice Awards": [
+					"BPA (Staff Well-Being)",
+					"BPA (Student All-Round Development)",
+					"BPA (Teaching and Learning)"
+				],
+				"Special Awards": "LKY (NE) Award",
+				"Development Award": "PARTNERS (Merit)",
+				"Outstanding Development Award": "ODA (Character Development)",
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Gymnastics (Trampoline)",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"3rd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Accomplishment",
+					"Orchestra - Chinese": "Distinction"
+				}
+			},
+			"2017": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Canoeing",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"3rd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Football",
+						"-",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"-",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition(Sm)",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Choir": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Distinction",
+					"Ensemble - Guitar": "Distinction",
+					"Dance - International": "Distinction"
+				}
+			},
+			"2018": {
+				"Sports & Games Competition": [
+					[
+						"",
+						"National",
+						"National",
+						"Zone",
+						"Zone"
+					],
+					[
+						"",
+						"Boys",
+						"Girls",
+						"Boys",
+						"Girls"
+					],
+					[
+						"",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div",
+						"'A' Div"
+					],
+					[
+						"Badminton",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Basketball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Cricket",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Cross Country",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Fencing",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Floorball",
+						"1st",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Golf",
+						"1st",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Hockey",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Judo",
+						"2nd",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Netball",
+						"-",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Rugby",
+						"2nd",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Sailing",
+						"1st",
+						"-",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Pistol)",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Shooting (Air Rifle)",
+						"1st",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Softball",
+						"2nd",
+						"3rd",
+						"-",
+						"-"
+					],
+					[
+						"Squash",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Swimming",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Table Tennis",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tennis",
+						"2nd",
+						"1st",
+						"-",
+						"-"
+					],
+					[
+						"Tenpin Bowling",
+						"4th",
+						"2nd",
+						"-",
+						"-"
+					],
+					[
+						"Track & Field",
+						"2nd",
+						"4th",
+						"-",
+						"-"
+					],
+					[
+						"Waterpolo",
+						"1st",
+						"1st",
+						"-",
+						"-"
+					]
+				],
+				"SYF Arts Presentation": {
+					"Art - Category C": "Recognition",
+					"Chinese Orchestra-Full Orchestra": "Distinction",
+					"Dance - Indian": "Distinction",
+					"Dance - International": "Distinction",
+					"Drama - Chinese": "Commendation",
+					"Drama - English": "Accomplishment",
+					"Ensemble - Guitar": "Distinction",
+					"Choir": "Distinction"
+				}
+			}
+		}
+	},
+	"PsleAggregateHistory": {
+		"2005": {
+			"Express": [
+				"262",
+				"285",
+				"None-posted"
+			]
+		},
+		"2006": {
+			"Express": [
+				"262",
+				"277",
+				"None-posted"
+			]
+		},
+		"2007": {
+			"Express": [
+				"261",
+				"280",
+				"None-posted"
+			]
+		},
+		"2008": {
+			"Express": [
+				"263",
+				"287",
+				"None-posted"
+			]
+		},
+		"2009": {
+			"Express": [
+				"262",
+				"284",
+				"None-posted"
+			]
+		},
+		"2010": {
+			"Express": [
+				"259",
+				"283",
+				"None-posted"
+			]
+		},
+		"2011": {
+			"Express": [
+				"259",
+				"275",
+				"None-posted"
+			]
+		},
+		"2012": {
+			"Express": [
+				"261",
+				"273",
+				"None-posted"
+			]
+		},
+		"2013": {
+			"Express": [
+				"263",
+				"284",
+				"None-posted"
+			]
+		},
+		"2014": {
+			"Express": [
+				"259",
+				"271",
+				"None-posted"
+			]
+		},
+		"2015": {
+			"Express": [
+				"256",
+				"275",
+				"None-posted"
+			]
+		},
+		"2016": {
+			"Express": [
+				"261",
+				"276",
+				"None-posted"
+			]
+		},
+		"2017": {
+			"Express": [
+				"260",
+				"278",
+				"None-posted"
+			]
+		},
+		"2018": {
+			"Express": [
+				"257",
+				"279",
+				"None-posted"
+			]
+		}
+	},
+	"L1R5History": {
+		"2005": {},
+		"2006": {},
+		"2007": {},
+		"2008": {},
+		"2009": {},
+		"2010": {},
+		"2011": {},
+		"2012": {},
+		"2013": {
+			"Arts": [
+				"2",
+				"3"
+			],
+			"Science/IB": [
+				"2",
+				"3"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2014": {
+			"Arts": [
+				"2",
+				"4"
+			],
+			"Science/IB": [
+				"2",
+				"3"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2015": {
+			"Arts": [
+				"2",
+				"4"
+			],
+			"Science/IB": [
+				"2",
+				"3"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2016": {
+			"Arts": [
+				"2",
+				"4"
+			],
+			"Science/IB": [
+				"2",
+				"3"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2017": {
+			"Arts": [
+				"2",
+				"4"
+			],
+			"Science/IB": [
+				"2",
+				"4"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		},
+		"2018": {
+			"Arts": [
+				"2",
+				"5"
+			],
+			"Science/IB": [
+				"2",
+				"5"
+			],
+			"Commerce": [
+				"-",
+				"-"
+			]
+		}
+	},
+	"postalCode": "575954"
+}
