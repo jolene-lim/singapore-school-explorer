@@ -1,0 +1,64 @@
+---
+title: "Networks explorer"
+author: "Clinton, Jolene"
+date: "10 April 2020"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+library(igraph)
+
+subjects_offered = subjects_offered %>% left_join(general_information_of_schools %>% select(school_name, mainlevel_code)) %>% 
+  mutate(subject_desc = paste(subject_desc,"-",mainlevel_code)) %>%
+  select(school_name, subject_desc)
+```
+
+```{r}
+df = merge(subjects_offered, subjects_offered, by = "subject_desc") %>%
+    group_by(school_name.x, school_name.y) %>%
+    summarise(count = n()) %>%
+  filter(school_name.x != school_name.y)
+
+df_igraph = df %>% 
+  select(school_name.x, school_name.y) %>%
+  as.matrix() %>%
+  graph_from_edgelist()
+```
+
+```{r}
+V(df_igraph)$level = general_information_of_schools$mainlevel_code[match(V(df_igraph)$name, general_information_of_schools$school_name)]
+```
+
+```{r}
+
+V(df_igraph)[V(df_igraph)$level == "PRIMARY"]$color               = "red"
+V(df_igraph)[V(df_igraph)$level == "SECONDARY"]$color             = "blue"
+V(df_igraph)[V(df_igraph)$level == "JUNIOR COLLEGE"]$color        = "green"
+V(df_igraph)[V(df_igraph)$level == "MIXED LEVEL"]$color           = "yellow"
+V(df_igraph)[V(df_igraph)$level == "CENTRALISED INSTITUTE"]$color = "pink"
+```
+
+```{r}
+V(df_igraph)$label.cex = 0.3
+```
+
+
+```{r}
+set.seed(12)
+l <- layout.kamada.kawai(df_igraph)
+
+par(mfrow=c(1,1))
+oldMargins<-par("mar")
+par(mar=c(1,1,1,1))
+```
+
+```{r}
+plot(df_igraph, layout = l, arrow.size = 0.1)
+```
+
+
+
+
+
+
