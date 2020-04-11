@@ -1,7 +1,7 @@
 // initialize map
-let map = L
+let schoolMap = L
     .map('school-map')
-    .setView([1.3521, 103.8198], 13);
+    .setView(['1.3521', '103.8198'], 11);
 
 L.tileLayer(
     'https://maps-{s}.onemap.sg/v3/Grey/{z}/{x}/{y}.png', {
@@ -9,9 +9,9 @@ L.tileLayer(
     maxZoom: 18,
     bounds: [[1.56073, 104.11475], [1.16, 103.502]],
     attribution: '<img src="https://docs.onemap.sg/maps/images/oneMap64-01.png" style="height:20px;width:20px;"/> New OneMap | Map data &copy; contributors, <a href="http://SLA.gov.sg">Singapore Land Authority</a>'
-}).addTo(map);
+}).addTo(schoolMap);
 
-L.svg().addTo(map);
+L.svg().addTo(schoolMap);
 
 // value = school code
 function plotSchool(value) {
@@ -25,19 +25,16 @@ function plotSchool(value) {
         d3.select('#school-name').text(name);
 
         // MAP
-        // zoom to point
-        map.flyTo([lat, lng], zoom = 17, { animate: false });
+        schoolMap.flyTo([lat, lng], zoom=17, {'animate': true});
 
         // add school point
         d3.select("#school-map")
             .select("svg")
             .attr("style", "pointer-events: all;")
-            .append("circle");
+            .append("circle")
+            .attr("id", "schPoint");
 
-        d3.select("circle")
-            .attr("id", "schPoint")
-            .attr("cx", map.latLngToLayerPoint([lat, lng]).x)
-            .attr("cy", map.latLngToLayerPoint([lat, lng]).y)
+        d3.select("#schPoint")
             .attr("r", 15);
 
         var tooltip = d3.select("body").append("div")
@@ -54,8 +51,8 @@ function plotSchool(value) {
                 tooltip.transition()
                     .style("opacity", "1")
                 tooltip.html("<b>" + name + "</b>")
-                    .style("left", (d3.event.pageX + 0 + "px"))
-                    .style("top", (d3.event.pageY - 5 + "px"))
+                    .style("left", (schoolMap.latLngToLayerPoint([lat, lng]).x - 50 + "px"))
+                    .style("top", (schoolMap.latLngToLayerPoint([lat, lng]).y - 130 + "px"))
 
             })
             .on("mouseout", function () {
@@ -63,11 +60,13 @@ function plotSchool(value) {
                     .style("opacity", "0");
             });
 
-        map.on("moveend", function () {
-            d3.select("circle")
-                .attr("cx", map.latLngToLayerPoint([lat, lng]).x)
-                .attr("cy", map.latLngToLayerPoint([lat, lng]).y);
-        });
+        schoolMap.on("moveend", updateSchMap);
+
+        function updateSchMap() {
+            d3.select("#schPoint")
+                .attr("cx", schoolMap.latLngToLayerPoint([lat, lng]).x)
+                .attr("cy", schoolMap.latLngToLayerPoint([lat, lng]).y);
+        }
 
         // PLOTS
 

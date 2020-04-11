@@ -25,7 +25,7 @@ var levelColours = {
 
 // 3. Plotting of circles on map
 
-d3.csv("data/general-information-of-schools-geocoded.csv", function (data) {
+d3.csv("data/general-information-full.csv", function (data) {
 
     var locations = data
         .map(function (d) {
@@ -33,7 +33,8 @@ d3.csv("data/general-information-of-schools-geocoded.csv", function (data) {
                 name: d.school_name,
                 long: parseFloat(d.lon),
                 lat: parseFloat(d.lat),
-                level: d.mainlevel_code
+                level: d.mainlevel_code,
+                code: d.code
             }
         })
 
@@ -44,8 +45,9 @@ d3.csv("data/general-information-of-schools-geocoded.csv", function (data) {
         .data(locations)
         .enter()
         .append("circle")
+        .attr("id", "homeCircle")
 
-    var interactiveCircles = d3.selectAll("circle")
+    var interactiveCircles = d3.selectAll("#homeCircle")
         .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).x })
         .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).y })
         .attr("r", 10)
@@ -59,10 +61,17 @@ d3.csv("data/general-information-of-schools-geocoded.csv", function (data) {
     })
 
     interactiveMap.on("moveend", function () {
-        d3.selectAll("circle")
+        d3.selectAll("#homeCircle")
             .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).x })
             .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).y })
     })
+
+    d3.selectAll("#homeCircle").on("click", function(d) {
+        let value = d.code;
+        loadSchool();
+        plotSchool(value);
+    })
+    
 
 })
 
