@@ -40,12 +40,12 @@ d3.csv("data/general-information-full.csv", function (data) {
 
     d3.select("#interactive-map")
         .select("svg")
-        .attr("style", "pointer-events: all;")
         .selectAll("Circles")
         .data(locations)
         .enter()
         .append("circle")
         .attr("id", "homeCircle")
+        .attr("style", "pointer-events: visible;")
 
     var interactiveCircles = d3.selectAll("#homeCircle")
         .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).x })
@@ -71,7 +71,6 @@ d3.csv("data/general-information-full.csv", function (data) {
         loadSchool();
         plotSchool(value);
     })
-    
 
 })
 

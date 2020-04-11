@@ -25,17 +25,22 @@ function plotSchool(value) {
         d3.select('#school-name').text(name);
 
         // MAP
-        schoolMap.flyTo([lat, lng], zoom=17, {'animate': true});
+        schoolMap.flyTo([lat, lng], zoom=17, {'animate': false});
 
         // add school point
         d3.select("#school-map")
             .select("svg")
-            .attr("style", "pointer-events: all;")
             .append("circle")
-            .attr("id", "schPoint");
+            .attr("id", "schPoint")
+            .attr("style", "pointer-events: visible;");
 
         d3.select("#schPoint")
-            .attr("r", 15);
+            .attr("cx", schoolMap.latLngToLayerPoint([lat, lng]).x)
+            .attr("cy", schoolMap.latLngToLayerPoint([lat, lng]).y)
+            .attr("r", 50)
+            .attr("stroke", "red")
+            .attr("fill", "red")
+            .attr("fill-opacity", 0.1);
 
         var tooltip = d3.select("body").append("div")
             .attr("id", "tooltip")
@@ -60,13 +65,11 @@ function plotSchool(value) {
                     .style("opacity", "0");
             });
 
-        schoolMap.on("moveend", updateSchMap);
-
-        function updateSchMap() {
+        schoolMap.on("moveend", function() {
             d3.select("#schPoint")
                 .attr("cx", schoolMap.latLngToLayerPoint([lat, lng]).x)
                 .attr("cy", schoolMap.latLngToLayerPoint([lat, lng]).y);
-        }
+        });
 
         // PLOTS
 
