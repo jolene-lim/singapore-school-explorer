@@ -76,7 +76,7 @@ d3.csv("data/general-information-full.csv", function (data) {
 
 function reply_click(clicked_id) {
 
-    d3.selectAll("circle")
+    d3.selectAll("#homeCircle")
         .filter(function (d) { return d.level == clicked_id })
         .style("visibility", function () {
             if ($(this).css("visibility") == "visible") {
