@@ -72,7 +72,7 @@ function plotSchool(value) {
         });
 
         // PLOTS
-
+        
     });
 
 }
