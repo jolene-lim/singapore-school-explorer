@@ -24,6 +24,8 @@ function drawVision(words) {
         .selectAll("text")
         .data(words)
         .enter().append("text")
+        .transition()
+        .duration(2000)
         .style("font-size", function (d) { return d.size + "px"; })
         .style("font-family", "Open Sans")
         .style("fill", function (d, i) { return fill(i); })

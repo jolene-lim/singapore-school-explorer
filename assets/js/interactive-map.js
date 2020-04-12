@@ -55,9 +55,17 @@ d3.csv("data/general-information-full.csv", function (data) {
         .attr("stroke", "black")
         .attr("stroke-width", 0)
         .attr("fill-opacity", .5)
+        .attr("text", function (d) { return d.name })
 
     interactiveCircles.on("mouseover", function () {
-        d3.select(this).style("stroke-width", 5).style("opacity", 1)
+        d3.select(this).style("stroke-width", 3).style("opacity", 1)
+        var schoolname = d3.select(this).attr("text")
+        d3.select("#schoolname").text("School: " + schoolname)
+    })
+
+    interactiveCircles.on("mouseout", function () {
+        d3.select(this).style("stroke-width", 0).style("opacity", 1)
+        d3.select("#schoolname").text("School:")
     })
 
     interactiveMap.on("moveend", function () {
@@ -66,7 +74,7 @@ d3.csv("data/general-information-full.csv", function (data) {
             .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).y })
     })
 
-    d3.selectAll("#homeCircle").on("click", function(d) {
+    d3.selectAll("#homeCircle").on("click", function (d) {
         let value = d.code;
         loadSchool();
         plotSchool(value);
