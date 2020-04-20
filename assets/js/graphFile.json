@@ -1,0 +1,1978 @@
+{
+    "nodes": [
+        {
+            "name": "NATIONAL JUNIOR COLLEGE",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "TEMASEK JUNIOR COLLEGE",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "JURONG JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "ANDERSON JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "VICTORIA JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "YISHUN JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "TAMPINES JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "SERANGOON JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "PIONEER JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "MERIDIAN JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "INNOVA JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "EUNOIA JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "CATHOLIC JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "ANGLO-CHINESE JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "ST. ANDREW'S JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "NANYANG JUNIOR COLLEGE",
+            "party": "JUNIOR COLLEGE"
+        },
+        {
+            "name": "HWA CHONG INSTITUTION",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "MILLENNIA INSTITUTE",
+            "party": "CENTRALISED INSTITUTE"
+        },
+        {
+            "name": "BUKIT PANJANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "HAIG GIRLS' SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TECK WHYE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "JURONG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "QUEENSTOWN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "RADIN MAS PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "RAFFLES GIRLS' PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ROSYTH SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "DAMAI PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FUHUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WOODLANDS PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "EUNOS PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "HENRY PARK PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BENDEMEER PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CORPORATION PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "YIO CHU KANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BLANGAH RISE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ANG MO KIO PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MAYFLOWER PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TECK GHEE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TEMASEK PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SI LING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "JING SHAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "DA QIAO PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "YISHUN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "STAMFORD PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FERNVALE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "EAST COAST PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TOWNSVILLE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "RULANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "QIFA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ZHANGDE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TAMPINES PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHONGZHENG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "XINGHUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "JIEMIN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FUCHUN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BUKIT VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CEDAR PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "OPERA ESTATE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "RIVER VALLEY PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TELOK KURAU PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "YUMIN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SHUQUN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "GAN ENG SENG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "GONGSHANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "HUAMIN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "XISHAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PRINCESS ELIZABETH PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "DAZHONG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BEDOK GREEN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "LIANHUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BALESTIER HILL PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ZHONGHUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PEIYING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "EAST VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "KEMING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHANGKAT PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ZHENGHUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SOUTH VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "LOYANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PASIR RIS PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHUA CHU KANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "GREENRIDGE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FARRER PARK PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BUKIT TIMAH PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "LAKESIDE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BEACON PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "INNOVA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "GREENDALE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ENDEAVOUR PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NORTH VISTA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ANCHOR GREEN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "HORIZON PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CANTONMENT PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FRONTIER PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WESTWOOD PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PUNGGOL GREEN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PUNGGOL VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SENGKANG GREEN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SPRINGDALE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PALM VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "RIVERSIDE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WEST SPRING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ALEXANDRA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NORTHOAKS PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ANGSANA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PUNGGOL COVE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "OASIS PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WATERWAY PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FERN GREEN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FIRST TOA PAYOH PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MACPHERSON PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NEW TOWN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "BOON LAY GARDEN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MARSILING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PEI TONG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "YUHUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FENGSHAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "YU NENG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "XINMIN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "YANGZHENG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "JUYING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "JUNYUAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NORTHLAND PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NAVAL BASE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "XINGNAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "QIHUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "GUANGYANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TAMPINES NORTH PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ELIAS PARK PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "AHMAD IBRAHIM PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NORTH VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PIONEER PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PUNGGOL PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PARK VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ADMIRALTY PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "KRANJI PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SENG KANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WOODLANDS RING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WEST VIEW PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WHITE SANDS PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "UNITY PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CANBERRA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "RIVERVALE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "JURONG WEST PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CORAL PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "EAST SPRING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "EVERGREEN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "COMPASSVALE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WOODGROVE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SEMBAWANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CONCORD PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NORTH SPRING PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "YEW TEE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "HOUGANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MERIDIAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "GREENWOOD PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ANDERSON PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WELLINGTON PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "EDGEFIELD PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "WEST GROVE PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CASUARINA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CLEMENTI PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TANJONG KATONG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ANDERSON SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BARTLEY SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BEATTY SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CEDAR GIRLS' SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CRESCENT GIRLS' SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "GAN ENG SENG SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "QUEENSWAY SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "RAFFLES GIRLS' SCHOOL (SECONDARY)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "RAFFLES INSTITUTION",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "SERANGOON SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "COMMONWEALTH SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "TANJONG KATONG GIRLS' SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "VICTORIA SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "WHITLEY SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "YUHUA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "YISHUN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BENDEMEER SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "FUCHUN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ANG MO KIO SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BEDOK SOUTH SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CLEMENTI TOWN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "TEMASEK SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "MAYFLOWER SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "TAMPINES SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BUKIT VIEW SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "WOODLANDS SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BOWEN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BUKIT BATOK SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "YISHUN TOWN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "HOUGANG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NAN HUA HIGH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "HILLGROVE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "XINMIN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "GREENRIDGE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SPRINGFIELD SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHUA CHU KANG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "DAMAI SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NORTHLAND SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "HONG KAH SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PEIRCE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "JURONGVILLE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "FAJAR SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "KRANJI SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "WEST SPRING SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "JURONG WEST SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BEDOK GREEN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PUNGGOL SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NORTH VISTA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ADMIRALTY SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PEI HWA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "GREENDALE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "EDGEFIELD SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "MERIDIAN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "LOYANG VIEW SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "DUNMAN HIGH SCHOOL",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "RIVER VALLEY HIGH SCHOOL",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "AHMAD IBRAHIM SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BROADRICK SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BUKIT MERAH SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BUKIT PANJANG GOVT. HIGH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "DUNMAN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "JURONG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NAVAL BASE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "OUTRAM SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "YIO CHU KANG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "YUAN CHING SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BOON LAY SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "BEDOK VIEW SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "HUA YI SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "DEYI SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PING YI SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SHUQUN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PASIR RIS SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "EAST VIEW SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "GUANGYANG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "RIVERSIDE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ZHONGHUA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SWISS COTTAGE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "YUSOF ISHAK SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHANGKAT CHANGI SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "TECK WHYE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "DUNEARN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NEW TOWN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "QUEENSTOWN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SERANGOON GARDEN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "TANGLIN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "TANJONG KATONG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "WOODLANDS RING SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ORCHID PARK SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SEMBAWANG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SENG KANG SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "JUNYUAN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "EAST SPRING SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "UNITY SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NORTHBROOKS SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PASIR RIS CREST SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "FUHUA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "MARSILING SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "WOODGROVE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ZHENGHUA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "REGENT SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "KENT RIDGE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "WESTWOOD SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CANBERRA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "COMPASSVALE SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "EVERGREEN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ANGLO-CHINESE SCHOOL (JUNIOR)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CANOSSA CONVENT PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHIJ PRIMARY (TOA PAYOH)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHIJ (KELLOCK)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHIJ OUR LADY OF THE NATIVITY",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "DE LA SALLE SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. ANDREW'S JUNIOR SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. GABRIEL'S PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. MARGARET'S PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. JOSEPH'S INSTITUTION JUNIOR",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. STEPHEN'S SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHIJ OUR LADY OF GOOD COUNSEL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MONTFORT JUNIOR SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHIJ OUR LADY QUEEN OF PEACE",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "FAIRFIELD METHODIST SCHOOL (PRIMARY)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "GEYLANG METHODIST SCHOOL (PRIMARY)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. HILDA'S PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "METHODIST GIRLS' SCHOOL (PRIMARY)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NAN CHIAU PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "KONG HWA SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MEE TOH SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NGEE ANN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "RED SWASTIKA SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "TAO NAN SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NANYANG PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ST. ANTHONY'S PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MAHA BODHI SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PEI CHUN PUBLIC SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "POI CHING SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "KHENG CHENG SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "NAN HUA PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PEI HWA PRESBYTERIAN PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "AI TONG SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "HONG WEN SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "HOLY INNOCENTS' PRIMARY SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHONGFU SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "CHIJ (KATONG) PRIMARY",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ANGLO-CHINESE SCHOOL (PRIMARY)",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "ASSUMPTION ENGLISH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHIJ SECONDARY (TOA PAYOH)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "GEYLANG METHODIST SCHOOL (SECONDARY)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHIJ KATONG CONVENT",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "MONTFORT SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SINGAPORE CHINESE GIRLS' SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ST. ANDREW'S SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ST. GABRIEL'S SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHIJ ST. JOSEPH'S CONVENT",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ST. JOSEPH'S INSTITUTION",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "ST. MARGARET'S SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ST. PATRICK'S SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHIJ ST. THERESA'S CONVENT",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHRIST CHURCH SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "YUYING SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ST. HILDA'S SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "METHODIST GIRLS' SCHOOL (SECONDARY)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "HAI SING CATHOLIC SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ANGLO-CHINESE SCHOOL (BARKER ROAD)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ANGLICAN HIGH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CATHOLIC HIGH SCHOOL",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "CHUNG CHENG HIGH SCHOOL (MAIN)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHUNG CHENG HIGH SCHOOL (YISHUN)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "HOLY INNOCENTS' HIGH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "MARIS STELLA HIGH SCHOOL",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "NAN CHIAU HIGH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NANYANG GIRLS' HIGH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CHIJ ST. NICHOLAS GIRLS' SCHOOL",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "MARYMOUNT CONVENT SCHOOL",
+            "party": "PRIMARY"
+        },
+        {
+            "name": "MANJUSRI SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "PRESBYTERIAN HIGH SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "FAIRFIELD METHODIST SCHOOL (SECONDARY)",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "NGEE ANN SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SINGAPORE SPORTS SCHOOL",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "SCHOOL OF THE ARTS, SINGAPORE",
+            "party": "MIXED LEVEL"
+        },
+        {
+            "name": "NORTHLIGHT SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "ASSUMPTION PATHWAY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SCHOOL OF SCIENCE AND TECHNOLOGY, SINGAPORE",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "CREST SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        },
+        {
+            "name": "SPECTRA SECONDARY SCHOOL",
+            "party": "SECONDARY"
+        }
+    ],
+    "links": [
+        {
+            "source": "VICTORIA JUNIOR COLLEGE",
+            "target": "VICTORIA SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "ASSUMPTION ENGLISH SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "CHIJ SECONDARY (TOA PAYOH)"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "CHIJ KATONG CONVENT"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "MONTFORT SECONDARY SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "ST. GABRIEL'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "CHIJ ST. JOSEPH'S CONVENT"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "ST. JOSEPH'S INSTITUTION"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "ST. PATRICK'S SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "CHIJ ST. THERESA'S CONVENT"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "HAI SING CATHOLIC SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "CATHOLIC HIGH SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "HOLY INNOCENTS' HIGH SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "MARIS STELLA HIGH SCHOOL"
+        },
+        {
+            "source": "CATHOLIC JUNIOR COLLEGE",
+            "target": "CHIJ ST. NICHOLAS GIRLS' SCHOOL"
+        },
+        {
+            "source": "ANGLO-CHINESE JUNIOR COLLEGE",
+            "target": "ANGLO-CHINESE SCHOOL (INDEPENDENT)"
+        },
+        {
+            "source": "ANGLO-CHINESE JUNIOR COLLEGE",
+            "target": "GEYLANG METHODIST SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "ANGLO-CHINESE JUNIOR COLLEGE",
+            "target": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "ANGLO-CHINESE JUNIOR COLLEGE",
+            "target": "METHODIST GIRLS' SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "ANGLO-CHINESE JUNIOR COLLEGE",
+            "target": "ANGLO-CHINESE SCHOOL (BARKER ROAD)"
+        },
+        {
+            "source": "ANGLO-CHINESE JUNIOR COLLEGE",
+            "target": "FAIRFIELD METHODIST SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR COLLEGE",
+            "target": "ST. ANDREW'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR COLLEGE",
+            "target": "ST. MARGARET'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR COLLEGE",
+            "target": "CHRIST CHURCH SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR COLLEGE",
+            "target": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR COLLEGE",
+            "target": "ANGLICAN HIGH SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR COLLEGE",
+            "target": "PRESBYTERIAN HIGH SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR COLLEGE",
+            "target": "ST. HILDA'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "NANYANG JUNIOR COLLEGE",
+            "target": "CHUNG CHENG HIGH SCHOOL (MAIN)"
+        },
+        {
+            "source": "NANYANG JUNIOR COLLEGE",
+            "target": "CHUNG CHENG HIGH SCHOOL (YISHUN)"
+        },
+        {
+            "source": "VICTORIA SCHOOL",
+            "target": "VICTORIA JUNIOR COLLEGE"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (JUNIOR)",
+            "target": "ANGLO-CHINESE SCHOOL (INDEPENDENT)"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (JUNIOR)",
+            "target": "ANGLO-CHINESE SCHOOL (BARKER ROAD)"
+        },
+        {
+            "source": "CANOSSA CONVENT PRIMARY SCHOOL",
+            "target": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL"
+        },
+        {
+            "source": "CHIJ PRIMARY (TOA PAYOH)",
+            "target": "CHIJ SECONDARY (TOA PAYOH)"
+        },
+        {
+            "source": "CHIJ (KELLOCK)",
+            "target": "CHIJ ST. THERESA'S CONVENT"
+        },
+        {
+            "source": "CHIJ OUR LADY OF THE NATIVITY",
+            "target": "CHIJ ST. JOSEPH'S CONVENT"
+        },
+        {
+            "source": "DE LA SALLE SCHOOL",
+            "target": "ST. JOSEPH'S INSTITUTION"
+        },
+        {
+            "source": "DE LA SALLE SCHOOL",
+            "target": "ST. PATRICK'S SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S JUNIOR SCHOOL",
+            "target": "ST. ANDREW'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL",
+            "target": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. GABRIEL'S PRIMARY SCHOOL",
+            "target": "ST. GABRIEL'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. MARGARET'S PRIMARY SCHOOL",
+            "target": "ST. MARGARET'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. JOSEPH'S INSTITUTION JUNIOR",
+            "target": "ST. JOSEPH'S INSTITUTION"
+        },
+        {
+            "source": "ST. JOSEPH'S INSTITUTION JUNIOR",
+            "target": "ST. PATRICK'S SCHOOL"
+        },
+        {
+            "source": "ST. STEPHEN'S SCHOOL",
+            "target": "ST. JOSEPH'S INSTITUTION"
+        },
+        {
+            "source": "ST. STEPHEN'S SCHOOL",
+            "target": "ST. PATRICK'S SCHOOL"
+        },
+        {
+            "source": "CHIJ OUR LADY OF GOOD COUNSEL",
+            "target": "CHIJ ST. JOSEPH'S CONVENT"
+        },
+        {
+            "source": "MONTFORT JUNIOR SCHOOL",
+            "target": "MONTFORT SECONDARY SCHOOL"
+        },
+        {
+            "source": "CHIJ OUR LADY QUEEN OF PEACE",
+            "target": "CHIJ ST. THERESA'S CONVENT"
+        },
+        {
+            "source": "FAIRFIELD METHODIST SCHOOL (PRIMARY)",
+            "target": "FAIRFIELD METHODIST SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "GEYLANG METHODIST SCHOOL (PRIMARY)",
+            "target": "GEYLANG METHODIST SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL",
+            "target": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL"
+        },
+        {
+            "source": "ST. HILDA'S PRIMARY SCHOOL",
+            "target": "ST. HILDA'S SECONDARY SCHOOL"
+        },
+        {
+            "source": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
+            "target": "SINGAPORE CHINESE GIRLS' SCHOOL"
+        },
+        {
+            "source": "METHODIST GIRLS' SCHOOL (PRIMARY)",
+            "target": "METHODIST GIRLS' SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "MEE TOH SCHOOL",
+            "target": "MANJUSRI SECONDARY SCHOOL"
+        },
+        {
+            "source": "NGEE ANN PRIMARY SCHOOL",
+            "target": "NGEE ANN SECONDARY SCHOOL"
+        },
+        {
+            "source": "NANYANG PRIMARY SCHOOL",
+            "target": "NANYANG GIRLS' HIGH SCHOOL"
+        },
+        {
+            "source": "ST. ANTHONY'S PRIMARY SCHOOL",
+            "target": "ST. JOSEPH'S INSTITUTION"
+        },
+        {
+            "source": "ST. ANTHONY'S PRIMARY SCHOOL",
+            "target": "ST. PATRICK'S SCHOOL"
+        },
+        {
+            "source": "MAHA BODHI SCHOOL",
+            "target": "MANJUSRI SECONDARY SCHOOL"
+        },
+        {
+            "source": "HOLY INNOCENTS' PRIMARY SCHOOL",
+            "target": "HOLY INNOCENTS' HIGH SCHOOL"
+        },
+        {
+            "source": "PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY)",
+            "target": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)"
+        },
+        {
+            "source": "CHIJ (KATONG) PRIMARY",
+            "target": "CHIJ KATONG CONVENT"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (PRIMARY)",
+            "target": "ANGLO-CHINESE SCHOOL (INDEPENDENT)"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (PRIMARY)",
+            "target": "ANGLO-CHINESE SCHOOL (BARKER ROAD)"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
+            "target": "ANGLO-CHINESE JUNIOR COLLEGE"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
+            "target": "ANGLO-CHINESE SCHOOL (JUNIOR)"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
+            "target": "ANGLO-CHINESE SCHOOL (PRIMARY)"
+        },
+        {
+            "source": "ASSUMPTION ENGLISH SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "CHIJ SECONDARY (TOA PAYOH)",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "CHIJ SECONDARY (TOA PAYOH)",
+            "target": "CHIJ PRIMARY (TOA PAYOH)"
+        },
+        {
+            "source": "GEYLANG METHODIST SCHOOL (SECONDARY)",
+            "target": "ANGLO-CHINESE JUNIOR COLLEGE"
+        },
+        {
+            "source": "GEYLANG METHODIST SCHOOL (SECONDARY)",
+            "target": "GEYLANG METHODIST SCHOOL (PRIMARY)"
+        },
+        {
+            "source": "CHIJ KATONG CONVENT",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "CHIJ KATONG CONVENT",
+            "target": "CHIJ (KATONG) PRIMARY"
+        },
+        {
+            "source": "MONTFORT SECONDARY SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "MONTFORT SECONDARY SCHOOL",
+            "target": "MONTFORT JUNIOR SCHOOL"
+        },
+        {
+            "source": "SINGAPORE CHINESE GIRLS' SCHOOL",
+            "target": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL"
+        },
+        {
+            "source": "ST. ANDREW'S SECONDARY SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR COLLEGE"
+        },
+        {
+            "source": "ST. ANDREW'S SECONDARY SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR SCHOOL"
+        },
+        {
+            "source": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL",
+            "target": "CANOSSA CONVENT PRIMARY SCHOOL"
+        },
+        {
+            "source": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL",
+            "target": "ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL"
+        },
+        {
+            "source": "ST. GABRIEL'S SECONDARY SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "ST. GABRIEL'S SECONDARY SCHOOL",
+            "target": "ST. GABRIEL'S PRIMARY SCHOOL"
+        },
+        {
+            "source": "CHIJ ST. JOSEPH'S CONVENT",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "CHIJ ST. JOSEPH'S CONVENT",
+            "target": "CHIJ OUR LADY OF THE NATIVITY"
+        },
+        {
+            "source": "CHIJ ST. JOSEPH'S CONVENT",
+            "target": "CHIJ OUR LADY OF GOOD COUNSEL"
+        },
+        {
+            "source": "ST. JOSEPH'S INSTITUTION",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "ST. JOSEPH'S INSTITUTION",
+            "target": "DE LA SALLE SCHOOL"
+        },
+        {
+            "source": "ST. JOSEPH'S INSTITUTION",
+            "target": "ST. JOSEPH'S INSTITUTION JUNIOR"
+        },
+        {
+            "source": "ST. JOSEPH'S INSTITUTION",
+            "target": "ST. STEPHEN'S SCHOOL"
+        },
+        {
+            "source": "ST. JOSEPH'S INSTITUTION",
+            "target": "ST. ANTHONY'S PRIMARY SCHOOL"
+        },
+        {
+            "source": "ST. MARGARET'S SECONDARY SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR COLLEGE"
+        },
+        {
+            "source": "ST. MARGARET'S SECONDARY SCHOOL",
+            "target": "ST. MARGARET'S PRIMARY SCHOOL"
+        },
+        {
+            "source": "ST. PATRICK'S SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "ST. PATRICK'S SCHOOL",
+            "target": "DE LA SALLE SCHOOL"
+        },
+        {
+            "source": "ST. PATRICK'S SCHOOL",
+            "target": "ST. JOSEPH'S INSTITUTION JUNIOR"
+        },
+        {
+            "source": "ST. PATRICK'S SCHOOL",
+            "target": "ST. STEPHEN'S SCHOOL"
+        },
+        {
+            "source": "ST. PATRICK'S SCHOOL",
+            "target": "ST. ANTHONY'S PRIMARY SCHOOL"
+        },
+        {
+            "source": "CHIJ ST. THERESA'S CONVENT",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "CHIJ ST. THERESA'S CONVENT",
+            "target": "CHIJ (KELLOCK)"
+        },
+        {
+            "source": "CHIJ ST. THERESA'S CONVENT",
+            "target": "CHIJ OUR LADY QUEEN OF PEACE"
+        },
+        {
+            "source": "CHRIST CHURCH SECONDARY SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR COLLEGE"
+        },
+        {
+            "source": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)",
+            "target": "ANGLO-CHINESE JUNIOR COLLEGE"
+        },
+        {
+            "source": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)",
+            "target": "PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY)"
+        },
+        {
+            "source": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR COLLEGE"
+        },
+        {
+            "source": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL",
+            "target": "KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL"
+        },
+        {
+            "source": "ST. HILDA'S SECONDARY SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR COLLEGE"
+        },
+        {
+            "source": "ST. HILDA'S SECONDARY SCHOOL",
+            "target": "ST. HILDA'S PRIMARY SCHOOL"
+        },
+        {
+            "source": "METHODIST GIRLS' SCHOOL (SECONDARY)",
+            "target": "ANGLO-CHINESE JUNIOR COLLEGE"
+        },
+        {
+            "source": "METHODIST GIRLS' SCHOOL (SECONDARY)",
+            "target": "METHODIST GIRLS' SCHOOL (PRIMARY)"
+        },
+        {
+            "source": "HAI SING CATHOLIC SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (BARKER ROAD)",
+            "target": "ANGLO-CHINESE JUNIOR COLLEGE"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (BARKER ROAD)",
+            "target": "ANGLO-CHINESE SCHOOL (JUNIOR)"
+        },
+        {
+            "source": "ANGLO-CHINESE SCHOOL (BARKER ROAD)",
+            "target": "ANGLO-CHINESE SCHOOL (PRIMARY)"
+        },
+        {
+            "source": "ANGLICAN HIGH SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR COLLEGE"
+        },
+        {
+            "source": "CATHOLIC HIGH SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "CATHOLIC HIGH SCHOOL",
+            "target": "CATHOLIC HIGH SCHOOL"
+        },
+        {
+            "source": "CHUNG CHENG HIGH SCHOOL (MAIN)",
+            "target": "NANYANG JUNIOR COLLEGE"
+        },
+        {
+            "source": "CHUNG CHENG HIGH SCHOOL (YISHUN)",
+            "target": "NANYANG JUNIOR COLLEGE"
+        },
+        {
+            "source": "HOLY INNOCENTS' HIGH SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "HOLY INNOCENTS' HIGH SCHOOL",
+            "target": "HOLY INNOCENTS' PRIMARY SCHOOL"
+        },
+        {
+            "source": "MARIS STELLA HIGH SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "MARIS STELLA HIGH SCHOOL",
+            "target": "MARIS STELLA HIGH SCHOOL"
+        },
+        {
+            "source": "NANYANG GIRLS' HIGH SCHOOL",
+            "target": "NANYANG PRIMARY SCHOOL"
+        },
+        {
+            "source": "CHIJ ST. NICHOLAS GIRLS' SCHOOL",
+            "target": "CATHOLIC JUNIOR COLLEGE"
+        },
+        {
+            "source": "CHIJ ST. NICHOLAS GIRLS' SCHOOL",
+            "target": "CHIJ ST. NICHOLAS GIRLS' SCHOOL"
+        },
+        {
+            "source": "MANJUSRI SECONDARY SCHOOL",
+            "target": "MEE TOH SCHOOL"
+        },
+        {
+            "source": "MANJUSRI SECONDARY SCHOOL",
+            "target": "MAHA BODHI SCHOOL"
+        },
+        {
+            "source": "PRESBYTERIAN HIGH SCHOOL",
+            "target": "ST. ANDREW'S JUNIOR COLLEGE"
+        },
+        {
+            "source": "FAIRFIELD METHODIST SCHOOL (SECONDARY)",
+            "target": "ANGLO-CHINESE JUNIOR COLLEGE"
+        },
+        {
+            "source": "FAIRFIELD METHODIST SCHOOL (SECONDARY)",
+            "target": "FAIRFIELD METHODIST SCHOOL (PRIMARY)"
+        },
+        {
+            "source": "NGEE ANN SECONDARY SCHOOL",
+            "target": "NGEE ANN PRIMARY SCHOOL"
+        }
+    ]
+}

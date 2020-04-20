@@ -42,3 +42,4 @@ vignettes/*.pdf
 # Jekyll
 .jekyll-cache/
 _site/
+*.csv
