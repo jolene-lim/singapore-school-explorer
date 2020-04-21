@@ -1,6 +1,6 @@
 // 1. Base Leaflet Map
 let interactiveMap = L
-    .map("interactive-map")
+    .map("interactive-map", null, { zoomControl:false })
     .setView([1.3521, 103.8198], 12);
 
 L.tileLayer(
