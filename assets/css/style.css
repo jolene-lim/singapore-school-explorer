@@ -40,6 +40,16 @@ html, body {
     height: 600px;    
 }
 
+#networks {
+    width: 80%;
+    height: 700px;    
+}
+
+#networks-subgraph {
+    width: 80%;
+    height: 700px;    
+}
+
 /* School Page */
 .schoolPage {
     height: 100vh;
