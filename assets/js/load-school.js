@@ -1,8 +1,6 @@
 let input = document.getElementById("searchInput");
 let button = document.getElementById("searchBtn");
 
-console.log(input);
-
 function loadSchool() {
     let schoolPage = document.getElementById("school");
     schoolPage.scrollIntoView();

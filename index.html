@@ -11,10 +11,11 @@
         crossorigin="" />
     <link href="assets/css/style.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
+    <link href="assets/css/radar-chart.min.css" rel="stylesheet">
 </head>
 
 <body>
-    <div class="container-fluid">
+    <div class="container">
         <div id="homepage" class="slide">
             <div>Welcome to our school finder</div>
             <input type="text" id="searchInput">
@@ -59,13 +60,29 @@
                 <div id="word-cloud-vision"></div>
 
             </div>
-
         </div>
 
-        <div id="school" class="slide">
-            <div id="school-name"></div>
-            <div id="school-map"></div>
+        <div id="school" class="slide schoolPage">
+            <div class="sidebar">
+                <div class="box">
+                    <div id="school-name"></div>
+                    <div id="school-info"></div>
+                </div>
+                <div class="box" id="school-map"></div>
+            </div>
 
+            <div class="main">
+                <div class="strip">
+                    <div class="grid" id="sch-overview"></div>
+                    <div class="grid" id="sch-achievement"></div>
+                    <div class="grid" id="sch-entry"></div>
+                </div>
+                <div class="strip">
+                    <div class="grid" id="sch-cca">table</div>
+                    <div class="grid" id="sch-subjs"></div>
+                    <div class="grid" id="sch-progs"></div>
+                </div>
+            </div>
         </div>
     </div>
 </body>

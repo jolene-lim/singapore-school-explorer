@@ -1,33 +1,76 @@
-body {
+/* Site */
+html, body {
     font-family: 'Open Sans';
-    overflow-y: hidden;
+    margin: 0;
+    padding: 0;
 }
 
-.container-fluid {
+::-webkit-scrollbar {
+    display: none;
+}
+
+.container {
+    margin: 0;
     padding: 0;
     width: 100vw;
+    height: 100vh;
+    max-width: 100%;
     display: flex;
     overflow-x: scroll;
     scroll-snap-type: x mandatory;  
     -webkit-overflow-scrolling: touch;
+    white-space: nowrap;
     scroll-behavior: auto;
-    transition: transform .4s ease-in;
 }
 
 .slide {
     display: inline-block;
-    position: relative;
+    margin: 0;
+    padding: 0;
     min-width: 100vw;
+    max-width: 100%;
     height: 100vh;
+    overflow-y: scroll;
     scroll-snap-align: start;
 }
 
-#school-map {
-    width: 500px;
-    height: 500px;
-}
-
+/* Main Page */
 #interactive-map {
     width: 80%;
     height: 600px;    
+}
+
+/* School Page */
+.schoolPage {
+    height: 100vh;
+    display: flex;
+}
+
+.sidebar {
+    font-size: 13px;
+    height: 100%;
+    width: 25%;
+    background: grey;
+    padding: 5px;
+    white-space: normal;
+}
+
+.box {
+    width: 100%;
+    height: 50%;
+}
+
+.main {
+    height: 100%;
+    width: 75%;
+}
+
+.strip {
+    height: 50vh;
+    display: flex;
+}
+
+.grid {
+    height: 100%;
+    width: 33%;
 }
