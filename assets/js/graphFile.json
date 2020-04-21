@@ -2,1427 +2,1783 @@
     "nodes": [
         {
             "name": "NATIONAL JUNIOR COLLEGE",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "TEMASEK JUNIOR COLLEGE",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "JURONG JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "ANDERSON JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "VICTORIA JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 4
         },
         {
             "name": "YISHUN JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "TAMPINES JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "SERANGOON JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "PIONEER JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "MERIDIAN JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "INNOVA JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "EUNOIA JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 0
         },
         {
             "name": "CATHOLIC JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 9
         },
         {
             "name": "ANGLO-CHINESE JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 8
         },
         {
             "name": "ST. ANDREW'S JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 7
         },
         {
             "name": "NANYANG JUNIOR COLLEGE",
-            "party": "JUNIOR COLLEGE"
+            "level": "JUNIOR COLLEGE",
+            "cluster": 6
         },
         {
             "name": "HWA CHONG INSTITUTION",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "MILLENNIA INSTITUTE",
-            "party": "CENTRALISED INSTITUTE"
+            "level": "CENTRALISED INSTITUTE",
+            "cluster": 0
         },
         {
             "name": "BUKIT PANJANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "HAIG GIRLS' SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TECK WHYE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "JURONG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "QUEENSTOWN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "RADIN MAS PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "RAFFLES GIRLS' PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ROSYTH SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "DAMAI PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FUHUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WOODLANDS PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "EUNOS PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "HENRY PARK PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BENDEMEER PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CORPORATION PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "YIO CHU KANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BLANGAH RISE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ANG MO KIO PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "MAYFLOWER PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TECK GHEE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TEMASEK PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "SI LING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "JING SHAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "DA QIAO PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "YISHUN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "STAMFORD PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FERNVALE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "EAST COAST PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TOWNSVILLE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "RULANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "QIFA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ZHANGDE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TAMPINES PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CHONGZHENG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "XINGHUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "JIEMIN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FUCHUN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BUKIT VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CEDAR PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "OPERA ESTATE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "RIVER VALLEY PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TELOK KURAU PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "YUMIN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "SHUQUN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "GAN ENG SENG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "GONGSHANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "HUAMIN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "XISHAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PRINCESS ELIZABETH PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "DAZHONG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BEDOK GREEN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "LIANHUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BALESTIER HILL PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ZHONGHUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PEIYING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "EAST VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "KEMING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CHANGKAT PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ZHENGHUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "SOUTH VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "LOYANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PASIR RIS PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CHUA CHU KANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "GREENRIDGE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FARRER PARK PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BUKIT TIMAH PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "LAKESIDE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BEACON PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "INNOVA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "GREENDALE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ENDEAVOUR PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NORTH VISTA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ANCHOR GREEN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "HORIZON PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CANTONMENT PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FRONTIER PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WESTWOOD PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PUNGGOL GREEN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PUNGGOL VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "SENGKANG GREEN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "SPRINGDALE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PALM VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "RIVERSIDE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WEST SPRING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ALEXANDRA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NORTHOAKS PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ANGSANA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PUNGGOL COVE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "OASIS PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WATERWAY PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FERN GREEN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FIRST TOA PAYOH PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "MACPHERSON PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NEW TOWN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "BOON LAY GARDEN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "MARSILING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PEI TONG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "YUHUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "FENGSHAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "YU NENG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "XINMIN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "YANGZHENG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "JUYING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "JUNYUAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NORTHLAND PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NAVAL BASE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "XINGNAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "QIHUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "GUANGYANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TAMPINES NORTH PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ELIAS PARK PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "AHMAD IBRAHIM PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NORTH VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PIONEER PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PUNGGOL PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PARK VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ADMIRALTY PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "KRANJI PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "SENG KANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WOODLANDS RING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WEST VIEW PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WHITE SANDS PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "UNITY PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CANBERRA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "RIVERVALE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "JURONG WEST PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CORAL PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "EAST SPRING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "EVERGREEN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "COMPASSVALE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WOODGROVE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "SEMBAWANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CONCORD PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NORTH SPRING PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "YEW TEE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "HOUGANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "MERIDIAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "GREENWOOD PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ANDERSON PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WELLINGTON PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "EDGEFIELD PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "WEST GROVE PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CASUARINA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CLEMENTI PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TANJONG KATONG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "ANDERSON SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BARTLEY SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BEATTY SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CEDAR GIRLS' SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CRESCENT GIRLS' SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "GAN ENG SENG SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "QUEENSWAY SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "RAFFLES GIRLS' SCHOOL (SECONDARY)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "RAFFLES INSTITUTION",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "SERANGOON SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "COMMONWEALTH SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "TANJONG KATONG GIRLS' SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "VICTORIA SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 4
         },
         {
             "name": "WHITLEY SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "YUHUA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "YISHUN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BENDEMEER SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "FUCHUN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "ANG MO KIO SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BEDOK SOUTH SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CLEMENTI TOWN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "TEMASEK SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "MAYFLOWER SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "TAMPINES SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BUKIT VIEW SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "WOODLANDS SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BOWEN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BUKIT BATOK SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "YISHUN TOWN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "HOUGANG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "NAN HUA HIGH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "HILLGROVE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "XINMIN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "GREENRIDGE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SPRINGFIELD SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CHUA CHU KANG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "DAMAI SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "NORTHLAND SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "HONG KAH SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "PEIRCE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "JURONGVILLE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "FAJAR SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "KRANJI SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "WEST SPRING SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "JURONG WEST SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BEDOK GREEN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "PUNGGOL SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "NORTH VISTA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "ADMIRALTY SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "PEI HWA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "GREENDALE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "EDGEFIELD SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "MERIDIAN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "LOYANG VIEW SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "DUNMAN HIGH SCHOOL",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "RIVER VALLEY HIGH SCHOOL",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "AHMAD IBRAHIM SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BROADRICK SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BUKIT MERAH SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BUKIT PANJANG GOVT. HIGH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "DUNMAN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "JURONG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "NAVAL BASE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "OUTRAM SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "YIO CHU KANG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "YUAN CHING SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BOON LAY SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "BEDOK VIEW SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "HUA YI SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "DEYI SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "PING YI SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SHUQUN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "PASIR RIS SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "EAST VIEW SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "GUANGYANG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "RIVERSIDE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "ZHONGHUA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SWISS COTTAGE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "YUSOF ISHAK SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CHANGKAT CHANGI SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "TECK WHYE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "DUNEARN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "NEW TOWN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "QUEENSTOWN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SERANGOON GARDEN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "TANGLIN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "TANJONG KATONG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "WOODLANDS RING SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "ORCHID PARK SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SEMBAWANG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SENG KANG SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "JUNYUAN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "EAST SPRING SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "UNITY SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "NORTHBROOKS SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "PASIR RIS CREST SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "FUHUA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "MARSILING SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "WOODGROVE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "ZHENGHUA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "REGENT SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "KENT RIDGE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "WESTWOOD SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CANBERRA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "COMPASSVALE SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "EVERGREEN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "ANGLO-CHINESE SCHOOL (JUNIOR)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 8
         },
         {
             "name": "CANOSSA CONVENT PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ PRIMARY (TOA PAYOH)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ (KELLOCK)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ OUR LADY OF THE NATIVITY",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "DE LA SALLE SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "ST. ANDREW'S JUNIOR SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 7
         },
         {
             "name": "ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "ST. GABRIEL'S PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "ST. MARGARET'S PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 7
         },
         {
             "name": "ST. JOSEPH'S INSTITUTION JUNIOR",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "ST. STEPHEN'S SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ OUR LADY OF GOOD COUNSEL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "MONTFORT JUNIOR SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ OUR LADY QUEEN OF PEACE",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "FAIRFIELD METHODIST SCHOOL (PRIMARY)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 8
         },
         {
             "name": "GEYLANG METHODIST SCHOOL (PRIMARY)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 8
         },
         {
             "name": "KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 7
         },
         {
             "name": "ST. HILDA'S PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 7
         },
         {
             "name": "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 5
         },
         {
             "name": "METHODIST GIRLS' SCHOOL (PRIMARY)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 8
         },
         {
             "name": "NAN CHIAU PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "KONG HWA SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "MEE TOH SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 2
         },
         {
             "name": "NGEE ANN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 1
         },
         {
             "name": "RED SWASTIKA SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "TAO NAN SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NANYANG PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 6
         },
         {
             "name": "ST. ANTHONY'S PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "MAHA BODHI SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 2
         },
         {
             "name": "PEI CHUN PUBLIC SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "POI CHING SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "KHENG CHENG SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "NAN HUA PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "PEI HWA PRESBYTERIAN PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "AI TONG SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "HONG WEN SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "HOLY INNOCENTS' PRIMARY SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 8
         },
         {
             "name": "CHONGFU SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "CHIJ (KATONG) PRIMARY",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 9
         },
         {
             "name": "ANGLO-CHINESE SCHOOL (PRIMARY)",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 8
         },
         {
             "name": "ANGLO-CHINESE SCHOOL (INDEPENDENT)",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 8
         },
         {
             "name": "ASSUMPTION ENGLISH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ SECONDARY (TOA PAYOH)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "GEYLANG METHODIST SCHOOL (SECONDARY)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 8
         },
         {
             "name": "CHIJ KATONG CONVENT",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "MONTFORT SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "SINGAPORE CHINESE GIRLS' SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 5
         },
         {
             "name": "ST. ANDREW'S SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 7
         },
         {
             "name": "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "ST. GABRIEL'S SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ ST. JOSEPH'S CONVENT",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "ST. JOSEPH'S INSTITUTION",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 9
         },
         {
             "name": "ST. MARGARET'S SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 7
         },
         {
             "name": "ST. PATRICK'S SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "CHIJ ST. THERESA'S CONVENT",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "CHRIST CHURCH SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 7
         },
         {
             "name": "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 8
         },
         {
             "name": "YUYING SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 7
         },
         {
             "name": "ST. HILDA'S SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 7
         },
         {
             "name": "METHODIST GIRLS' SCHOOL (SECONDARY)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 8
         },
         {
             "name": "HAI SING CATHOLIC SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "ANGLO-CHINESE SCHOOL (BARKER ROAD)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 8
         },
         {
             "name": "ANGLICAN HIGH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 7
         },
         {
             "name": "CATHOLIC HIGH SCHOOL",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 9
         },
         {
             "name": "CHUNG CHENG HIGH SCHOOL (MAIN)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 3
         },
         {
             "name": "CHUNG CHENG HIGH SCHOOL (YISHUN)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 3
         },
         {
             "name": "HOLY INNOCENTS' HIGH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 9
         },
         {
             "name": "MARIS STELLA HIGH SCHOOL",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 9
         },
         {
             "name": "NAN CHIAU HIGH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "NANYANG GIRLS' HIGH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CHIJ ST. NICHOLAS GIRLS' SCHOOL",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 9
         },
         {
             "name": "MARYMOUNT CONVENT SCHOOL",
-            "party": "PRIMARY"
+            "level": "PRIMARY",
+            "cluster": 0
         },
         {
             "name": "MANJUSRI SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 2
         },
         {
             "name": "PRESBYTERIAN HIGH SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 7
         },
         {
             "name": "FAIRFIELD METHODIST SCHOOL (SECONDARY)",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 8
         },
         {
             "name": "NGEE ANN SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 1
         },
         {
             "name": "SINGAPORE SPORTS SCHOOL",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "SCHOOL OF THE ARTS, SINGAPORE",
-            "party": "MIXED LEVEL"
+            "level": "MIXED LEVEL",
+            "cluster": 0
         },
         {
             "name": "NORTHLIGHT SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "ASSUMPTION PATHWAY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SCHOOL OF SCIENCE AND TECHNOLOGY, SINGAPORE",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "CREST SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         },
         {
             "name": "SPECTRA SECONDARY SCHOOL",
-            "party": "SECONDARY"
+            "level": "SECONDARY",
+            "cluster": 0
         }
     ],
     "links": [
