@@ -1,0 +1,64 @@
+---
+title: "HeatMapBuilder"
+author: "Clinton"
+date: "25 April 2020"
+output: html_document
+---
+
+```{r}
+library(jsonlite)
+library(dplyr)
+library(purrr)
+
+df = fromJSON("data/all-schools-info.json")
+```
+
+```{r}
+df %>% map(function(x) {
+  
+  output = data.frame(year = c(2018, 2017, 2016, 2015, 2014),
+                      SYF_Distinction = 0,
+                      SYF_Recognition = 0,
+                      SYF_Commendation = 0,
+                      SYF_Accomplishment = 0)
+  
+  sub = x$AchievementHistory
+  
+  sub2 = NULL
+  
+  if(length(sub) == 1) {
+    
+    # 2018
+    sub[[1]][["2018"]][["SYF Arts Presentation"]] %>%
+      map(function(x) {
+        
+        if (x == "Distinction") {
+          
+          print(output$SYF_Distinction[1])
+          output$SYF_Distinction[1] = output$SYF_Distinction[1] + 1
+          print(output$SYF_Distinction[1])
+          
+        } else if (x == "Recognition") {
+          
+          output$SYF_Recognition[1] = output$SYF_Recognition[1] + 1
+          
+        } else if (x == "Commendation") {
+          
+          output$SYF_Commendation[1] = output$SYF_Commendation[1] + 1
+          
+        } else if (x == "Accomplishment") {
+          
+          output$SYF_Accomplishment[1] = output$SYF_Accomplishment[1] + 1
+          
+        }
+        
+        print(output)
+      })
+    
+    
+  }
+  return(output)
+}) %>% View()
+```
+
+
