@@ -1,157 +1,153 @@
-var canvas = d3.select("#networks")
-    .append("canvas")
-    .attr("width", 600)
-    .attr("height", 600),
-    width = canvas.attr("width"),
-    height = canvas.attr("height"),
-    ctx = canvas.node().getContext("2d"),
-    r = 3,
-    color = d3.scaleOrdinal() // D3 Version 4
-        .domain(["PRIMARY", "SECONDARY", "JUNIOR COLLEGE", "MIXED LEVEL", "CENTRALISED INSTITUTE"])
-        .range(["red", "blue", "green", "yellow", "pink"]),
-    simulation = d3.forceSimulation()
-        .force("x", d3.forceX(width / 2))
-        .force("y", d3.forceY(height / 2))
-        .force("collide", d3.forceCollide(r + 1))
-        .force("charge", d3.forceManyBody()
-            .strength(-20))
-        .force("link", d3.forceLink()
-            .id(function (d) { return d.name; })),
-    nested = 0;
+var width = 600,
+    height = 600,
+    subW = 200,
+    subH = 200,
+    r = 3;
 
-d3.json("assets/js/graphFile.json", function (err, graph) {
-    if (err) throw err;
+var svg = d3.select("#networks")
+    .append("svg")
+    .attr("width", width)
+    .attr("height", height)
+    /*
+    width = document.getElementById("networks").offsetWidth,
+    height = document.getElementById("networks").offsetHeight;
+    */
+   
+var subSVG = d3.select("#networks-subgraph")
+    .append("svg")
+    .attr("width", subW)
+    .attr("height", subH)
 
-    simulation.nodes(graph.nodes);
-    simulation.force("link")
-        .links(graph.links);
-    simulation.on("tick", update);
+var color = d3.scaleOrdinal(d3.schemeCategory20);
 
-    canvas
+var simulation = d3.forceSimulation()
+    .force("x", d3.forceX(width / 4))
+    .force("y", d3.forceY(height / 4))
+    .force("link", d3.forceLink().id(function (d) {return d.name;}))
+    .force("charge", d3.forceManyBody().strength(-20))
+    .force("center", d3.forceCenter(width / 2, height / 2))
+    .force("collide", d3.forceCollide(r + 1));
+
+d3.json("data/network_data.json", function(error, graph) {
+    if (error) throw error;
+    console.log(graph);
+    var link = svg.append("g")
+        .selectAll("line")
+        .data(graph.links).enter()
+        .append("line")
+        .attr("x1", function(d) { return d.source.x; })
+        .attr("y1", function(d) { return d.source.y; })
+        .attr("x2", function(d) { return d.target.x; })
+        .attr("y2", function(d) { return d.target.y; })
+        .attr("stroke", "black");
+
+    var node = svg.append("g")
+        .attr("class", "nodes")
+        .selectAll("g")
+        .data(graph.nodes)
+        .enter()
+        .append("circle")
+        .attr("r", 5)
+        .attr("fill", function(d) { return color(d.level); })
         .call(d3.drag()
-            .container(canvas.node())
-            .subject(dragsubject)
             .on("start", dragstarted)
             .on("drag", dragged)
             .on("end", dragended));
 
-    function update() {
-        ctx.clearRect(0, 0, width, height);
+    simulation
+        .nodes(graph.nodes)
+        .on("tick", ticked);
 
-        ctx.beginPath();
-        ctx.globalAlpha = 0.5;
-        ctx.strokeStyle = "#aaa";
-        graph.links.forEach(drawLink);
-        ctx.stroke();
+    simulation.force("link")
+        .links(graph.links);
+    
+    function ticked() {
+        link
+            .attr("x1", function(d) { return d.source.x; })
+            .attr("y1", function(d) { return d.source.y; })
+            .attr("x2", function(d) { return d.target.x; })
+            .attr("y2", function(d) { return d.target.y; });
 
+        node
+            .attr("cx", function(d) { return d.x; })
+            .attr("cy", function(d) { return d.y; });
+    };
 
-        ctx.globalAlpha = 1.0;
-        graph.nodes.forEach(drawNode);
-    }
+    
+    node
+        .on("mouseover", function(d) {
+            d3.select(this).attr("stroke", "black").attr("r", 15);
 
-    function dragsubject() {
-        return simulation.find(d3.event.x, d3.event.y);
-    }
+            d3.select("#networkschoolname").text("School: " + d.name);
+        
+            var cluster = d.cluster;
+            if (cluster != 0) {
+                var subNodes = graph.nodes.filter(function (d) { return d.cluster == cluster; })
+                var subLinks = graph.links.filter(function (d) { return d.cluster == cluster; })
+                var subNodes = [...subNodes]
+                var subLinks = [...subLinks]
 
+                var offsetX = subW / 2 - subNodes[0].x;
+                var offsetY = subH / 2 - subNodes[0].y;
+
+                document.querySelector("#networks-subgraph svg").innerHTML = "";
+    
+                var subLink = subSVG
+                    .selectAll("subLine")
+                    .data(subLinks).enter()
+                    .append("line")
+                    .attr("x1", function(d) { return d.source.x; })
+                    .attr("y1", function(d) { return d.source.y; })
+                    .attr("x2", function(d) { return d.target.x; })
+                    .attr("y2", function(d) { return d.target.y; })
+                    .attr("stroke", "#f0f0f0")
+                    .style("opacity", 0.5)
+                    .attr("transform", function() { return "translate (" +  offsetX + ", " + offsetY + ")" });
+            
+                var subNodeG = subSVG
+                    .selectAll("subG")
+                    .data(subNodes)
+                    .enter()
+                    .append("g")
+            
+                var subNode = subNodeG.append("circle")
+                    .attr("r", 5)
+                    .attr("fill", function(d) { return color(d.level); })
+                    .attr("fill-opacity", 0.5)
+                    .attr("cx", function(d) { return d.x; })
+                    .attr("cy", function(d) { return d.y; })
+                    .attr("transform", function() { return "translate (" + offsetX + ", " + offsetY + ")" });
+                
+                subNodeG.append("text")
+                    .text(function(d) { return d.name; })
+                    .style("font-size", "0.2em")
+                    .attr("x", function(d) { return d.x; })
+                    .attr("y", function(d) { return d.y; })
+                    .attr("transform", function() { return "translate (" + offsetX + ", " + offsetY + ")" });
+                
+                subSVG
+                    .attr("width", subW)
+                    .attr("height", subH)
+                    .attr("transform", "translate(200, 200) scale(3)")
+            }
+        })
+        .on("mouseout", function() { d3.select(this).attr("stroke", false).attr("r", 5); })
+    
 });
 
-function dragstarted() {
+function dragstarted(d) {
     if (!d3.event.active) simulation.alphaTarget(0.3).restart();
-    d3.event.subject.fx = d3.event.subject.x;
-    d3.event.subject.fy = d3.event.subject.y;
-
-    // Appending Name
-    var currentNode = d3.event.subject;
-    d3.select("#networkschoolname").text("School: " + currentNode.name)
-
-    if (nested == 0) {
-        // Subgraph
-        d3.json("assets/js/graphFile.json", function (data) {
-
-            output_nodes = data.nodes.filter(function (d) {
-                return d.cluster == currentNode.cluster
-            })
-
-            output_links = data.links.filter(function (d) { //not working properly, need to refilter
-                return d.source in output_nodes
-            })
-
-            filtered_output = {
-                "nodes": output_nodes,
-                "links": output_links
-            };
-
-            console.log(filtered_output)
-
-            var subcanvas = d3.select("#networks-subgraph")
-                .append("canvas")
-                .attr("width", 600)
-                .attr("height", 600),
-                width = subcanvas.attr("width"),
-                height = subcanvas.attr("height"),
-                ctx2 = subcanvas.node().getContext("2d"),
-                r = 3,
-                color = d3.scaleOrdinal() // D3 Version 4
-                    .domain(["PRIMARY", "SECONDARY", "JUNIOR COLLEGE", "MIXED LEVEL", "CENTRALISED INSTITUTE"])
-                    .range(["red", "blue", "green", "yellow", "pink"]),
-                simulation2 = d3.forceSimulation()
-                    .force("x", d3.forceX(width / 2))
-                    .force("y", d3.forceY(height / 2))
-                    .force("collide", d3.forceCollide(r + 1))
-                    .force("charge", d3.forceManyBody()
-                        .strength(-20))
-                    .force("link", d3.forceLink()
-                        .id(function (d) { return d.name; }));
-
-            simulation2.nodes(filtered_output.nodes);
-            simulation2.force("link")
-                .links(filtered_output.links);
-            simulation2.on("tick", function () {
-                ctx2.clearRect(0, 0, width, height);
-
-                ctx2.beginPath();
-                ctx2.globalAlpha = 0.5;
-                ctx2.strokeStyle = "#aaa";
-                filtered_output.links.forEach(function (l) {
-                    ctx2.moveTo(l.source.x, l.source.y);
-                    ctx2.lineTo(l.target.x, l.target.y);
-                });
-                ctx2.stroke();
-
-
-                ctx2.globalAlpha = 1.0;
-                filtered_output.nodes.forEach(drawNode);
-            });
-        });
-
-        nested = 1
-    }
-
+    d.fx = d.x;
+    d.fy = d.y;
 }
 
-function dragged() {
-    d3.event.subject.fx = d3.event.x;
-    d3.event.subject.fy = d3.event.y;
+function dragged(d) {
+    d.fx = d3.event.x;
+    d.fy = d3.event.y;
 }
-
-function dragended() {
+  
+function dragended(d) {
     if (!d3.event.active) simulation.alphaTarget(0);
-    d3.event.subject.fx = null;
-    d3.event.subject.fy = null;
-}
-
-
-
-function drawNode(d) {
-    ctx.beginPath();
-    //ctx.fillText(d.name, d.x + 10, d.y + 3);
-    ctx.fillStyle = color(d.level);
-    ctx.moveTo(d.x, d.y);
-    ctx.arc(d.x, d.y, r, 0, Math.PI * 2);
-    ctx.fill();
-}
-
-function drawLink(l) {
-    ctx.moveTo(l.source.x, l.source.y);
-    ctx.lineTo(l.target.x, l.target.y);
+    d.fx = null;
+    d.fy = null;
 }
