@@ -1,8 +1,10 @@
 /* Site */
 html, body {
     font-family: 'Open Sans';
+    font-size: 13px;
     margin: 0;
     padding: 0;
+    overflow-x: hidden;
 }
 
 ::-webkit-scrollbar {
@@ -34,6 +36,13 @@ html, body {
     scroll-snap-align: start;
 }
 
+.header { 
+    font-family: "Quicksand"; 
+    font-weight: bold; 
+    font-size: 1.2em; 
+    padding-left: 5px;
+}
+
 /* Main Page */
 #interactive-map {
     width: 80%;
@@ -56,13 +65,16 @@ html, body {
     display: flex;
 }
 
+/* Sidebar */
 .sidebar {
     font-size: 13px;
+    color: #ffffff;
     height: 100%;
     width: 25%;
-    background: grey;
-    padding: 5px;
+    background: #2c3e50;
     white-space: normal;
+    padding: 5px;
+    text-align: justify;
 }
 
 .box {
@@ -70,17 +82,57 @@ html, body {
     height: 50%;
 }
 
+#school-info{padding-left: 5px; padding-right: 5px;}
+
+/* Main */
 .main {
     height: 100%;
     width: 75%;
+    background-color: #eeeeee;
 }
 
 .strip {
     height: 50vh;
     display: flex;
+    justify-content: space-evenly;
+    padding: 10px;
 }
 
-.grid {
+.grid3 {
     height: 100%;
-    width: 33%;
+    width: 32%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgba(141, 141, 141, 0.1);
+}
+.grid2 {
+    height: 100%;
+    width: 49%;
+    background-color: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgba(138, 138, 138, 0.1);
+    position: relative;
+}
+.grid-layer { position: absolute; height: 100%; width: 100%; padding-top: 5px; }
+
+table {
+    font-size: 12px;
+    white-space: normal;
+    width: 90%;
+}
+thead th {position: sticky; top: 0; background-color: #ffffff;}
+.even {background-color: blanchedalmond !important;}
+tr:hover {background-color: grey !important; font-weight: bold;}
+#sch-offerings { overflow-y: scroll; }
+
+.tooltip {
+    background-color: white;
+    opacity: 0;
+    position: absolute;
+    border: solid;
+    border-width: 2px;
+    border-radius: 5px;
+    padding: 5px;
+    pointer-events: none;
+    max-width: 300px;
 }

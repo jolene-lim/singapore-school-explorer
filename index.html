@@ -9,9 +9,11 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
+    <link rel="stylesheet" href="https://cdn.datatables.net/scroller/2.0.1/css/scroller.dataTables.min.css"/>
     <link href="assets/css/style.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
-    <link href="assets/css/radar-chart.min.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Quicksand&display=swap" rel="stylesheet">
+    <script src="https://kit.fontawesome.com/0067ac9303.js" crossorigin="anonymous"></script>
 </head>
 
 <body>
@@ -76,14 +78,23 @@
 
             <div class="main">
                 <div class="strip">
-                    <div class="grid" id="sch-overview"></div>
-                    <div class="grid" id="sch-achievement"></div>
-                    <div class="grid" id="sch-entry"></div>
+                    <div class="grid3" id="sch-overview"></div>
+                    <div class="grid3" id="sch-achievement"></div>
+                    <div class="grid3" id="sch-entry"></div>
                 </div>
                 <div class="strip">
-                    <div class="grid" id="sch-cca">table</div>
-                    <div class="grid" id="sch-subjs"></div>
-                    <div class="grid" id="sch-progs"></div>
+                    <div class="grid2" id="sch-offerings">
+                        <div class="grid-layer header">Programmes</div>
+                        <div class="grid-layer">
+                            <table id="offerTable"></table>
+                        </div>
+                    </div>
+                    <div class="grid2" id="sch-achieve-table">
+                        <div class="grid-layer header">Achievements</div>
+                        <div class="grid-layer">
+                            <table id="achieveTable"></table>
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -92,11 +103,13 @@
 
 </html>
 
-<script src="https://code.jquery.com/jquery-3.4.1.slim.js"></script>
+<script src="https://code.jquery.com/jquery-3.3.1.js" type="text/javascript"></script>
 <script src="https://d3js.org/d3.v4.min.js"></script>
 <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js"
     integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew=="
     crossorigin=""></script>
+<script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
+<script src="https://cdn.datatables.net/scroller/2.0.1/js/dataTables.scroller.min.js" type="text/javascript"></script>
 <script type="text/javascript" src="assets/js/interactive-map.js"></script>
 <script type="text/javascript" src="assets/js/d3-school.js"></script>
 <script type="text/javascript" src="assets/js/load-school.js"></script>
