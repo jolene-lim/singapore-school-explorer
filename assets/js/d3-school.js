@@ -45,6 +45,7 @@ function plotSchool(value) {
         plotAchieve(d[value]["awards_map"]);
         //plotCCA(d[value]["Cca"]);
         plotEntry(entry, entryRange);
+        plotVacancies(name);
 
         // TABLES
         offerTable(d[value]["Cca"], d[value]["SubjectOffered"], d[value]["SpecialProgrammes"]);
@@ -360,7 +361,7 @@ function plotAchieve(award) {
         .attr("text-anchor", "left")
         .text("Achievement History");
 
-}
+};
 
 // CCA plot
 function plotCCA(cca) {
@@ -449,7 +450,7 @@ function offerTable(cca, subject, specialProgs) {
         "info": "",
         scroller: false
     });
-}
+};
 
 function achieveTable(award) {
 
@@ -474,8 +475,103 @@ function achieveTable(award) {
             $(row).addClass(data.Category.slice(0, 2));
         },
     });
+};
 
-}
+function plotVacancies(name) {
+
+    d3.csv("data/vacancies.csv", function (data) {
+
+        var margin = { top: 30, right: 30, bottom: 70, left: 60 },
+            width = 460 - margin.left - margin.right,
+            height = 400 - margin.top - margin.bottom;
+
+        var svg = d3.select("#sch-entry")
+            .append("svg")
+            .attr("width", width + margin.left + margin.right)
+            .attr("height", height + margin.top + margin.bottom)
+            .append("g")
+            .attr("transform",
+                "translate(" + margin.left + "," + margin.top + ")");
+
+        var subset = data.filter(function (d) { return (d.School == name) })
+        var subgroups = data.columns.slice(1, 3)
+        var groups = d3.map(subset, function (d) { return (d.Phase) }).keys()
+
+        // Add X axis
+        var x = d3.scaleBand()
+            .domain(groups)
+            .range([0, width])
+            .padding([0.2])
+        svg.append("g")
+            .attr("transform", "translate(0," + height + ")")
+            .call(d3.axisBottom(x).tickSize(0))
+            .selectAll("text")
+            .attr("transform", "translate(-10,5) rotate(45)")
+            .style("text-anchor", "start");
+
+        // Add Y axis
+        var y = d3.scaleLinear()
+            .domain([0, subset[0].Vacancies])
+            .range([height, 0]);
+        svg.append("g")
+            .call(d3.axisLeft(y));
+
+        // Another scale for subgroup position?
+        var xSubgroup = d3.scaleBand()
+            .domain(subgroups)
+            .range([0, x.bandwidth()])
+            .padding([0.05])
+
+        // color palette = one color per subgroup
+        var color = d3.scaleOrdinal()
+            .domain(subgroups)
+            .range(['#e41a1c', '#377eb8'])
+
+        // Show the bars
+        svg.append("g")
+            .selectAll("g")
+            // Enter in data = loop group per group
+            .data(subset)
+            .enter()
+            .append("g")
+            .attr("transform", function (d) { return "translate(" + x(d.Phase) + ",0)"; })
+            .selectAll("rect")
+            .data(function (d) { return subgroups.map(function (key) { return { key: key, value: d[key] }; }); })
+            .enter().append("rect")
+            .attr("x", function (d) { return xSubgroup(d.key); })
+            .attr("y", function (d) { return y(d.value); })
+            .attr("width", xSubgroup.bandwidth())
+            .attr("height", function (d) { return height - y(d.value); })
+            .attr("fill", function (d) { return color(d.key); });
+
+        var legend = svg.selectAll(".legend")
+            .data(subgroups)
+            .enter()
+            .append("g")
+            .attr("transform", "translate(270, 60)")
+
+        legend.append("rect")
+            .attr("fill", color)
+            .attr("width", 20)
+            .attr("height", 20)
+            .attr("y", function (d, i) {
+                return i * 25 - 60;
+            })
+            .attr("x", 0);
+
+        legend.append("text")
+            .attr("font-size", "14px")
+            .attr("class", "label")
+            .attr("y", function (d, i) {
+                return i * 25 - 46;
+            })
+            .attr("x", 30)
+            .attr("text-anchor", "start")
+            .text(function (d, i) {
+                return ["Vacancies", "Applicants"][i];
+            });
+    });
+};
 
 // entry score
 function plotEntry(entry, entryRange) {
@@ -673,4 +769,10 @@ function schMap(lat, lng, bus, mrt) {
             .attr("cx", schoolMap.latLngToLayerPoint([lat, lng]).x)
             .attr("cy", schoolMap.latLngToLayerPoint([lat, lng]).y);
     });
+};
+
+function nameToCode(value) {
+    d3.json("data/data/translationDictionary.json", function (d) {
+        return (d[value]["code"][0])
+    })
 };
