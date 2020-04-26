@@ -15,15 +15,16 @@ L.svg().addTo(schoolMap);
 
 // value = school code
 function plotSchool(value) {
-    d3.json("data/school-info-wrangled.json", function (d) {
+    d3.json("data/school-info-v4.json", function (d) {
         // save useful variables
         let lat = d[value]["location"]["lat"],
             lng = d[value]["location"]["lng"],
             name = d[value]["name"];
         let entry = null;
         let entryRange = null;
+        let vacancy = null;
 
-        // CCA admission info
+        // Admission info
         if (Object.keys(d[value]).includes("PsleAggregateHistory")) {
             entry = d[value]["PsleAggregateHistory"];
             entryRange = [90, 300];
@@ -31,6 +32,9 @@ function plotSchool(value) {
             entry = d[value]["L1R5History"]
             entryRange = [0, 20];
         }
+
+        // vacancy
+        if (Object.keys(d[value]).includes("Vacancy")) { vacancy = d[value]["Vacancy"]; }
 
         // SCHOOL INFO
         schName(name);
@@ -45,7 +49,7 @@ function plotSchool(value) {
         plotAchieve(d[value]["awards_map"]);
         //plotCCA(d[value]["Cca"]);
         plotEntry(entry, entryRange);
-        plotVacancies(name);
+        plotVacancies(vacancy, name);
 
         // TABLES
         offerTable(d[value]["Cca"], d[value]["SubjectOffered"], d[value]["SpecialProgrammes"]);
@@ -257,8 +261,7 @@ function plotAchieve(award) {
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
     var svg = canvas.append("g")
-        .attr("transform",
-            "translate(" + margin.left + "," + margin.top + ")");
+        .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
     
     // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
     var myGroups = d3.map(award, function(d){return d.Year;}).keys()
@@ -477,25 +480,26 @@ function achieveTable(award) {
     });
 };
 
-function plotVacancies(name) {
+function plotVacancies(data, name) {
 
-    d3.csv("data/vacancies.csv", function (data) {
+    if (data != null) {
+        document.getElementById("sch-entry").innerHTML = "";
 
-        var margin = { top: 30, right: 30, bottom: 70, left: 60 },
-            width = 460 - margin.left - margin.right,
-            height = 400 - margin.top - margin.bottom;
+        var margin = { top: 50, right: 30, bottom: 70, left: 30 },
+            width = document.getElementById("sch-entry").offsetWidth - margin.left - margin.right,
+            height = document.getElementById("sch-entry").offsetHeight - margin.top - margin.bottom;
 
-        var svg = d3.select("#sch-entry")
+        var canvas = d3.select("#sch-entry")
             .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
-            .append("g")
+        
+        var svg = canvas.append("g")
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
 
-        var subset = data.filter(function (d) { return (d.School == name) })
-        var subgroups = data.columns.slice(1, 3)
-        var groups = d3.map(subset, function (d) { return (d.Phase) }).keys()
+        var subgroups = ["Vacancies", "Applicants"];
+        var groups = d3.map(data, function (d) { return (d.Phase) }).keys()
 
         // Add X axis
         var x = d3.scaleBand()
@@ -506,15 +510,18 @@ function plotVacancies(name) {
             .attr("transform", "translate(0," + height + ")")
             .call(d3.axisBottom(x).tickSize(0))
             .selectAll("text")
-            .attr("transform", "translate(-10,5) rotate(45)")
-            .style("text-anchor", "start");
+            .attr("transform", "translate(-10,5) rotate(30)")
+            .style("text-anchor", "start")
+            .style("font-family", "Open Sans");
 
         // Add Y axis
         var y = d3.scaleLinear()
-            .domain([0, subset[0].Vacancies])
+            .domain([0, data[0].Vacancies])
             .range([height, 0]);
         svg.append("g")
-            .call(d3.axisLeft(y));
+            .call(d3.axisLeft(y))
+            .selectAll("text")
+            .style("font-family", "Open Sans");
 
         // Another scale for subgroup position?
         var xSubgroup = d3.scaleBand()
@@ -531,7 +538,7 @@ function plotVacancies(name) {
         svg.append("g")
             .selectAll("g")
             // Enter in data = loop group per group
-            .data(subset)
+            .data(data)
             .enter()
             .append("g")
             .attr("transform", function (d) { return "translate(" + x(d.Phase) + ",0)"; })
@@ -548,29 +555,37 @@ function plotVacancies(name) {
             .data(subgroups)
             .enter()
             .append("g")
-            .attr("transform", "translate(270, 60)")
+            .attr("transform", "translate(" + (width * 0.75) + "," + (margin.top) + ")")
 
         legend.append("rect")
             .attr("fill", color)
-            .attr("width", 20)
-            .attr("height", 20)
+            .attr("width", 10)
+            .attr("height", 10)
             .attr("y", function (d, i) {
                 return i * 25 - 60;
             })
             .attr("x", 0);
 
         legend.append("text")
-            .attr("font-size", "14px")
             .attr("class", "label")
             .attr("y", function (d, i) {
-                return i * 25 - 46;
+                return i * 25 - 50;
             })
-            .attr("x", 30)
+            .attr("x", 15)
             .attr("text-anchor", "start")
             .text(function (d, i) {
-                return ["Vacancies", "Applicants"][i];
+                return subgroups[i];
             });
-    });
+        
+        // title
+        canvas.append("text")
+            .attr("class", "header")
+            .attr("x", "5px")
+            .attr("y", "20px")
+            .attr("text-anchor", "left")
+            .text("Application Statistics");
+
+    };
 };
 
 // entry score
