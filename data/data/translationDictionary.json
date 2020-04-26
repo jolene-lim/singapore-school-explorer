@@ -1,0 +1,1782 @@
+{
+    "NATIONAL JUNIOR COLLEGE": {
+        "code": [
+            "0701"
+        ]
+    },
+    "TEMASEK JUNIOR COLLEGE": {
+        "code": [
+            "0702"
+        ]
+    },
+    "JURONG JUNIOR COLLEGE": {
+        "code": [
+            "0703"
+        ]
+    },
+    "ANDERSON JUNIOR COLLEGE": {
+        "code": [
+            "0705"
+        ]
+    },
+    "VICTORIA JUNIOR COLLEGE": {
+        "code": [
+            "0706"
+        ]
+    },
+    "YISHUN JUNIOR COLLEGE": {
+        "code": [
+            "0708"
+        ]
+    },
+    "TAMPINES JUNIOR COLLEGE": {
+        "code": [
+            "0709"
+        ]
+    },
+    "SERANGOON JUNIOR COLLEGE": {
+        "code": [
+            "0710"
+        ]
+    },
+    "PIONEER JUNIOR COLLEGE": {
+        "code": [
+            "0711"
+        ]
+    },
+    "MERIDIAN JUNIOR COLLEGE": {
+        "code": [
+            "0712"
+        ]
+    },
+    "INNOVA JUNIOR COLLEGE": {
+        "code": [
+            "0713"
+        ]
+    },
+    "EUNOIA JUNIOR COLLEGE": {
+        "code": [
+            "0714"
+        ]
+    },
+    "CATHOLIC JUNIOR COLLEGE": {
+        "code": [
+            "0802"
+        ]
+    },
+    "ANGLO-CHINESE JUNIOR COLLEGE": {
+        "code": [
+            "0803"
+        ]
+    },
+    "ST. ANDREW'S JUNIOR COLLEGE": {
+        "code": [
+            "0804"
+        ]
+    },
+    "NANYANG JUNIOR COLLEGE": {
+        "code": [
+            "0805"
+        ]
+    },
+    "HWA CHONG INSTITUTION": {
+        "code": [
+            "0806"
+        ]
+    },
+    "MILLENNIA INSTITUTE": {
+        "code": [
+            "0908"
+        ]
+    },
+    "BUKIT PANJANG PRIMARY SCHOOL": {
+        "code": [
+            "1020"
+        ]
+    },
+    "HAIG GIRLS' SCHOOL": {
+        "code": [
+            "1038"
+        ]
+    },
+    "TECK WHYE PRIMARY SCHOOL": {
+        "code": [
+            "1043"
+        ]
+    },
+    "JURONG PRIMARY SCHOOL": {
+        "code": [
+            "1045"
+        ]
+    },
+    "QUEENSTOWN PRIMARY SCHOOL": {
+        "code": [
+            "1071"
+        ]
+    },
+    "RADIN MAS PRIMARY SCHOOL": {
+        "code": [
+            "1072"
+        ]
+    },
+    "RAFFLES GIRLS' PRIMARY SCHOOL": {
+        "code": [
+            "1073"
+        ]
+    },
+    "ROSYTH SCHOOL": {
+        "code": [
+            "1077"
+        ]
+    },
+    "DAMAI PRIMARY SCHOOL": {
+        "code": [
+            "1102"
+        ]
+    },
+    "FUHUA PRIMARY SCHOOL": {
+        "code": [
+            "1107"
+        ]
+    },
+    "WOODLANDS PRIMARY SCHOOL": {
+        "code": [
+            "1114"
+        ]
+    },
+    "EUNOS PRIMARY SCHOOL": {
+        "code": [
+            "1119"
+        ]
+    },
+    "HENRY PARK PRIMARY SCHOOL": {
+        "code": [
+            "1121"
+        ]
+    },
+    "BENDEMEER PRIMARY SCHOOL": {
+        "code": [
+            "1129"
+        ]
+    },
+    "CORPORATION PRIMARY SCHOOL": {
+        "code": [
+            "1132"
+        ]
+    },
+    "YIO CHU KANG PRIMARY SCHOOL": {
+        "code": [
+            "1143"
+        ]
+    },
+    "BLANGAH RISE PRIMARY SCHOOL": {
+        "code": [
+            "1145"
+        ]
+    },
+    "ANG MO KIO PRIMARY SCHOOL": {
+        "code": [
+            "1150"
+        ]
+    },
+    "MAYFLOWER PRIMARY SCHOOL": {
+        "code": [
+            "1151"
+        ]
+    },
+    "TECK GHEE PRIMARY SCHOOL": {
+        "code": [
+            "1158"
+        ]
+    },
+    "TEMASEK PRIMARY SCHOOL": {
+        "code": [
+            "1160"
+        ]
+    },
+    "SI LING PRIMARY SCHOOL": {
+        "code": [
+            "1161"
+        ]
+    },
+    "JING SHAN PRIMARY SCHOOL": {
+        "code": [
+            "1166"
+        ]
+    },
+    "DA QIAO PRIMARY SCHOOL": {
+        "code": [
+            "1168"
+        ]
+    },
+    "YISHUN PRIMARY SCHOOL": {
+        "code": [
+            "1172"
+        ]
+    },
+    "STAMFORD PRIMARY SCHOOL": {
+        "code": [
+            "1174"
+        ]
+    },
+    "FERNVALE PRIMARY SCHOOL": {
+        "code": [
+            "1177"
+        ]
+    },
+    "EAST COAST PRIMARY SCHOOL": {
+        "code": [
+            "1183"
+        ]
+    },
+    "TOWNSVILLE PRIMARY SCHOOL": {
+        "code": [
+            "1189"
+        ]
+    },
+    "RULANG PRIMARY SCHOOL": {
+        "code": [
+            "1195"
+        ]
+    },
+    "QIFA PRIMARY SCHOOL": {
+        "code": [
+            "1197"
+        ]
+    },
+    "ZHANGDE PRIMARY SCHOOL": {
+        "code": [
+            "1199"
+        ]
+    },
+    "TAMPINES PRIMARY SCHOOL": {
+        "code": [
+            "1201"
+        ]
+    },
+    "CHONGZHENG PRIMARY SCHOOL": {
+        "code": [
+            "1203"
+        ]
+    },
+    "XINGHUA PRIMARY SCHOOL": {
+        "code": [
+            "1205"
+        ]
+    },
+    "JIEMIN PRIMARY SCHOOL": {
+        "code": [
+            "1207"
+        ]
+    },
+    "FUCHUN PRIMARY SCHOOL": {
+        "code": [
+            "1208"
+        ]
+    },
+    "BUKIT VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1209"
+        ]
+    },
+    "CEDAR PRIMARY SCHOOL": {
+        "code": [
+            "1211"
+        ]
+    },
+    "OPERA ESTATE PRIMARY SCHOOL": {
+        "code": [
+            "1212"
+        ]
+    },
+    "RIVER VALLEY PRIMARY SCHOOL": {
+        "code": [
+            "1217"
+        ]
+    },
+    "TELOK KURAU PRIMARY SCHOOL": {
+        "code": [
+            "1218"
+        ]
+    },
+    "YUMIN PRIMARY SCHOOL": {
+        "code": [
+            "1219"
+        ]
+    },
+    "SHUQUN PRIMARY SCHOOL": {
+        "code": [
+            "1220"
+        ]
+    },
+    "GAN ENG SENG PRIMARY SCHOOL": {
+        "code": [
+            "1221"
+        ]
+    },
+    "GONGSHANG PRIMARY SCHOOL": {
+        "code": [
+            "1222"
+        ]
+    },
+    "HUAMIN PRIMARY SCHOOL": {
+        "code": [
+            "1223"
+        ]
+    },
+    "XISHAN PRIMARY SCHOOL": {
+        "code": [
+            "1227"
+        ]
+    },
+    "PRINCESS ELIZABETH PRIMARY SCHOOL": {
+        "code": [
+            "1228"
+        ]
+    },
+    "DAZHONG PRIMARY SCHOOL": {
+        "code": [
+            "1229"
+        ]
+    },
+    "BEDOK GREEN PRIMARY SCHOOL": {
+        "code": [
+            "1230"
+        ]
+    },
+    "LIANHUA PRIMARY SCHOOL": {
+        "code": [
+            "1232"
+        ]
+    },
+    "BALESTIER HILL PRIMARY SCHOOL": {
+        "code": [
+            "1234"
+        ]
+    },
+    "ZHONGHUA PRIMARY SCHOOL": {
+        "code": [
+            "1235"
+        ]
+    },
+    "PEIYING PRIMARY SCHOOL": {
+        "code": [
+            "1236"
+        ]
+    },
+    "EAST VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1237"
+        ]
+    },
+    "KEMING PRIMARY SCHOOL": {
+        "code": [
+            "1238"
+        ]
+    },
+    "CHANGKAT PRIMARY SCHOOL": {
+        "code": [
+            "1239"
+        ]
+    },
+    "ZHENGHUA PRIMARY SCHOOL": {
+        "code": [
+            "1240"
+        ]
+    },
+    "SOUTH VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1241"
+        ]
+    },
+    "LOYANG PRIMARY SCHOOL": {
+        "code": [
+            "1242"
+        ]
+    },
+    "PASIR RIS PRIMARY SCHOOL": {
+        "code": [
+            "1243"
+        ]
+    },
+    "CHUA CHU KANG PRIMARY SCHOOL": {
+        "code": [
+            "1244"
+        ]
+    },
+    "GREENRIDGE PRIMARY SCHOOL": {
+        "code": [
+            "1245"
+        ]
+    },
+    "FARRER PARK PRIMARY SCHOOL": {
+        "code": [
+            "1246"
+        ]
+    },
+    "BUKIT TIMAH PRIMARY SCHOOL": {
+        "code": [
+            "1247"
+        ]
+    },
+    "LAKESIDE PRIMARY SCHOOL": {
+        "code": [
+            "1248"
+        ]
+    },
+    "BEACON PRIMARY SCHOOL": {
+        "code": [
+            "1249"
+        ]
+    },
+    "INNOVA PRIMARY SCHOOL": {
+        "code": [
+            "1250"
+        ]
+    },
+    "GREENDALE PRIMARY SCHOOL": {
+        "code": [
+            "1251"
+        ]
+    },
+    "ENDEAVOUR PRIMARY SCHOOL": {
+        "code": [
+            "1252"
+        ]
+    },
+    "NORTH VISTA PRIMARY SCHOOL": {
+        "code": [
+            "1253"
+        ]
+    },
+    "ANCHOR GREEN PRIMARY SCHOOL": {
+        "code": [
+            "1254"
+        ]
+    },
+    "HORIZON PRIMARY SCHOOL": {
+        "code": [
+            "1255"
+        ]
+    },
+    "CANTONMENT PRIMARY SCHOOL": {
+        "code": [
+            "1256"
+        ]
+    },
+    "FRONTIER PRIMARY SCHOOL": {
+        "code": [
+            "1257"
+        ]
+    },
+    "WESTWOOD PRIMARY SCHOOL": {
+        "code": [
+            "1258"
+        ]
+    },
+    "PUNGGOL GREEN PRIMARY SCHOOL": {
+        "code": [
+            "1259"
+        ]
+    },
+    "PUNGGOL VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1260"
+        ]
+    },
+    "SENGKANG GREEN PRIMARY SCHOOL": {
+        "code": [
+            "1261"
+        ]
+    },
+    "SPRINGDALE PRIMARY SCHOOL": {
+        "code": [
+            "1262"
+        ]
+    },
+    "PALM VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1263"
+        ]
+    },
+    "RIVERSIDE PRIMARY SCHOOL": {
+        "code": [
+            "1264"
+        ]
+    },
+    "WEST SPRING PRIMARY SCHOOL": {
+        "code": [
+            "1265"
+        ]
+    },
+    "ALEXANDRA PRIMARY SCHOOL": {
+        "code": [
+            "1266"
+        ]
+    },
+    "NORTHOAKS PRIMARY SCHOOL": {
+        "code": [
+            "1267"
+        ]
+    },
+    "ANGSANA PRIMARY SCHOOL": {
+        "code": [
+            "1268"
+        ]
+    },
+    "PUNGGOL COVE PRIMARY SCHOOL": {
+        "code": [
+            "1269"
+        ]
+    },
+    "OASIS PRIMARY SCHOOL": {
+        "code": [
+            "1270"
+        ]
+    },
+    "WATERWAY PRIMARY SCHOOL": {
+        "code": [
+            "1271"
+        ]
+    },
+    "FERN GREEN PRIMARY SCHOOL": {
+        "code": [
+            "1272"
+        ]
+    },
+    "FIRST TOA PAYOH PRIMARY SCHOOL": {
+        "code": [
+            "1610"
+        ]
+    },
+    "MACPHERSON PRIMARY SCHOOL": {
+        "code": [
+            "1619"
+        ]
+    },
+    "NEW TOWN PRIMARY SCHOOL": {
+        "code": [
+            "1621"
+        ]
+    },
+    "BOON LAY GARDEN PRIMARY SCHOOL": {
+        "code": [
+            "1640"
+        ]
+    },
+    "MARSILING PRIMARY SCHOOL": {
+        "code": [
+            "1645"
+        ]
+    },
+    "PEI TONG PRIMARY SCHOOL": {
+        "code": [
+            "1650"
+        ]
+    },
+    "YUHUA PRIMARY SCHOOL": {
+        "code": [
+            "1656"
+        ]
+    },
+    "FENGSHAN PRIMARY SCHOOL": {
+        "code": [
+            "1657"
+        ]
+    },
+    "YU NENG PRIMARY SCHOOL": {
+        "code": [
+            "1658"
+        ]
+    },
+    "XINMIN PRIMARY SCHOOL": {
+        "code": [
+            "1724"
+        ]
+    },
+    "YANGZHENG PRIMARY SCHOOL": {
+        "code": [
+            "1725"
+        ]
+    },
+    "JUYING PRIMARY SCHOOL": {
+        "code": [
+            "1726"
+        ]
+    },
+    "JUNYUAN PRIMARY SCHOOL": {
+        "code": [
+            "1727"
+        ]
+    },
+    "NORTHLAND PRIMARY SCHOOL": {
+        "code": [
+            "1729"
+        ]
+    },
+    "NAVAL BASE PRIMARY SCHOOL": {
+        "code": [
+            "1730"
+        ]
+    },
+    "XINGNAN PRIMARY SCHOOL": {
+        "code": [
+            "1731"
+        ]
+    },
+    "QIHUA PRIMARY SCHOOL": {
+        "code": [
+            "1734"
+        ]
+    },
+    "GUANGYANG PRIMARY SCHOOL": {
+        "code": [
+            "1735"
+        ]
+    },
+    "TAMPINES NORTH PRIMARY SCHOOL": {
+        "code": [
+            "1736"
+        ]
+    },
+    "ELIAS PARK PRIMARY SCHOOL": {
+        "code": [
+            "1737"
+        ]
+    },
+    "AHMAD IBRAHIM PRIMARY SCHOOL": {
+        "code": [
+            "1738"
+        ]
+    },
+    "NORTH VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1740"
+        ]
+    },
+    "PIONEER PRIMARY SCHOOL": {
+        "code": [
+            "1741"
+        ]
+    },
+    "PUNGGOL PRIMARY SCHOOL": {
+        "code": [
+            "1742"
+        ]
+    },
+    "PARK VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1743"
+        ]
+    },
+    "ADMIRALTY PRIMARY SCHOOL": {
+        "code": [
+            "1744"
+        ]
+    },
+    "KRANJI PRIMARY SCHOOL": {
+        "code": [
+            "1745"
+        ]
+    },
+    "SENG KANG PRIMARY SCHOOL": {
+        "code": [
+            "1746"
+        ]
+    },
+    "WOODLANDS RING PRIMARY SCHOOL": {
+        "code": [
+            "1747"
+        ]
+    },
+    "WEST VIEW PRIMARY SCHOOL": {
+        "code": [
+            "1748"
+        ]
+    },
+    "WHITE SANDS PRIMARY SCHOOL": {
+        "code": [
+            "1749"
+        ]
+    },
+    "UNITY PRIMARY SCHOOL": {
+        "code": [
+            "1750"
+        ]
+    },
+    "CANBERRA PRIMARY SCHOOL": {
+        "code": [
+            "1751"
+        ]
+    },
+    "RIVERVALE PRIMARY SCHOOL": {
+        "code": [
+            "1752"
+        ]
+    },
+    "JURONG WEST PRIMARY SCHOOL": {
+        "code": [
+            "1753"
+        ]
+    },
+    "CORAL PRIMARY SCHOOL": {
+        "code": [
+            "1754"
+        ]
+    },
+    "EAST SPRING PRIMARY SCHOOL": {
+        "code": [
+            "1755"
+        ]
+    },
+    "EVERGREEN PRIMARY SCHOOL": {
+        "code": [
+            "1756"
+        ]
+    },
+    "COMPASSVALE PRIMARY SCHOOL": {
+        "code": [
+            "1757"
+        ]
+    },
+    "WOODGROVE PRIMARY SCHOOL": {
+        "code": [
+            "1758"
+        ]
+    },
+    "SEMBAWANG PRIMARY SCHOOL": {
+        "code": [
+            "1759"
+        ]
+    },
+    "CONCORD PRIMARY SCHOOL": {
+        "code": [
+            "1760"
+        ]
+    },
+    "NORTH SPRING PRIMARY SCHOOL": {
+        "code": [
+            "1761"
+        ]
+    },
+    "YEW TEE PRIMARY SCHOOL": {
+        "code": [
+            "1762"
+        ]
+    },
+    "HOUGANG PRIMARY SCHOOL": {
+        "code": [
+            "1763"
+        ]
+    },
+    "MERIDIAN PRIMARY SCHOOL": {
+        "code": [
+            "1764"
+        ]
+    },
+    "GREENWOOD PRIMARY SCHOOL": {
+        "code": [
+            "1765"
+        ]
+    },
+    "ANDERSON PRIMARY SCHOOL": {
+        "code": [
+            "1766"
+        ]
+    },
+    "WELLINGTON PRIMARY SCHOOL": {
+        "code": [
+            "1767"
+        ]
+    },
+    "EDGEFIELD PRIMARY SCHOOL": {
+        "code": [
+            "1769"
+        ]
+    },
+    "WEST GROVE PRIMARY SCHOOL": {
+        "code": [
+            "1770"
+        ]
+    },
+    "CASUARINA PRIMARY SCHOOL": {
+        "code": [
+            "1771"
+        ]
+    },
+    "CLEMENTI PRIMARY SCHOOL": {
+        "code": [
+            "1772"
+        ]
+    },
+    "TANJONG KATONG PRIMARY SCHOOL": {
+        "code": [
+            "1773"
+        ]
+    },
+    "ANDERSON SECONDARY SCHOOL": {
+        "code": [
+            "3001"
+        ]
+    },
+    "BARTLEY SECONDARY SCHOOL": {
+        "code": [
+            "3002"
+        ]
+    },
+    "BEATTY SECONDARY SCHOOL": {
+        "code": [
+            "3003"
+        ]
+    },
+    "CEDAR GIRLS' SECONDARY SCHOOL": {
+        "code": [
+            "3004"
+        ]
+    },
+    "CRESCENT GIRLS' SCHOOL": {
+        "code": [
+            "3005"
+        ]
+    },
+    "GAN ENG SENG SCHOOL": {
+        "code": [
+            "3006"
+        ]
+    },
+    "QUEENSWAY SECONDARY SCHOOL": {
+        "code": [
+            "3007"
+        ]
+    },
+    "RAFFLES GIRLS' SCHOOL (SECONDARY)": {
+        "code": [
+            "3008"
+        ]
+    },
+    "RAFFLES INSTITUTION": {
+        "code": [
+            "3009"
+        ]
+    },
+    "SERANGOON SECONDARY SCHOOL": {
+        "code": [
+            "3010"
+        ]
+    },
+    "COMMONWEALTH SECONDARY SCHOOL": {
+        "code": [
+            "3012"
+        ]
+    },
+    "TANJONG KATONG GIRLS' SCHOOL": {
+        "code": [
+            "3013"
+        ]
+    },
+    "VICTORIA SCHOOL": {
+        "code": [
+            "3014"
+        ]
+    },
+    "WHITLEY SECONDARY SCHOOL": {
+        "code": [
+            "3015"
+        ]
+    },
+    "YUHUA SECONDARY SCHOOL": {
+        "code": [
+            "3019"
+        ]
+    },
+    "YISHUN SECONDARY SCHOOL": {
+        "code": [
+            "3020"
+        ]
+    },
+    "BENDEMEER SECONDARY SCHOOL": {
+        "code": [
+            "3021"
+        ]
+    },
+    "FUCHUN SECONDARY SCHOOL": {
+        "code": [
+            "3024"
+        ]
+    },
+    "ANG MO KIO SECONDARY SCHOOL": {
+        "code": [
+            "3026"
+        ]
+    },
+    "BEDOK SOUTH SECONDARY SCHOOL": {
+        "code": [
+            "3027"
+        ]
+    },
+    "CLEMENTI TOWN SECONDARY SCHOOL": {
+        "code": [
+            "3029"
+        ]
+    },
+    "TEMASEK SECONDARY SCHOOL": {
+        "code": [
+            "3030"
+        ]
+    },
+    "MAYFLOWER SECONDARY SCHOOL": {
+        "code": [
+            "3031"
+        ]
+    },
+    "TAMPINES SECONDARY SCHOOL": {
+        "code": [
+            "3037"
+        ]
+    },
+    "BUKIT VIEW SECONDARY SCHOOL": {
+        "code": [
+            "3040"
+        ]
+    },
+    "WOODLANDS SECONDARY SCHOOL": {
+        "code": [
+            "3041"
+        ]
+    },
+    "BOWEN SECONDARY SCHOOL": {
+        "code": [
+            "3043"
+        ]
+    },
+    "BUKIT BATOK SECONDARY SCHOOL": {
+        "code": [
+            "3044"
+        ]
+    },
+    "YISHUN TOWN SECONDARY SCHOOL": {
+        "code": [
+            "3045"
+        ]
+    },
+    "HOUGANG SECONDARY SCHOOL": {
+        "code": [
+            "3046"
+        ]
+    },
+    "NAN HUA HIGH SCHOOL": {
+        "code": [
+            "3047"
+        ]
+    },
+    "HILLGROVE SECONDARY SCHOOL": {
+        "code": [
+            "3048"
+        ]
+    },
+    "XINMIN SECONDARY SCHOOL": {
+        "code": [
+            "3050"
+        ]
+    },
+    "GREENRIDGE SECONDARY SCHOOL": {
+        "code": [
+            "3051"
+        ]
+    },
+    "SPRINGFIELD SECONDARY SCHOOL": {
+        "code": [
+            "3053"
+        ]
+    },
+    "CHUA CHU KANG SECONDARY SCHOOL": {
+        "code": [
+            "3055"
+        ]
+    },
+    "DAMAI SECONDARY SCHOOL": {
+        "code": [
+            "3056"
+        ]
+    },
+    "NORTHLAND SECONDARY SCHOOL": {
+        "code": [
+            "3058"
+        ]
+    },
+    "HONG KAH SECONDARY SCHOOL": {
+        "code": [
+            "3060"
+        ]
+    },
+    "PEIRCE SECONDARY SCHOOL": {
+        "code": [
+            "3061"
+        ]
+    },
+    "JURONGVILLE SECONDARY SCHOOL": {
+        "code": [
+            "3063"
+        ]
+    },
+    "FAJAR SECONDARY SCHOOL": {
+        "code": [
+            "3064"
+        ]
+    },
+    "KRANJI SECONDARY SCHOOL": {
+        "code": [
+            "3065"
+        ]
+    },
+    "WEST SPRING SECONDARY SCHOOL": {
+        "code": [
+            "3067"
+        ]
+    },
+    "JURONG WEST SECONDARY SCHOOL": {
+        "code": [
+            "3068"
+        ]
+    },
+    "BEDOK GREEN SECONDARY SCHOOL": {
+        "code": [
+            "3069"
+        ]
+    },
+    "PUNGGOL SECONDARY SCHOOL": {
+        "code": [
+            "3070"
+        ]
+    },
+    "NORTH VISTA SECONDARY SCHOOL": {
+        "code": [
+            "3071"
+        ]
+    },
+    "ADMIRALTY SECONDARY SCHOOL": {
+        "code": [
+            "3072"
+        ]
+    },
+    "PEI HWA SECONDARY SCHOOL": {
+        "code": [
+            "3073"
+        ]
+    },
+    "GREENDALE SECONDARY SCHOOL": {
+        "code": [
+            "3074"
+        ]
+    },
+    "EDGEFIELD SECONDARY SCHOOL": {
+        "code": [
+            "3075"
+        ]
+    },
+    "MERIDIAN SECONDARY SCHOOL": {
+        "code": [
+            "3076"
+        ]
+    },
+    "LOYANG VIEW SECONDARY SCHOOL": {
+        "code": [
+            "3077"
+        ]
+    },
+    "DUNMAN HIGH SCHOOL": {
+        "code": [
+            "3101"
+        ]
+    },
+    "RIVER VALLEY HIGH SCHOOL": {
+        "code": [
+            "3103"
+        ]
+    },
+    "AHMAD IBRAHIM SECONDARY SCHOOL": {
+        "code": [
+            "3201"
+        ]
+    },
+    "BROADRICK SECONDARY SCHOOL": {
+        "code": [
+            "3202"
+        ]
+    },
+    "BUKIT MERAH SECONDARY SCHOOL": {
+        "code": [
+            "3203"
+        ]
+    },
+    "BUKIT PANJANG GOVT. HIGH SCHOOL": {
+        "code": [
+            "3204"
+        ]
+    },
+    "DUNMAN SECONDARY SCHOOL": {
+        "code": [
+            "3207"
+        ]
+    },
+    "JURONG SECONDARY SCHOOL": {
+        "code": [
+            "3211"
+        ]
+    },
+    "NAVAL BASE SECONDARY SCHOOL": {
+        "code": [
+            "3214"
+        ]
+    },
+    "OUTRAM SECONDARY SCHOOL": {
+        "code": [
+            "3215"
+        ]
+    },
+    "YIO CHU KANG SECONDARY SCHOOL": {
+        "code": [
+            "3222"
+        ]
+    },
+    "YUAN CHING SECONDARY SCHOOL": {
+        "code": [
+            "3223"
+        ]
+    },
+    "BOON LAY SECONDARY SCHOOL": {
+        "code": [
+            "3224"
+        ]
+    },
+    "BEDOK VIEW SECONDARY SCHOOL": {
+        "code": [
+            "3225"
+        ]
+    },
+    "HUA YI SECONDARY SCHOOL": {
+        "code": [
+            "3226"
+        ]
+    },
+    "DEYI SECONDARY SCHOOL": {
+        "code": [
+            "3228"
+        ]
+    },
+    "PING YI SECONDARY SCHOOL": {
+        "code": [
+            "3231"
+        ]
+    },
+    "SHUQUN SECONDARY SCHOOL": {
+        "code": [
+            "3234"
+        ]
+    },
+    "PASIR RIS SECONDARY SCHOOL": {
+        "code": [
+            "3235"
+        ]
+    },
+    "EAST VIEW SECONDARY SCHOOL": {
+        "code": [
+            "3237"
+        ]
+    },
+    "GUANGYANG SECONDARY SCHOOL": {
+        "code": [
+            "3238"
+        ]
+    },
+    "RIVERSIDE SECONDARY SCHOOL": {
+        "code": [
+            "3239"
+        ]
+    },
+    "ZHONGHUA SECONDARY SCHOOL": {
+        "code": [
+            "3240"
+        ]
+    },
+    "SWISS COTTAGE SECONDARY SCHOOL": {
+        "code": [
+            "3304"
+        ]
+    },
+    "YUSOF ISHAK SECONDARY SCHOOL": {
+        "code": [
+            "3307"
+        ]
+    },
+    "CHANGKAT CHANGI SECONDARY SCHOOL": {
+        "code": [
+            "3402"
+        ]
+    },
+    "TECK WHYE SECONDARY SCHOOL": {
+        "code": [
+            "3403"
+        ]
+    },
+    "DUNEARN SECONDARY SCHOOL": {
+        "code": [
+            "3503"
+        ]
+    },
+    "NEW TOWN SECONDARY SCHOOL": {
+        "code": [
+            "3507"
+        ]
+    },
+    "QUEENSTOWN SECONDARY SCHOOL": {
+        "code": [
+            "3508"
+        ]
+    },
+    "SERANGOON GARDEN SECONDARY SCHOOL": {
+        "code": [
+            "3509"
+        ]
+    },
+    "TANGLIN SECONDARY SCHOOL": {
+        "code": [
+            "3511"
+        ]
+    },
+    "TANJONG KATONG SECONDARY SCHOOL": {
+        "code": [
+            "3512"
+        ]
+    },
+    "WOODLANDS RING SECONDARY SCHOOL": {
+        "code": [
+            "3604"
+        ]
+    },
+    "ORCHID PARK SECONDARY SCHOOL": {
+        "code": [
+            "3605"
+        ]
+    },
+    "SEMBAWANG SECONDARY SCHOOL": {
+        "code": [
+            "3606"
+        ]
+    },
+    "SENG KANG SECONDARY SCHOOL": {
+        "code": [
+            "3607"
+        ]
+    },
+    "JUNYUAN SECONDARY SCHOOL": {
+        "code": [
+            "3608"
+        ]
+    },
+    "EAST SPRING SECONDARY SCHOOL": {
+        "code": [
+            "3609"
+        ]
+    },
+    "UNITY SECONDARY SCHOOL": {
+        "code": [
+            "3611"
+        ]
+    },
+    "NORTHBROOKS SECONDARY SCHOOL": {
+        "code": [
+            "3612"
+        ]
+    },
+    "PASIR RIS CREST SECONDARY SCHOOL": {
+        "code": [
+            "3613"
+        ]
+    },
+    "FUHUA SECONDARY SCHOOL": {
+        "code": [
+            "3614"
+        ]
+    },
+    "MARSILING SECONDARY SCHOOL": {
+        "code": [
+            "3615"
+        ]
+    },
+    "WOODGROVE SECONDARY SCHOOL": {
+        "code": [
+            "3616"
+        ]
+    },
+    "ZHENGHUA SECONDARY SCHOOL": {
+        "code": [
+            "3617"
+        ]
+    },
+    "REGENT SECONDARY SCHOOL": {
+        "code": [
+            "3618"
+        ]
+    },
+    "KENT RIDGE SECONDARY SCHOOL": {
+        "code": [
+            "3619"
+        ]
+    },
+    "WESTWOOD SECONDARY SCHOOL": {
+        "code": [
+            "3620"
+        ]
+    },
+    "CANBERRA SECONDARY SCHOOL": {
+        "code": [
+            "3621"
+        ]
+    },
+    "COMPASSVALE SECONDARY SCHOOL": {
+        "code": [
+            "3622"
+        ]
+    },
+    "EVERGREEN SECONDARY SCHOOL": {
+        "code": [
+            "3623"
+        ]
+    },
+    "ANGLO-CHINESE SCHOOL (JUNIOR)": {
+        "code": [
+            "5001"
+        ]
+    },
+    "CANOSSA CONVENT PRIMARY SCHOOL": {
+        "code": [
+            "5003"
+        ]
+    },
+    "CHIJ PRIMARY (TOA PAYOH)": {
+        "code": [
+            "5004"
+        ]
+    },
+    "CHIJ (KELLOCK)": {
+        "code": [
+            "5005"
+        ]
+    },
+    "CHIJ OUR LADY OF THE NATIVITY": {
+        "code": [
+            "5007"
+        ]
+    },
+    "DE LA SALLE SCHOOL": {
+        "code": [
+            "5008"
+        ]
+    },
+    "ST. ANDREW'S JUNIOR SCHOOL": {
+        "code": [
+            "5009"
+        ]
+    },
+    "ST. ANTHONY'S CANOSSIAN PRIMARY SCHOOL": {
+        "code": [
+            "5011"
+        ]
+    },
+    "ST. GABRIEL'S PRIMARY SCHOOL": {
+        "code": [
+            "5012"
+        ]
+    },
+    "ST. MARGARET'S PRIMARY SCHOOL": {
+        "code": [
+            "5013"
+        ]
+    },
+    "ST. JOSEPH'S INSTITUTION JUNIOR": {
+        "code": [
+            "5014"
+        ]
+    },
+    "ST. STEPHEN'S SCHOOL": {
+        "code": [
+            "5015"
+        ]
+    },
+    "CHIJ OUR LADY OF GOOD COUNSEL": {
+        "code": [
+            "5017"
+        ]
+    },
+    "MONTFORT JUNIOR SCHOOL": {
+        "code": [
+            "5018"
+        ]
+    },
+    "CHIJ OUR LADY QUEEN OF PEACE": {
+        "code": [
+            "5019"
+        ]
+    },
+    "FAIRFIELD METHODIST SCHOOL (PRIMARY)": {
+        "code": [
+            "5020"
+        ]
+    },
+    "GEYLANG METHODIST SCHOOL (PRIMARY)": {
+        "code": [
+            "5022"
+        ]
+    },
+    "KUO CHUAN PRESBYTERIAN PRIMARY SCHOOL": {
+        "code": [
+            "5024"
+        ]
+    },
+    "ST. HILDA'S PRIMARY SCHOOL": {
+        "code": [
+            "5025"
+        ]
+    },
+    "SINGAPORE CHINESE GIRLS' PRIMARY SCHOOL": {
+        "code": [
+            "5026"
+        ]
+    },
+    "METHODIST GIRLS' SCHOOL (PRIMARY)": {
+        "code": [
+            "5027"
+        ]
+    },
+    "NAN CHIAU PRIMARY SCHOOL": {
+        "code": [
+            "5028"
+        ]
+    },
+    "KONG HWA SCHOOL": {
+        "code": [
+            "5168"
+        ]
+    },
+    "MEE TOH SCHOOL": {
+        "code": [
+            "5183"
+        ]
+    },
+    "NGEE ANN PRIMARY SCHOOL": {
+        "code": [
+            "5197"
+        ]
+    },
+    "RED SWASTIKA SCHOOL": {
+        "code": [
+            "5214"
+        ]
+    },
+    "TAO NAN SCHOOL": {
+        "code": [
+            "5240"
+        ]
+    },
+    "NANYANG PRIMARY SCHOOL": {
+        "code": [
+            "5258"
+        ]
+    },
+    "ST. ANTHONY'S PRIMARY SCHOOL": {
+        "code": [
+            "5259"
+        ]
+    },
+    "MAHA BODHI SCHOOL": {
+        "code": [
+            "5601"
+        ]
+    },
+    "PEI CHUN PUBLIC SCHOOL": {
+        "code": [
+            "5602"
+        ]
+    },
+    "POI CHING SCHOOL": {
+        "code": [
+            "5603"
+        ]
+    },
+    "KHENG CHENG SCHOOL": {
+        "code": [
+            "5608"
+        ]
+    },
+    "NAN HUA PRIMARY SCHOOL": {
+        "code": [
+            "5622"
+        ]
+    },
+    "PEI HWA PRESBYTERIAN PRIMARY SCHOOL": {
+        "code": [
+            "5623"
+        ]
+    },
+    "AI TONG SCHOOL": {
+        "code": [
+            "5625"
+        ]
+    },
+    "HONG WEN SCHOOL": {
+        "code": [
+            "5626"
+        ]
+    },
+    "HOLY INNOCENTS' PRIMARY SCHOOL": {
+        "code": [
+            "5634"
+        ]
+    },
+    "PAYA LEBAR METHODIST GIRLS' SCHOOL (PRIMARY)": {
+        "code": [
+            "5635"
+        ]
+    },
+    "CHONGFU SCHOOL": {
+        "code": [
+            "5636"
+        ]
+    },
+    "CHIJ (KATONG) PRIMARY": {
+        "code": [
+            "5637"
+        ]
+    },
+    "ANGLO-CHINESE SCHOOL (PRIMARY)": {
+        "code": [
+            "5638"
+        ]
+    },
+    "ANGLO-CHINESE SCHOOL (INDEPENDENT)": {
+        "code": [
+            "7001"
+        ]
+    },
+    "ASSUMPTION ENGLISH SCHOOL": {
+        "code": [
+            "7002"
+        ]
+    },
+    "CHIJ SECONDARY (TOA PAYOH)": {
+        "code": [
+            "7004"
+        ]
+    },
+    "GEYLANG METHODIST SCHOOL (SECONDARY)": {
+        "code": [
+            "7005"
+        ]
+    },
+    "CHIJ KATONG CONVENT": {
+        "code": [
+            "7008"
+        ]
+    },
+    "MONTFORT SECONDARY SCHOOL": {
+        "code": [
+            "7011"
+        ]
+    },
+    "SINGAPORE CHINESE GIRLS' SCHOOL": {
+        "code": [
+            "7014"
+        ]
+    },
+    "ST. ANDREW'S SECONDARY SCHOOL": {
+        "code": [
+            "7015"
+        ]
+    },
+    "ST. ANTHONY'S CANOSSIAN SECONDARY SCHOOL": {
+        "code": [
+            "7016"
+        ]
+    },
+    "ST. GABRIEL'S SECONDARY SCHOOL": {
+        "code": [
+            "7017"
+        ]
+    },
+    "CHIJ ST. JOSEPH'S CONVENT": {
+        "code": [
+            "7019"
+        ]
+    },
+    "ST. JOSEPH'S INSTITUTION": {
+        "code": [
+            "7020"
+        ]
+    },
+    "ST. MARGARET'S SECONDARY SCHOOL": {
+        "code": [
+            "7021"
+        ]
+    },
+    "ST. PATRICK'S SCHOOL": {
+        "code": [
+            "7022"
+        ]
+    },
+    "CHIJ ST. THERESA'S CONVENT": {
+        "code": [
+            "7023"
+        ]
+    },
+    "CHRIST CHURCH SECONDARY SCHOOL": {
+        "code": [
+            "7025"
+        ]
+    },
+    "PAYA LEBAR METHODIST GIRLS' SCHOOL (SECONDARY)": {
+        "code": [
+            "7026"
+        ]
+    },
+    "YUYING SECONDARY SCHOOL": {
+        "code": [
+            "7027"
+        ]
+    },
+    "KUO CHUAN PRESBYTERIAN SECONDARY SCHOOL": {
+        "code": [
+            "7028"
+        ]
+    },
+    "ST. HILDA'S SECONDARY SCHOOL": {
+        "code": [
+            "7029"
+        ]
+    },
+    "METHODIST GIRLS' SCHOOL (SECONDARY)": {
+        "code": [
+            "7030"
+        ]
+    },
+    "HAI SING CATHOLIC SCHOOL": {
+        "code": [
+            "7031"
+        ]
+    },
+    "ANGLO-CHINESE SCHOOL (BARKER ROAD)": {
+        "code": [
+            "7032"
+        ]
+    },
+    "ANGLICAN HIGH SCHOOL": {
+        "code": [
+            "7101"
+        ]
+    },
+    "CATHOLIC HIGH SCHOOL": {
+        "code": [
+            "7102"
+        ]
+    },
+    "CHUNG CHENG HIGH SCHOOL (MAIN)": {
+        "code": [
+            "7104"
+        ]
+    },
+    "CHUNG CHENG HIGH SCHOOL (YISHUN)": {
+        "code": [
+            "7105"
+        ]
+    },
+    "HOLY INNOCENTS' HIGH SCHOOL": {
+        "code": [
+            "7108"
+        ]
+    },
+    "MARIS STELLA HIGH SCHOOL": {
+        "code": [
+            "7111"
+        ]
+    },
+    "NAN CHIAU HIGH SCHOOL": {
+        "code": [
+            "7112"
+        ]
+    },
+    "NANYANG GIRLS' HIGH SCHOOL": {
+        "code": [
+            "7114"
+        ]
+    },
+    "CHIJ ST. NICHOLAS GIRLS' SCHOOL": {
+        "code": [
+            "7118"
+        ]
+    },
+    "MARYMOUNT CONVENT SCHOOL": {
+        "code": [
+            "7301"
+        ]
+    },
+    "MANJUSRI SECONDARY SCHOOL": {
+        "code": [
+            "7307"
+        ]
+    },
+    "PRESBYTERIAN HIGH SCHOOL": {
+        "code": [
+            "7308"
+        ]
+    },
+    "FAIRFIELD METHODIST SCHOOL (SECONDARY)": {
+        "code": [
+            "7309"
+        ]
+    },
+    "NGEE ANN SECONDARY SCHOOL": {
+        "code": [
+            "7310"
+        ]
+    },
+    "SINGAPORE SPORTS SCHOOL": {
+        "code": [
+            "7800"
+        ]
+    },
+    "NUS HIGH SCHOOL OF MATHEMATICS AND SCIENCE": {
+        "code": [
+            "7801"
+        ]
+    },
+    "SCHOOL OF THE ARTS, SINGAPORE": {
+        "code": [
+            "7802"
+        ]
+    },
+    "NORTHLIGHT SCHOOL": {
+        "code": [
+            "7803"
+        ]
+    },
+    "ASSUMPTION PATHWAY SCHOOL": {
+        "code": [
+            "7804"
+        ]
+    },
+    "SCHOOL OF SCIENCE AND TECHNOLOGY, SINGAPORE": {
+        "code": [
+            "7805"
+        ]
+    },
+    "CREST SECONDARY SCHOOL": {
+        "code": [
+            "7806"
+        ]
+    },
+    "SPECTRA SECONDARY SCHOOL": {
+        "code": [
+            "7807"
+        ]
+    }
+}
