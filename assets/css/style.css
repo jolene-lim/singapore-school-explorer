@@ -36,6 +36,7 @@ html, body {
     scroll-snap-align: start;
 }
 
+
 .header { 
     font-family: "Quicksand"; 
     font-weight: bold; 
@@ -44,9 +45,15 @@ html, body {
 }
 
 /* Main Page */
+.subslide {
+    width: 100vw;
+    height: 100vh;
+}
+
 #interactive-map {
-    width: 80%;
-    height: 600px;    
+    width: 70%;
+    height: 60%;
+    margin: 0 auto;
 }
 
 #networks {
@@ -57,6 +64,36 @@ html, body {
 #networks-subgraph {
     width: 80%;
     height: 700px;    
+}
+
+#buttons {
+    width: 70%;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+
+#landingPage {
+    background-image: url("https://live.staticflickr.com/1352/817506639_9120efb8f5_z.jpg");
+
+    height: 100%;
+
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    backdrop-filter: blur(10px);
+}
+
+.btn-width {
+    width: 19.75%;
+}
+
+.headerContainers {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 10%;
 }
 
 /* School Page */
@@ -124,6 +161,7 @@ thead th {position: sticky; top: 0; background-color: #ffffff;}
 .even {background-color: blanchedalmond !important;}
 tr:hover {background-color: grey !important; font-weight: bold;}
 #sch-offerings { overflow-y: scroll; }
+
 
 .tooltip {
     background-color: white;
