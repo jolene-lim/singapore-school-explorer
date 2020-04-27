@@ -1,6 +1,6 @@
 // 1. Base Leaflet Map
 let interactiveMap = L
-    .map("interactive-map", null, { zoomControl:false })
+    .map("interactive-map", null, { zoomControl: false })
     .setView([1.3521, 103.8198], 12);
 
 L.tileLayer(
@@ -57,15 +57,36 @@ d3.csv("data/general-information-full.csv", function (data) {
         .attr("fill-opacity", .5)
         .attr("text", function (d) { return d.name })
 
+    var tooltip = d3.select("#interactive-map")
+        .append("div")
+        .attr("class", "tooltip");
+
     interactiveCircles.on("mouseover", function () {
         d3.select(this).style("stroke-width", 3).style("opacity", 1)
         var schoolname = d3.select(this).attr("text")
-        d3.select("#schoolname").text("School: " + schoolname)
+
+        tooltip
+            .transition()
+            .duration(10)
+            .style("opacity", "0.9")
+            .style("left", "45px")
+            .style("top", "18px")
+            .style("box-shadow", " 0px 0px 3px 4px rgba(0,0,0,0.25)")
+            .style("border", "none")
+
+        tooltip.html(schoolname);
+
+        console.log(d3.mouse[0])
+        console.log(d3.mouse[1])
+
     })
 
     interactiveCircles.on("mouseout", function () {
         d3.select(this).style("stroke-width", 0).style("opacity", 1)
-        d3.select("#schoolname").text("School:")
+
+        tooltip.transition()
+            .duration(10)
+            .style("opacity", "0");
     })
 
     interactiveMap.on("moveend", function () {
@@ -79,7 +100,6 @@ d3.csv("data/general-information-full.csv", function (data) {
         loadSchool();
         plotSchool(value);
     })
-
 })
 
 function reply_click(clicked_id) {
@@ -96,9 +116,9 @@ function reply_click(clicked_id) {
 
     if (document.getElementById(clicked_id).style.background != "white") {
         document.getElementById(clicked_id).style.background = "white"
-        document.getElementById(clicked_id).style.color = "gray"
+        document.getElementById(clicked_id).style.color = "#6c757d"
     } else {
-        document.getElementById(clicked_id).style.background = "gray"
+        document.getElementById(clicked_id).style.background = "#6c757d"
         document.getElementById(clicked_id).style.color = "white"
     }
 }
