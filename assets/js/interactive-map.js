@@ -16,46 +16,44 @@ L.svg().addTo(interactiveMap);
 // 2. Miscellaneous variables
 
 var levelColours = {
-    "PRIMARY": "red",
-    "SECONDARY": "blue",
-    "JUNIOR COLLEGE": "green",
-    "MIXED LEVEL": "yellow",
-    "CENTRALISED INSTITUTE": "pink"
+    "PRIMARY": "#e2211c",
+    "SECONDARY": "#0056b8",
+    "JUNIORCOLLEGE": "#ff9e1a",
+    "MIXEDLEVEL": "#00943a",
+    "CENTRALISEDINSTITUTE": "#9e27b5"
 }
 
 // 3. Plotting of circles on map
 
-d3.csv("data/general-information-full.csv", function (data) {
-
-    var locations = data
-        .map(function (d) {
-            return {
-                name: d.school_name,
-                long: parseFloat(d.lon),
-                lat: parseFloat(d.lat),
-                level: d.mainlevel_code,
-                code: d.code
-            }
-        })
+d3.json("data/map_data.json", function (data) {
 
     d3.select("#interactive-map")
         .select("svg")
         .selectAll("Circles")
-        .data(locations)
+        .data(data)
         .enter()
         .append("circle")
         .attr("id", "homeCircle")
         .attr("style", "pointer-events: visible;")
 
+
     var interactiveCircles = d3.selectAll("#homeCircle")
-        .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).x })
-        .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).y })
+        .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).x })
+        .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).y })
         .attr("r", 10)
-        .style("fill", function (d) { return levelColours[d.level] })
+        .style("fill", function (d) { return levelColours[d.mainlevel_code] })
         .attr("stroke", "black")
         .attr("stroke-width", 0)
-        .attr("fill-opacity", .5)
+        .attr("fill-opacity", 0)
         .attr("text", function (d) { return d.name })
+
+    interactiveCircles
+        .transition()
+        .duration(1000) // Waiting for Leaflet to load
+        .transition()
+        .delay(function (d, i) { return i * 2.5 })
+        .duration(1000)
+        .attr("fill-opacity", 0.65)
 
     var tooltip = d3.select("#interactive-map")
         .append("div")
@@ -68,7 +66,7 @@ d3.csv("data/general-information-full.csv", function (data) {
         tooltip
             .transition()
             .duration(10)
-            .style("opacity", "0.9")
+            .style("opacity", "0.8")
             .style("left", "45px")
             .style("top", "18px")
             .style("box-shadow", " 0px 0px 3px 4px rgba(0,0,0,0.25)")
@@ -76,8 +74,6 @@ d3.csv("data/general-information-full.csv", function (data) {
 
         tooltip.html(schoolname);
 
-        console.log(d3.mouse[0])
-        console.log(d3.mouse[1])
 
     })
 
@@ -91,8 +87,8 @@ d3.csv("data/general-information-full.csv", function (data) {
 
     interactiveMap.on("moveend", function () {
         d3.selectAll("#homeCircle")
-            .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).x })
-            .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.long]).y })
+            .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).x })
+            .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).y })
     })
 
     d3.selectAll("#homeCircle").on("click", function (d) {
@@ -105,7 +101,7 @@ d3.csv("data/general-information-full.csv", function (data) {
 function reply_click(clicked_id) {
 
     d3.selectAll("#homeCircle")
-        .filter(function (d) { return d.level == clicked_id })
+        .filter(function (d) { return d.mainlevel_code == clicked_id })
         .style("visibility", function () {
             if ($(this).css("visibility") == "visible") {
                 return "hidden";
@@ -116,9 +112,9 @@ function reply_click(clicked_id) {
 
     if (document.getElementById(clicked_id).style.background != "white") {
         document.getElementById(clicked_id).style.background = "white"
-        document.getElementById(clicked_id).style.color = "#6c757d"
+        document.getElementById(clicked_id).style.color = "black"
     } else {
-        document.getElementById(clicked_id).style.background = "#6c757d"
+        document.getElementById(clicked_id).style.background = levelColours[clicked_id]
         document.getElementById(clicked_id).style.color = "white"
     }
 }

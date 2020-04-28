@@ -9,11 +9,13 @@
     <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css"
         integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ=="
         crossorigin="" />
-    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css"/>
-    <link rel="stylesheet" href="https://cdn.datatables.net/scroller/2.0.1/css/scroller.dataTables.min.css"/>
+    <link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/jquery.dataTables.min.css" />
+    <link rel="stylesheet" href="https://cdn.datatables.net/scroller/2.0.1/css/scroller.dataTables.min.css" />
     <link href="assets/css/style.css" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Quicksand&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&family=Quicksand&display=swap"
+        rel="stylesheet">
     <script src="https://kit.fontawesome.com/0067ac9303.js" crossorigin="anonymous"></script>
+    <link rel="icon" type="image/png" href="https://cdn.pixabay.com/photo/2018/02/17/00/06/school-3158985_960_720.png">
 </head>
 
 <body>
@@ -23,57 +25,97 @@
             <!--Landing Page-->
             <div class="subslide" id="landingPage">
 
-                <div class="headerContainers">
-                    <h1 style="font-family: 'Quicksand', sans-serif;">Singapore School Explorer</h1>
+                <div id="landingContainerLeft">
+
+                    <div id="landingTitle">
+                        Singapore Schools
+                        <br>
+                        Explorer
+                    </div>
+
+                    <div id="landingSubtitle">
+                        A visualisation of schools in Singapore.
+                        For more information, enter a school name
+                        or click the map.
+                    </div>
+
+                    <div id="landingSearchBox">
+
+                        <h2>I want to know more about... </h2>
+
+                        <div id="landingSearchBoxInner">
+                            <input type="text" id="searchInput" placeholder="Enter school name here">
+                            <div id="searchBtn">
+                                <i class="fas fa-search fa-lg"></i>
+                            </div>
+                        </div>
+                    </div>
                 </div>
 
-                <div class="headerContainers">
-                    <h2 style="font-family: 'Quicksand', sans-serif;">I want to know more about... </h2>
-                    <input type="text" id="searchInput">
-                </div>
+                <div id="landingContainerRight">
+                    <div id="interactive-map"></div>
 
-                <div id="interactive-map"></div>
-
-                <div id="buttons">
-                    <button type="button" class="btn btn-secondary btn-width" id="PRIMARY"
-                        onClick="reply_click(this.id)">Primary</button>
-                    <button type="button" class="btn btn-secondary btn-width" id="SECONDARY"
-                        onClick="reply_click(this.id)">Secondary</button>
-                    <button type="button" class="btn btn-secondary btn-width" id="JUNIOR COLLEGE"
-                        onClick="reply_click(this.id)">Junior Colleges</button>
-                    <button type="button" class="btn btn-secondary btn-width" id="MIXED LEVEL"
-                        onClick="reply_click(this.id)">Mixed Levels</button>
-                    <button type="button" class="btn btn-secondary btn-width" id="CENTRALISED INSTITUTE"
-                        onClick="reply_click(this.id)">Centralised
-                        Institute</button>
+                    <div id="buttons">
+                        <button type="button" class="btn btn-secondary btn-width" id="PRIMARY"
+                            onClick="reply_click(this.id)">Primary</button>
+                        <button type="button" class="btn btn-secondary btn-width" id="SECONDARY"
+                            onClick="reply_click(this.id)">Secondary</button>
+                        <button type="button" class="btn btn-secondary btn-width" id="JUNIORCOLLEGE"
+                            onClick="reply_click(this.id)">Junior College</button>
+                        <button type="button" class="btn btn-secondary btn-width" id="MIXEDLEVEL"
+                            onClick="reply_click(this.id)">Mixed Level</button>
+                        <button type="button" class="btn btn-secondary btn-width" id="CENTRALISEDINSTITUTE"
+                            onClick="reply_click(this.id)">Centralised
+                            Institute</button>
+                    </div>
                 </div>
 
             </div>
 
             <!--Networks Page-->
-            <div class="subslide">
+            <div class="subslide" id="networksPage">
 
-                <h2>Relationships between schools</h2>
-                <div id="networkschoolname">School:</div>
+                <div class="headerContainers">
+                    <h2>Relationships between schools</h2>
+                </div>
 
-                <div id="networks"></div>
+                <div class="networkContainers">
 
-                <div id="networks-subgraph"></div>
+                    <div class="networkSubContainers">
+                        <div id="networks"></div>
+                    </div>
+
+                    <div class="networkSubContainers">
+
+                        <div id="networkschoolname">School:</div>
+                        <div id="networks-subgraph"></div>
+
+                    </div>
+
+                </div>
 
             </div>
 
             <!--Wordclouds Page-->
-            <div class="subslide">
-                <div id="wordclouds">
+            <div class="subslide" id="wordCloudPage">
 
-                    <h2>Word cloud of the mission and vision of schools</h2>
+                <div id="wordCloudTitleContainer">
+                    <div id="wordCloudTitle">
+                        Word Clouds of the Mission and Vision of all Schools.
+                    </div>
+                    <div id="wordCloudSubtitle">
+                        Sizes of words are proportionate to its frequency.
+                    </div>
+                </div>
 
-                    <h3>Mission</h3>
+                <div class="wordCloudContainer">
+                    <div class="wordCloudHeader">Mission</div>
                     <div id="word-cloud-mission"></div>
+                </div>
 
-                    <h3>Vision</h3>
+                <div class="wordCloudContainer">
                     <div id="word-cloud-vision"></div>
-
+                    <div class="wordCloudHeader">Vision</div>
                 </div>
             </div>
 
