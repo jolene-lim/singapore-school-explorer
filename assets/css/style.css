@@ -355,7 +355,7 @@ table {
     width: 90%;
 }
 thead th {position: sticky; top: 0; background-color: #ffffff;}
-.even {background-color: blanchedalmond !important;}
+.even {background-color: rgba(254, 152, 42, 0.6) !important;}
 tr:hover {background-color: grey !important; font-weight: bold;}
 #sch-offerings { overflow-y: scroll; }
 

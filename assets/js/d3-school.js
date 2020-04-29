@@ -39,7 +39,7 @@ function plotSchool(value) {
         // SCHOOL INFO
         schName(name);
         schInfo(d[value]["website"], d[value]["address"], d[value]["telephone"], d[value]["fax"], d[value]["email"],
-                d[value]["GeneralInformation"]["School Mission"], d[value]["GeneralInformation"]["School Vision"]);
+            d[value]["GeneralInformation"]["School Mission"], d[value]["GeneralInformation"]["School Vision"]);
 
         // MAP
         schMap(lat, lng, d[value]["bus"], d[value]["mrt"]);
@@ -66,13 +66,13 @@ function schName(name) {
 // school info
 function schInfo(web, add, phone, fax, email, mission, vision) {
     document.getElementById("school-info")
-        .innerHTML = "<b>Mission</b>: " + mission + "<br>" + 
+        .innerHTML = "<b>Mission</b>: " + mission + "<br>" +
         "<b>Vision</b>: " + vision + "<br><br>" +
         '<i class="fas fa-map-marker-alt"></i> ' + add + "<br>" +
         '<i class="fas fa-phone"></i> ' + phone.join(", ") + "<br>" +
         '<i class="fas fa-print"></i> ' + fax.join(", ") + "<br>" +
         '<i class="fas fa-envelope"></i> ' + email + "<br>" +
-        '<i class="fas fa-desktop"></i> ' + "<a href='" + web + "'>" + web + "</a><br>" 
+        '<i class="fas fa-desktop"></i> ' + "<a href='" + web + "'>" + web + "</a><br>"
 };
 
 // school radar
@@ -87,9 +87,9 @@ function plotRadar(cca, specialProg, subjects) {
         }
     ],
         features = { "Special Programs": [-50, -10], "CCA": [-40, 10], "Subjects": [10, 10] },
-        margin = {top: 70, right: 60, bottom: 30, left: 40},
+        margin = { top: 70, right: 60, bottom: 30, left: 40 },
         width = document.getElementById("sch-overview").offsetWidth - margin.left - margin.right,
-        height = document.getElementById("sch-overview").offsetHeight - margin.top - margin.bottom;    
+        height = document.getElementById("sch-overview").offsetHeight - margin.top - margin.bottom;
 
     var svg = d3.select("#sch-overview")
         .append("svg")
@@ -98,7 +98,7 @@ function plotRadar(cca, specialProg, subjects) {
 
     var max = Math.ceil(d3.max(Object.values(data[0])) / 10) * 10;
     var step = max > 20 ? 10 : 5;
-    
+
     var radialScale = d3.scaleLinear()
         .domain([0, max])
         .range([0, width / 2]);
@@ -180,50 +180,50 @@ function plotRadar(cca, specialProg, subjects) {
         .attr("id", "radar")
         .attr("d", line)
         .attr("stroke-width", 3)
-        .attr("stroke", "red")
-        .attr("fill", "red")
+        .attr("stroke", "#fe982a")
+        .attr("fill", "#fe982a")
         .attr("stroke-opacity", 1)
         .attr("opacity", 0.5)
         .attr("transform", "translate(" + margin.left + ", " + margin.top + ")");
 
     var radarCircle = svg.selectAll("radarPoints")
         .data(coordinates).enter().append("g")
-        
+
     radarCircle.append("circle")
-        .attr("class", function(d) { return d.id.slice(0, 2); })
-        .attr("cx", function(d) { return d.x; })
-        .attr("cy", function(d) { return d.y; })
-        .attr("r", 5)
-        .attr("fill", "red")
-        .attr("opacity", 0.5)
+        .attr("class", function (d) { return d.id.slice(0, 2); })
+        .attr("cx", function (d) { return d.x; })
+        .attr("cy", function (d) { return d.y; })
+        .attr("r", 7)
+        .attr("fill", "#fe982a")
+        .attr("opacity", 0.75)
         .attr("transform", "translate(" + margin.left + ", " + margin.top + ")")
-        
+
     radarCircle.append("text")
-        .text(function(d) { return d.value; })
-        .attr("class", function(d) { return d.id.slice(0, 2); })
-        .attr("x", function(d) { return d.x; })
-        .attr("y", function(d) { return d.y; })
+        .text(function (d) { return d.value; })
+        .attr("class", function (d) { return d.id.slice(0, 2); })
+        .attr("x", function (d) { return d.x; })
+        .attr("y", function (d) { return d.y; })
         .attr("visibility", "hidden")
         .style("font-size", "1.2em")
         .style("font-weight", "bold")
         .style("text-anchor", "middle")
-        .attr("transform", "translate(" + margin.left + ", " + margin.top + ")")
+        .attr("transform", "translate(" + margin.left + ", " + margin.top * 1.07 + ")")
 
     // animations
-    var pie = d3.pie().value(function(d) {return d.value});
-    var arcData = [{'key': 'Subject', 'value': 1}, {'key': 'CCA', 'value': 1}, {'key': 'Special Programmes', 'value': 1}];
+    var pie = d3.pie().value(function (d) { return d.value });
+    var arcData = [{ 'key': 'Subject', 'value': 1 }, { 'key': 'CCA', 'value': 1 }, { 'key': 'Special Programmes', 'value': 1 }];
     arcData = pie(arcData);
     var arcGenerator = d3.arc()
-        .innerRadius(0).outerRadius(width/2)
-        .startAngle(function(d) { return d.startAngle + Math.PI / 3})
-        .endAngle(function(d) { return d.endAngle + Math.PI / 3 });
+        .innerRadius(0).outerRadius(width / 2)
+        .startAngle(function (d) { return d.startAngle + Math.PI / 3 })
+        .endAngle(function (d) { return d.endAngle + Math.PI / 3 });
     svg.selectAll("arcAnimate")
         .data(arcData).enter()
         .append("path")
         .attr("d", arcGenerator)
         .attr("fill-opacity", 0)
         .attr("transform", "translate(" + (width / 2 + margin.left) + ", " + (height / 2 + margin.top) + ")")
-        .on("mouseover", function(d) {
+        .on("mouseover", function (d) {
             var input = $("#offerTable_filter label input");
             input.val(d.data.key);
             input.trigger("keyup");
@@ -232,12 +232,12 @@ function plotRadar(cca, specialProg, subjects) {
             d3.select("circle" + className).attr("r", 15).attr("opacity", 1);
             d3.select("text" + className).attr("visibility", "visible");
         })
-        .on("mouseout", function(d) {
+        .on("mouseout", function (d) {
             var className = '.' + d.data.key.slice(0, 2);
             d3.select("circle" + className).attr("r", 5);
             d3.select("text" + className).attr("visibility", "hidden");
         });
-    
+
     // title
     svg.append("text")
         .attr("class", "header")
@@ -249,27 +249,27 @@ function plotRadar(cca, specialProg, subjects) {
 }
 
 function plotAchieve(award) {
-    var margin = {top: 70, right: 25, bottom: 30, left: 50},
-    width = document.getElementById("sch-achievement").offsetWidth - margin.left - margin.right,
-    height = document.getElementById("sch-achievement").offsetHeight - margin.top - margin.bottom;
-  
+    var margin = { top: 70, right: 25, bottom: 30, left: 50 },
+        width = document.getElementById("sch-achievement").offsetWidth - margin.left - margin.right,
+        height = document.getElementById("sch-achievement").offsetHeight - margin.top - margin.bottom;
+
     document.getElementById("sch-achievement").innerHTML = "";
 
     // append the svg object to the body of the page
     var canvas = d3.select("#sch-achievement")
-    .append("svg")
+        .append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
     var svg = canvas.append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
-    
+
     // Labels of row and columns -> unique identifier of the column called 'group' and 'variable'
-    var myGroups = d3.map(award, function(d){return d.Year;}).keys()
-    var myVars = d3.map(award, function(d){return d.Category;}).keys()
+    var myGroups = d3.map(award, function (d) { return d.Year; }).keys()
+    var myVars = d3.map(award, function (d) { return d.Category; }).keys()
 
     // Build X scales and axis:
     var x = d3.scaleBand()
-        .range([ 0, width ])
+        .range([0, width])
         .domain(myGroups)
         .padding(0.05);
     svg.append("g")
@@ -277,25 +277,28 @@ function plotAchieve(award) {
         .style("font-size", "1.1em")
         .call(d3.axisTop(x).tickSize(0))
         .select(".domain").remove()
-  
+
     // Build Y scales and axis:
     var y = d3.scaleBand()
-        .range([ height, 0 ])
+        .range([height, 0])
         .domain(myVars)
         .padding(0.05);
     var yAxis = svg.append("g")
         .style("font-family", "Open Sans")
         .call(d3.axisLeft(y).tickSize(0))
-        
+
     yAxis.selectAll("text")
         .style("text-anchor", "end")
         .style("font-size", "1em")
     yAxis.select(".domain").remove()
 
     // Build color scale
-    var myColor = d3.scaleSequential()
-        .interpolator(d3.interpolateInferno)
-        .domain([1,d3.max(d3.map(award, function(d) {return d.Total;}).keys())])
+
+    var myColor = d3.scaleSequential(d3.schemeAccent)
+        .interpolator(d3.interpolateRgb('#f2f5f7', '#29586c'))
+        .domain([1, d3.max(d3.map(award, function (d) { return d.Total; }).keys())])
+
+
 
     // create a tooltip
     var tooltip = d3.select("#sch-achievement")
@@ -303,7 +306,7 @@ function plotAchieve(award) {
         .attr("class", "tooltip");
 
     // Three function that change the tooltip when user hover / move / leave a cell
-    var mouseover = function(d) {
+    var mouseover = function (d) {
         tooltip
             .style("opacity", 1)
 
@@ -315,7 +318,7 @@ function plotAchieve(award) {
             .html(tooltipText)
             .style("left", (d3.event.pageX + 5) + "px")
             .style("top", (d3.event.pageY) + "px")
-        
+
         d3.select(this)
             .style("stroke", "black")
             .style("opacity", 1)
@@ -325,9 +328,9 @@ function plotAchieve(award) {
             .style("font-weight", "bold");
 
         $('#achieveTable').DataTable().row(className).scrollTo();
-    
+
     }
-    var mouseout = function(d) {
+    var mouseout = function (d) {
         tooltip
             .style("opacity", 0)
         d3.select(this)
@@ -335,21 +338,21 @@ function plotAchieve(award) {
             .style("opacity", 0.8)
 
         var className = ".Y" + d.Year + "." + d.Category.slice(0, 2);
-            d3.selectAll(className).style("font-weight", "normal");
+        d3.selectAll(className).style("font-weight", "normal");
     }
-    
+
     // add the squares
     svg.selectAll()
-        .data(award, function(d) {return d.Year+':'+d.Category;})
+        .data(award, function (d) { return d.Year + ':' + d.Category; })
         .enter()
         .append("rect")
-        .attr("x", function(d) { return x(d.Year) })
-        .attr("y", function(d) { return y(d.Category) })
+        .attr("x", function (d) { return x(d.Year) })
+        .attr("y", function (d) { return y(d.Category) })
         .attr("rx", 4)
         .attr("ry", 4)
-        .attr("width", x.bandwidth() )
-        .attr("height", y.bandwidth() )
-        .style("fill", function(d) { return myColor(d.Total)} )
+        .attr("width", x.bandwidth())
+        .attr("height", y.bandwidth())
+        .style("fill", function (d) { return myColor(d.Total) })
         .style("stroke-width", 4)
         .style("stroke", "none")
         .style("opacity", 0.8)
@@ -444,9 +447,9 @@ function offerTable(cca, subject, specialProgs) {
         destroy: true,
         data: offerData,
         columns: [
-            {"data": "Type" , "title" : "Type" },
-            {"data": "Category", "title" : "Category" },
-            {"data": "Offering", "title" : "Offering" }
+            { "data": "Type", "title": "Type" },
+            { "data": "Category", "title": "Category" },
+            { "data": "Offering", "title": "Offering" }
         ],
         //"searching": false,
         "paging": false,
@@ -464,16 +467,16 @@ function achieveTable(award) {
         destroy: true,
         data: award,
         columns: [
-            {"data": "Year" , "title" : "Year" },
-            {"data": "Category", "title" : "Category" },
-            {"data": "CCA", "title" : "CCA" },
-            {"data": "Award", "title" : "Award" }
+            { "data": "Year", "title": "Year" },
+            { "data": "Category", "title": "Category" },
+            { "data": "CCA", "title": "CCA" },
+            { "data": "Award", "title": "Award" }
         ],
         "info": "",
         "paging": true,
         scroller: true,
         scrollY: 0.7 * tableHeight,
-        "createdRow": function(row, data, dataIndex) {
+        "createdRow": function (row, data, dataIndex) {
             $(row).addClass("Y" + data.Year.toString());
             $(row).addClass(data.Category.slice(0, 2));
         },
@@ -493,7 +496,7 @@ function plotVacancies(data, name) {
             .append("svg")
             .attr("width", width + margin.left + margin.right)
             .attr("height", height + margin.top + margin.bottom)
-        
+
         var svg = canvas.append("g")
             .attr("transform",
                 "translate(" + margin.left + "," + margin.top + ")");
@@ -532,7 +535,7 @@ function plotVacancies(data, name) {
         // color palette = one color per subgroup
         var color = d3.scaleOrdinal()
             .domain(subgroups)
-            .range(['#e41a1c', '#377eb8'])
+            .range(['#e21737', '#0b648f'])
 
         // Show the bars
         svg.append("g")
@@ -549,7 +552,8 @@ function plotVacancies(data, name) {
             .attr("y", function (d) { return y(d.value); })
             .attr("width", xSubgroup.bandwidth())
             .attr("height", function (d) { return height - y(d.value); })
-            .attr("fill", function (d) { return color(d.key); });
+            .attr("fill", function (d) { return color(d.key); })
+            .attr("opacity", 0.75);
 
         var legend = svg.selectAll(".legend")
             .data(subgroups)
@@ -564,7 +568,8 @@ function plotVacancies(data, name) {
             .attr("y", function (d, i) {
                 return i * 25 - 60;
             })
-            .attr("x", 0);
+            .attr("x", 0)
+            .attr("opacity", 0.85);
 
         legend.append("text")
             .attr("class", "label")
@@ -576,7 +581,7 @@ function plotVacancies(data, name) {
             .text(function (d, i) {
                 return subgroups[i];
             });
-        
+
         // title
         canvas.append("text")
             .attr("class", "header")
@@ -602,9 +607,9 @@ function plotEntry(entry, entryRange) {
         });
 
         // initialize svg
-        var margin = {top: 0, right: 10, bottom: 10, left: 10},
-        width = document.getElementById("sch-entry").offsetWidth - margin.left - margin.right,
-        height = document.getElementById("sch-entry").offsetHeight - margin.top - margin.bottom;    
+        var margin = { top: 0, right: 10, bottom: 10, left: 10 },
+            width = document.getElementById("sch-entry").offsetWidth - margin.left - margin.right,
+            height = document.getElementById("sch-entry").offsetHeight - margin.top - margin.bottom;
 
         /*
         var width = document.getElementById("sch-entry").offsetWidth,
@@ -644,7 +649,7 @@ function plotEntry(entry, entryRange) {
             .data(data)
             .enter()
             .append("g")
-            .attr("transform", "translate(" + margin.left + "," + (height * (2/3) - 20) + ")");
+            .attr("transform", "translate(" + margin.left + "," + (height * (2 / 3) - 20) + ")");
 
         element.append("line")
             .attr("x1", function (d) { return x(d.range[0]); })
@@ -751,9 +756,9 @@ function schMap(lat, lng, bus, mrt) {
         .attr("cx", schoolMap.latLngToLayerPoint([lat, lng]).x)
         .attr("cy", schoolMap.latLngToLayerPoint([lat, lng]).y)
         .attr("r", 50)
-        .attr("stroke", "red")
-        .attr("fill", "red")
-        .attr("fill-opacity", 0.1);
+        .attr("stroke", "#005236")
+        .attr("fill", "#005236")
+        .attr("fill-opacity", 0.2);
 
     var tooltip = d3.select("#school").append("div")
         .attr("class", "tooltip");
@@ -761,17 +766,17 @@ function schMap(lat, lng, bus, mrt) {
     d3.select("#schPoint")
         .on("mouseover", function (d) {
             tooltip
-                .style("opacity", "1")      
+                .style("opacity", "1")
                 .style("left", (d3.event.pageX + 5) + "px")
                 .style("top", (d3.event.pageY) + "px")
 
-            tooltip.html("<b>Nearest Train Stations</b>: " + mrt + "<br>" + 
-                         "<b>Nearest Bus Stations</b>: " + bus + "<br>");
+            tooltip.html("<b>Nearest Train Stations</b>: " + mrt + "<br>" +
+                "<b>Nearest Bus Stations</b>: " + bus + "<br>");
         })
-        .on("mousemove", function() {
+        .on("mousemove", function () {
             tooltip
-            .style("left", (d3.event.pageX + 5) + "px")
-            .style("top", (d3.event.pageY) + "px")
+                .style("left", (d3.event.pageX + 5) + "px")
+                .style("top", (d3.event.pageY) + "px")
         })
         .on("mouseout", function () {
             tooltip.transition()
