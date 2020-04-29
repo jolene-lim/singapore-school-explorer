@@ -1,7 +1,7 @@
 // 1. Base Leaflet Map
 let interactiveMap = L
     .map("interactive-map", null, { zoomControl: false })
-    .setView([1.3521, 103.8198], 12);
+    .setView([1.3521, 103.8198], 11);
 
 L.tileLayer(
     "https://maps-{s}.onemap.sg/v3/Grey/{z}/{x}/{y}.png", {

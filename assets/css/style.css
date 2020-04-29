@@ -44,6 +44,7 @@ input {
     max-width: 100%;
     height: 100vh;
     overflow-y: scroll;
+    scroll-snap-type: y mandatory;
     scroll-snap-align: start;
 }
 
@@ -60,6 +61,7 @@ input {
 .subslide {
     width: 100vw;
     height: 100vh;
+    scroll-snap-align: start;
 }
 
 .subslideTitle {
@@ -399,6 +401,8 @@ tr:hover {background-color: grey !important; font-weight: bold;}
   right: 0;
   font-family: "Open Sans";
   width: 95%;
+  max-height: 121px;
+  overflow-y: scroll;
 }
 .autocomplete-items div {
   padding: 10px;
