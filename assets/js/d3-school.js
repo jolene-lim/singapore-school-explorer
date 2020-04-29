@@ -456,6 +456,8 @@ function offerTable(cca, subject, specialProgs) {
         "info": "",
         scroller: false
     });
+
+    $("#offerTable > tbody > tr:odd").css("background-color", "red");
 };
 
 function achieveTable(award) {
@@ -481,6 +483,8 @@ function achieveTable(award) {
             $(row).addClass(data.Category.slice(0, 2));
         },
     });
+
+    $("#achieveTable > tbody > tr:odd").css("background-color", "yellow");
 };
 
 function plotVacancies(data, name) {
