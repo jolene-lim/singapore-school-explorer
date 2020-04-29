@@ -45,8 +45,8 @@ d3.json("data/network_data.json", function (error, graph) {
         .attr("y1", function (d) { return d.source.y; })
         .attr("x2", function (d) { return d.target.x; })
         .attr("y2", function (d) { return d.target.y; })
-        .attr("stroke", "black")
-        .style("opacity", 0.75);
+        .attr("stroke", "Gray")
+        .style("opacity", 1.0);
 
     var node = svg.append("g")
         .attr("class", "nodes")
@@ -86,7 +86,7 @@ d3.json("data/network_data.json", function (error, graph) {
         .on("mouseover", function (d) {
             d3.select(this).attr("stroke", "black").attr("r", 15);
 
-            d3.select("#networkschoolname").text("School: " + d.name);
+            d3.select("#networkSchoolName").text("School: " + d.name);
 
             var cluster = d.cluster;
             if (cluster != 0) {
@@ -108,8 +108,8 @@ d3.json("data/network_data.json", function (error, graph) {
                     .attr("y1", function (d) { return d.source.y; })
                     .attr("x2", function (d) { return d.target.x; })
                     .attr("y2", function (d) { return d.target.y; })
-                    .attr("stroke", "black")
-                    .style("opacity", 0.75)
+                    .attr("stroke", "LightGray")
+                    .style("opacity", 0.5)
                     .attr("transform", function () {
                         return "translate (" + offsetX + ", " + offsetY + ")"
                     });

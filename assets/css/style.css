@@ -62,6 +62,17 @@ input {
     height: 100vh;
 }
 
+.subslideTitle {
+    font-size: 2.5em;
+    font-family: "Quicksand";
+    font-weight: 400;
+}
+
+.subslideSubTitle{ 
+    font-size: 1.5em;
+    white-space: normal;
+}
+
 .headerContainers {
     display: flex;
     align-items: center;
@@ -73,7 +84,20 @@ input {
 #landingPage {
     display: flex;
     /*Add background url later */
-    background-color: lightgray;
+    background-color: whitesmoke;
+}
+
+#landingContainerLeft {
+    width: 40%;
+    height: 100%;
+
+    padding-left: 5%;
+    padding-right: 2.5%;
+
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
 }
 
 #landingTitle {
@@ -81,6 +105,7 @@ input {
     font-family: Quicksand;
     font-weight: 400;
     padding-bottom: 5%;
+    white-space: normal;
 }
 
 #landingSubtitle {
@@ -90,31 +115,26 @@ input {
     padding-bottom: 5%;
 }
 
-#landingContainerLeft {
-    width: 40%;
-    height: 100%;
 
-    padding-left: 5%;
-    padding-right: 5%;
-
-    display: flex;
-
-    flex-direction: column;
-    justify-content: center;
-}
-
-#landingSearchBox {
+#landingLabel {
     font-family: Quicksand;
+    font-size: 1.75em;
+    font-family: "Quicksand";
+    font-weight: 400;
 }
 
 #landingSearchBoxInner {
     display: flex;
     align-items: center;
+    width: 100%;
 }
 
 #searchInput {
-    width: 100%;
-    font-size: 1.5em;
+    width: 90%;
+    font-size: 1.75em;
+    font-weight: 300;
+    font-family: "Open Sans";
+    background-color: whitesmoke;
 }
 
 #landingContainerRight {
@@ -178,7 +198,27 @@ input {
 
 /* c. Networks*/
 #networksPage {
-    background-color: green;
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.networksContainer {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#NetworksSubContainer {
+    width: 100%;
+    height: 25%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
 }
 
 #networks {
@@ -186,24 +226,16 @@ input {
     height: 100%;    
 }
 
-.networkContainers {
-    width: 100%;
-    height: 90%;
-    display: flex;
-}
-.networkSubContainers {
-    width: 50%;
-    height: 100%;
-}
-
-#networkschoolname {
-    width: 100%;
-    height: 10%;
+#networkSchoolName {
+    font-size: 1.5em;
+    padding-top: 1%;
+    font-weight: 400;
+    font-family: Quicksand;
 }
 
 #networks-subgraph {
     width: 100%;
-    height: 90%;
+    height: 75%;
     overflow: hidden;
 }
 
@@ -212,50 +244,45 @@ input {
     width: 100%;
     height: 100%;
     display: flex;
+    background-color: whitesmoke;
 }
 
-#wordCloudTitleContainer{
-    width: 20%;
+#wordCloudTitleContainer {
+    width: 30%;
     height: 100%;
-    padding-left: 2.5%;
+    padding-left: 5%;
     display: flex;
     flex-direction: column;
     justify-content: center;
     white-space: normal;
 }
 
-#wordCloudTitle {
-    font-size: 2.5em;
-    font-family: "Quicksand";
-}
-#wordCloudSubtitle {
-    font-size: 1.5em;
-}
-
 .wordCloudContainer {
-    width: 40%;
+    width: 35%;
     height: 100%;
     display: flex;
     flex-direction: column;
     justify-content: center;
 }
 
-.wordCloudHeader {
+#wordCloudHeaderM {
     width: 100%;
     height: 10%;
-    font-size: 2.5em;
-    font-family: Quicksand;
-    font-weight: 400;
     
     display: flex;
     justify-content: center;
-    align-items: center;
-
-
+    align-items: flex-end;
 }
 
+#wordCloudHeaderV {
+    width: 100%;
+    height: 10%;
+    
+    display: flex;
+    justify-content: center;
+}
 
-#word-cloud-mission, #word-cloud-vision {
+#wordCloudMission, #wordCloudVision {
     width:  100%;
     height: 70%;
 }

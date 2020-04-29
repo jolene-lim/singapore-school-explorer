@@ -39,9 +39,8 @@
                         or click the map.
                     </div>
 
-                    <div id="landingSearchBox">
-
-                        <h2>I want to know more about... </h2>
+                    <div>
+                        <div id="landingLabel">I want to know more about... </div>
 
                         <div id="landingSearchBoxInner">
                             <input type="text" id="searchInput" placeholder="Enter school name here">
@@ -65,8 +64,7 @@
                         <button type="button" class="btn btn-secondary btn-width" id="MIXEDLEVEL"
                             onClick="reply_click(this.id)">Mixed Level</button>
                         <button type="button" class="btn btn-secondary btn-width" id="CENTRALISEDINSTITUTE"
-                            onClick="reply_click(this.id)">Centralised
-                            Institute</button>
+                            onClick="reply_click(this.id)">Centralised Institute</button>
                     </div>
                 </div>
 
@@ -75,22 +73,27 @@
             <!--Networks Page-->
             <div class="subslide" id="networksPage">
 
-                <div class="headerContainers">
-                    <h2>Relationships between schools</h2>
+                <div class="networksContainer">
+                    <div id="networks"></div>
                 </div>
 
-                <div class="networkContainers">
+                <div class="networksContainer">
 
-                    <div class="networkSubContainers">
-                        <div id="networks"></div>
+                    <div id="NetworksSubContainer">
+
+                        <div class="subslideTitle">
+                            Relationships between schools
+                        </div>
+                        <div class="subslideSubTitle">
+                            Hover over the Network to see the school names.
+                            Links represent an affiliation between schools.
+                        </div>
+                        <div id="networkSchoolName">
+                            School:
+                        </div>
                     </div>
 
-                    <div class="networkSubContainers">
-
-                        <div id="networkschoolname">School:</div>
-                        <div id="networks-subgraph"></div>
-
-                    </div>
+                    <div id="networks-subgraph"></div>
 
                 </div>
 
@@ -100,22 +103,22 @@
             <div class="subslide" id="wordCloudPage">
 
                 <div id="wordCloudTitleContainer">
-                    <div id="wordCloudTitle">
+                    <div class="subslideTitle">
                         Word Clouds of the Mission and Vision of all Schools.
                     </div>
-                    <div id="wordCloudSubtitle">
+                    <div class="subslideSubTitle">
                         Sizes of words are proportionate to its frequency.
                     </div>
                 </div>
 
                 <div class="wordCloudContainer">
-                    <div class="wordCloudHeader">Mission</div>
-                    <div id="word-cloud-mission"></div>
+                    <div class="subslideTitle" id="wordCloudHeaderM">Mission</div>
+                    <div id="wordCloudMission"></div>
                 </div>
 
                 <div class="wordCloudContainer">
-                    <div id="word-cloud-vision"></div>
-                    <div class="wordCloudHeader">Vision</div>
+                    <div id="wordCloudVision"></div>
+                    <div class="subslideTitle" id="wordCloudHeaderV">Vision</div>
                 </div>
             </div>
 

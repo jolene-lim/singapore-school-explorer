@@ -45,7 +45,7 @@ d3.json("data/map_data.json", function (data) {
         .attr("stroke", "black")
         .attr("stroke-width", 0)
         .attr("fill-opacity", 0)
-        .attr("text", function (d) { return d.name })
+        .attr("text", function (d) { return d.school_name })
 
     interactiveCircles
         .transition()
@@ -61,6 +61,8 @@ d3.json("data/map_data.json", function (data) {
 
     interactiveCircles.on("mouseover", function () {
         d3.select(this).style("stroke-width", 3).style("opacity", 1)
+
+        console.log(d3.select(this))
         var schoolname = d3.select(this).attr("text")
 
         tooltip
