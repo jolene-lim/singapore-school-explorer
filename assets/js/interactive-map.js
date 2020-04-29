@@ -37,6 +37,10 @@ d3.json("data/map_data.json", function (data) {
         .attr("style", "pointer-events: visible;")
 
 
+    var autocompleteList = data.map(function (d) { return d.school_name })
+    autocomplete(document.getElementById("searchInput"), autocompleteList);
+
+
     var interactiveCircles = d3.selectAll("#homeCircle")
         .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).x })
         .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).y })
@@ -62,7 +66,6 @@ d3.json("data/map_data.json", function (data) {
     interactiveCircles.on("mouseover", function () {
         d3.select(this).style("stroke-width", 3).style("opacity", 1)
 
-        console.log(d3.select(this))
         var schoolname = d3.select(this).attr("text")
 
         tooltip
@@ -120,3 +123,4 @@ function reply_click(clicked_id) {
         document.getElementById(clicked_id).style.color = "white"
     }
 }
+
