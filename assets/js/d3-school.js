@@ -239,7 +239,10 @@ function plotRadar(cca, specialProg, subjects) {
         })
         .on("mouseout", function (d) {
             var className = '.' + d.data.key.slice(0, 2);
-            d3.select("circle" + className).attr("r", 5);
+            d3.select("circle" + className)
+                .attr("r", 5)
+                .attr("fill-opacity", 0.75)
+                .attr("stroke-width", 0)
             d3.select("text" + className).attr("visibility", "hidden");
         });
 
@@ -331,9 +334,8 @@ function plotAchieve(award) {
             .style("font-weight", "bold");
 
         $('#achieveTable').DataTable().row(className).scrollTo();
-        $("#achieveTable > tbody > tr:odd").css("background-color", "green");
-
     }
+
     var mouseout = function (d) {
         tooltip
             .style("opacity", 0)
@@ -461,7 +463,8 @@ function offerTable(cca, subject, specialProgs) {
         scroller: false
     });
 
-    $("#offerTable > tbody > tr:odd").css("background-color", "red");
+    $("#offerTable > tbody > tr:odd")
+        .css("background-color", "#ecce9e");
 };
 
 function achieveTable(award) {
@@ -489,7 +492,7 @@ function achieveTable(award) {
     });
 
 
-    $("#achieveTable > tbody > tr:odd").css("background-color", "yellow");
+    $("#achieveTable > tbody > tr:odd").css("background-color", "#c5d0d6");
 
 };
 
