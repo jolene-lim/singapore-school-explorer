@@ -65,13 +65,13 @@ input {
 }
 
 .subslideTitle {
-    font-size: 2.5em;
+    font-size: 2.25em;
     font-family: "Quicksand";
     font-weight: 400;
 }
 
 .subslideSubTitle{ 
-    font-size: 1.5em;
+    font-size: 1.25em;
     white-space: normal;
 }
 
@@ -216,10 +216,9 @@ input {
 	background-color: transparent;
 	border: 1px solid transparent;
 	padding: .375rem .75rem;
-	font-size: 1rem;
+	font-size: 0.8rem;
 	line-height: 1.5;
-	border-radius: .25rem;
-	transition: color .15s ease-in-out, background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out
+
 }
 
 .btn:focus {
@@ -252,10 +251,9 @@ input {
 }
 
 #NetworksSubContainer {
-    width: 100%;
+    width: 90%;
     height: 25%;
     padding-left: 10%;
-    padding-right: 10%;
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -288,7 +286,7 @@ input {
 }
 
 #wordCloudTitleContainer {
-    width: 30%;
+    width: 20%;
     height: 100%;
     padding-left: 5%;
     display: flex;
@@ -298,7 +296,7 @@ input {
 }
 
 .wordCloudContainer {
-    width: 35%;
+    width: 40%;
     height: 100%;
     display: flex;
     flex-direction: column;
@@ -337,7 +335,7 @@ input {
 .sidebar {
     font-size: 13px;
     color: #ffffff;
-    height: 100%;
+    height: calc(100% - 10px);
     width: 25%;
     background: #2c3e50;
     white-space: normal;
@@ -360,10 +358,10 @@ input {
 }
 
 .strip {
-    height: 50vh;
+    height: calc(50vh - 10px);
     display: flex;
     justify-content: space-evenly;
-    padding: 10px;
+    padding: 5px;
 }
 
 .grid3 {
@@ -405,9 +403,6 @@ tr:hover {background-color: grey !important; font-weight: bold;}
     pointer-events: none;
     max-width: 300px;
 }
-
-
-
 
 
 

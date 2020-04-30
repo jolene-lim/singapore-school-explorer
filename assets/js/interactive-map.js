@@ -44,7 +44,7 @@ d3.json("data/map_data.json", function (data) {
     var interactiveCircles = d3.selectAll("#homeCircle")
         .attr("cx", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).x })
         .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).y })
-        .attr("r", 10)
+        .attr("r", 8)
         .style("fill", function (d) { return levelColours[d.mainlevel_code] })
         .attr("stroke", "black")
         .attr("stroke-width", 0)
@@ -57,7 +57,7 @@ d3.json("data/map_data.json", function (data) {
         .transition()
         .delay(function (d, i) { return i * 2.5 })
         .duration(1000)
-        .attr("fill-opacity", 0.65)
+        .attr("fill-opacity", 0.85)
 
     var tooltip = d3.select("#interactive-map")
         .append("div")
