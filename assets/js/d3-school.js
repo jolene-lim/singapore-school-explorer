@@ -195,7 +195,9 @@ function plotRadar(cca, specialProg, subjects) {
         .attr("cy", function (d) { return d.y; })
         .attr("r", 7)
         .attr("fill", "#fe982a")
-        .attr("opacity", 0.75)
+        .attr("fill-opacity", 0.75)
+        .attr("stroke", "#fe982a")
+        .attr("stroke-width", 0)
         .attr("transform", "translate(" + margin.left + ", " + margin.top + ")")
 
     radarCircle.append("text")
@@ -229,7 +231,10 @@ function plotRadar(cca, specialProg, subjects) {
             input.trigger("keyup");
 
             var className = '.' + d.data.key.slice(0, 2);
-            d3.select("circle" + className).attr("r", 15).attr("opacity", 1);
+            d3.select("circle" + className)
+                .attr("r", 15)
+                .attr("fill-opacity", 0.9)
+                .attr("stroke-width", 1);
             d3.select("text" + className).attr("visibility", "visible");
         })
         .on("mouseout", function (d) {
@@ -293,11 +298,9 @@ function plotAchieve(award) {
     yAxis.select(".domain").remove()
 
     // Build color scale
-
     var myColor = d3.scaleSequential(d3.schemeAccent)
         .interpolator(d3.interpolateRgb('#f2f5f7', '#29586c'))
         .domain([1, d3.max(d3.map(award, function (d) { return d.Total; }).keys())])
-
 
 
     // create a tooltip
@@ -328,6 +331,7 @@ function plotAchieve(award) {
             .style("font-weight", "bold");
 
         $('#achieveTable').DataTable().row(className).scrollTo();
+        $("#achieveTable > tbody > tr:odd").css("background-color", "green");
 
     }
     var mouseout = function (d) {
@@ -484,7 +488,9 @@ function achieveTable(award) {
         },
     });
 
+
     $("#achieveTable > tbody > tr:odd").css("background-color", "yellow");
+
 };
 
 function plotVacancies(data, name) {
@@ -557,7 +563,8 @@ function plotVacancies(data, name) {
             .attr("width", xSubgroup.bandwidth())
             .attr("height", function (d) { return height - y(d.value); })
             .attr("fill", function (d) { return color(d.key); })
-            .attr("opacity", 0.75);
+            .attr("fill-opacity", 0.65)
+            .attr("stroke", function (d) { return color(d.key) });
 
         var legend = svg.selectAll(".legend")
             .data(subgroups)
@@ -622,6 +629,8 @@ function plotEntry(entry, entryRange) {
             xAxisTranslate = 0.05 * width;
         */
 
+        var radius = 7;
+
         var svg = d3.select("#sch-entry")
             .append("svg")
             .attr("height", height)
@@ -646,7 +655,7 @@ function plotEntry(entry, entryRange) {
         // color scale
         var color = d3.scaleOrdinal()
             .domain(Object.keys(entry["2018"]))
-            .range(["gold", "blue", "red"]);
+            .range(["#e21737", "#005236", "#0b648f"]); //#59b8ba
 
         // line
         var element = svg.selectAll("entryLine")
@@ -661,52 +670,71 @@ function plotEntry(entry, entryRange) {
             .attr("x2", function (d) { return x(d.range[1]); })
             .attr("y2", function (d) { return y(d.type); })
             .attr("stroke", function (d) { return color(d.type); })
-            .attr("stroke-width", 5);
+            .attr("stroke-width", 5)
+            .attr("opacity", 0.75)
 
         // left circle
         element.append("circle")
-            .attr("cx", function (d) { return x(d.range[0]); })
+            .attr("cx", function (d) { return x(d.range[0]) - radius; })
             .attr("cy", function (d) { return y(d.type); })
-            .attr("r", 7)
-            .attr("fill", function (d) { return color(d.type); });
+            .attr("r", radius)
+            .attr("fill", function (d) { return color(d.type); })
+            .attr("fill-opacity", 0.85)
+            .attr("stroke", function (d) { return color(d.type); })
+            .attr("stroke-width", 0);
 
         element.append("text")
-            .attr("x", function (d) { return x(d.range[0]); })
-            .attr("y", function (d) { return y(d.type); })
+            .attr("x", function (d) { return x(d.range[0]) - radius; })
+            .attr("y", function (d) { return y(d.type) + 3; })
             .text(function (d) { return d.range[0]; })
-            .style("font-size", "0.7em")
+            .style("font-size", "0.85em")
             .style("font-weight", "bold")
             .style("text-anchor", "middle")
             .style("visibility", "hidden");
 
         // right circle
         element.append("circle")
-            .attr("cx", function (d) { return x(d.range[1]); })
+            .attr("cx", function (d) { return x(d.range[1]) + radius; })
             .attr("cy", function (d) { return y(d.type); })
-            .attr("r", 7)
-            .attr("fill", function (d) { return color(d.type); });
+            .attr("r", radius)
+            .attr("fill", function (d) { return color(d.type); })
+            .attr("fill-opacity", 0.85)
+            .attr("stroke", function (d) { return color(d.type); })
+            .attr("stroke-width", 0);
 
         element.append("text")
-            .attr("x", function (d) { return x(d.range[1]); })
-            .attr("y", function (d) { return y(d.type); })
+            .attr("x", function (d) { return x(d.range[1]) + radius; })
+            .attr("y", function (d) { return y(d.type) + 3; })
             .text(function (d) { return d.range[1]; })
-            .style("font-size", "0.7em")
+            .style("font-size", "0.85em")
             .style("font-weight", "bold")
             .style("text-anchor", "middle")
             .style("visibility", "hidden");
 
         element.on("mouseover", function () {
             d3.select(this).selectAll("circle")
-                .attr("r", 15);
+                .attr("r", radius * 1.75)
+                .attr("stroke-width", 1);
 
             d3.select(this).selectAll("text")
-                .style("visibility", "visible")
+                .style("visibility", "visible");
+
+            d3.select(this).selectAll("line")
+                .attr("stroke-width", 7);
+
+
+
         }).on("mouseout", function () {
+
             d3.select(this).selectAll("circle")
-                .attr("r", 7);
+                .attr("r", radius)
+                .attr("stroke-width", 0);
 
             d3.select(this).selectAll("text")
-                .style("visibility", "hidden")
+                .style("visibility", "hidden");
+
+            d3.select(this).selectAll("line")
+                .attr("stroke-width", 5);
         })
 
         // legend
@@ -722,6 +750,7 @@ function plotEntry(entry, entryRange) {
 
         lg.append('rect')
             .style('fill', function (d) { return color(d.type); })
+            .attr("opacity", 0.85)
             .attr('x', 0)
             .attr('y', 0)
             .attr('width', 10)
