@@ -301,8 +301,8 @@ function plotAchieve(award) {
     yAxis.select(".domain").remove()
 
     // Build color scale
-    var myColor = d3.scaleSequential(d3.schemeAccent)
-        .interpolator(d3.interpolateRgb('#f2f5f7', '#29586c'))
+    var myColor = d3.scaleSequential()
+        .interpolator(d3.interpolateRgb('#dae4e5', '#29586c')) //#f2f5f7
         .domain([1, d3.max(d3.map(award, function (d) { return d.Total; }).keys())])
 
 
@@ -326,8 +326,7 @@ function plotAchieve(award) {
             .style("top", (d3.event.pageY) + "px")
 
         d3.select(this)
-            .style("stroke", "black")
-            .style("opacity", 1)
+            .style("stroke-width", "4")
 
         var className = ".Y" + d.Year + "." + d.Category.slice(0, 2);
         d3.selectAll(className)
@@ -340,8 +339,7 @@ function plotAchieve(award) {
         tooltip
             .style("opacity", 0)
         d3.select(this)
-            .style("stroke", "none")
-            .style("opacity", 0.8)
+            .style("stroke-width", "0")
 
         var className = ".Y" + d.Year + "." + d.Category.slice(0, 2);
         d3.selectAll(className).style("font-weight", "normal");
@@ -359,9 +357,9 @@ function plotAchieve(award) {
         .attr("width", x.bandwidth())
         .attr("height", y.bandwidth())
         .style("fill", function (d) { return myColor(d.Total) })
-        .style("stroke-width", 4)
-        .style("stroke", "none")
-        .style("opacity", 0.8)
+        .style("fill-opacity", 0.8)
+        .style("stroke", function (d) { return myColor(d.Total) })
+        .style("stroke-width", 0)
         .on("mouseover", mouseover)
         .on("mouseout", mouseout);
 
