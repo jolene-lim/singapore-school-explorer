@@ -11,6 +11,17 @@ html, body {
     display: none;
 }
 
+input:focus, textarea:focus, select:focus{
+    outline: none;
+}
+
+input {
+    border-bottom: 1px solid black;
+    border-top: 0px;
+    border-left: 0px;
+    border-right: 0px;
+}
+
 .container {
     margin: 0;
     padding: 0;
@@ -33,6 +44,7 @@ html, body {
     max-width: 100%;
     height: 100vh;
     overflow-y: scroll;
+    scroll-snap-type: y mandatory;
     scroll-snap-align: start;
 }
 
@@ -44,49 +56,23 @@ html, body {
     padding-left: 5px;
 }
 
-/* Main Page */
+/* 1. Main Page */
+/* a. General */
 .subslide {
     width: 100vw;
     height: 100vh;
+    scroll-snap-align: start;
 }
 
-#interactive-map {
-    width: 70%;
-    height: 60%;
-    margin: 0 auto;
+.subslideTitle {
+    font-size: 2.5em;
+    font-family: "Quicksand";
+    font-weight: 400;
 }
 
-#networks {
-    width: 80%;
-    height: 700px;    
-}
-
-#networks-subgraph {
-    width: 80%;
-    height: 700px;    
-}
-
-#buttons {
-    width: 70%;
-    display: flex;
-    margin: 0 auto;
-    justify-content: space-evenly;
-}
-
-#landingPage {
-    background-image: url("https://live.staticflickr.com/1352/817506639_9120efb8f5_z.jpg");
-
-    height: 100%;
-
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-
-    backdrop-filter: blur(10px);
-}
-
-.btn-width {
-    width: 19.75%;
+.subslideSubTitle{ 
+    font-size: 1.5em;
+    white-space: normal;
 }
 
 .headerContainers {
@@ -94,6 +80,217 @@ html, body {
     align-items: center;
     justify-content: center;
     height: 10%;
+    font-family: Quicksand;
+}
+
+#landingPage {
+    display: flex;
+    /*Add background url later */
+    background-color: whitesmoke;
+}
+
+#landingContainerLeft {
+    width: 40%;
+    height: 100%;
+
+    padding-left: 5%;
+    padding-right: 2.5%;
+
+    display: flex;
+
+    flex-direction: column;
+    justify-content: center;
+}
+
+#landingTitle {
+    font-size: 3.5em;
+    font-family: Quicksand;
+    font-weight: 400;
+    padding-bottom: 5%;
+    white-space: normal;
+}
+
+#landingSubtitle {
+    font-size: 1.5em;
+    font-family: "Open Sans";
+    white-space: normal;
+    padding-bottom: 5%;
+}
+
+
+#landingLabel {
+    font-family: Quicksand;
+    font-size: 1.75em;
+    font-family: "Quicksand";
+    font-weight: 400;
+}
+
+#landingSearchBoxInner {
+    display: flex;
+    align-items: center;
+    width: 100%;
+}
+
+#searchInput {
+    width: 95%;
+    font-size: 1.75em;
+    font-weight: 300;
+    font-family: "Open Sans";
+    background-color: whitesmoke;
+}
+
+#searchInputOuter {
+    width: 100%;
+}
+
+#landingContainerRight {
+    width: 60%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    padding-right: 2.5%;
+    padding-left: 2.5%;
+}
+
+#PRIMARY {
+    background-color: #e2211c;
+    border-color: #e2211c;
+    opacity: 85%;
+    border-radius: 0 0 0 10px;
+}
+#SECONDARY {
+    background-color: #0056b8;
+    border-color: #0056b8;
+    opacity: 85%;
+    border-radius: 0px;
+}
+#JUNIORCOLLEGE {
+    background-color: #ff9e1a;
+    border-color: #ff9e1a;
+    opacity: 85%;
+    border-radius: 0px;
+}
+#MIXEDLEVEL {
+    background-color: #00943a;
+    border-color: #00943a;
+    opacity: 85%;
+    border-radius: 0px;
+}
+#CENTRALISEDINSTITUTE {
+    background-color: #9e27b5;
+    border-color: #9e27b5;
+    opacity: 85%;
+    border-radius: 0 0 10px 0;
+}
+
+/* b. Map*/
+#interactive-map {
+    width:  100%;
+    height: 95%;
+    
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+#buttons {
+    width:   100%;
+    display: flex;
+    margin:  0 auto;
+    justify-content: space-evenly;
+}
+
+.btn-width {
+    width: 20%;
+}
+
+/* c. Networks*/
+#networksPage {
+    background-color: white;
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+
+.networksContainer {
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+#NetworksSubContainer {
+    width: 100%;
+    height: 25%;
+    padding-left: 10%;
+    padding-right: 10%;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+
+#networks {
+    width:  100%;
+    height: 100%;    
+}
+
+#networkSchoolName {
+    font-size: 1.5em;
+    padding-top: 1%;
+    font-weight: 400;
+    font-family: Quicksand;
+}
+
+#networks-subgraph {
+    width: 100%;
+    height: 75%;
+    overflow: hidden;
+}
+
+/* d. Word Clouds */
+#wordCloudPage {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    background-color: whitesmoke;
+}
+
+#wordCloudTitleContainer {
+    width: 30%;
+    height: 100%;
+    padding-left: 5%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    white-space: normal;
+}
+
+.wordCloudContainer {
+    width: 35%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+#wordCloudHeaderM {
+    width: 100%;
+    height: 10%;
+    
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+}
+
+#wordCloudHeaderV {
+    width: 100%;
+    height: 10%;
+    
+    display: flex;
+    justify-content: center;
+}
+
+#wordCloudMission, #wordCloudVision {
+    width:  100%;
+    height: 70%;
 }
 
 /* School Page */
@@ -158,7 +355,7 @@ table {
     width: 90%;
 }
 thead th {position: sticky; top: 0; background-color: #ffffff;}
-/*.even {background-color: rgba(254, 152, 42, 0.6) !important;} */
+/* .even {background-color: rgba(254, 152, 42, 0.6) !important;}*/
 tr:hover {background-color: grey !important; font-weight: bold;}
 #sch-offerings { overflow-y: scroll; }
 
@@ -173,4 +370,51 @@ tr:hover {background-color: grey !important; font-weight: bold;}
     padding: 5px;
     pointer-events: none;
     max-width: 300px;
+}
+
+
+
+
+
+
+/*To Be Pushed in*/
+.form {
+    width: 100% !important;
+}
+
+.autocomplete {
+  /*the container must be positioned relative:*/
+  position: relative;
+  display: inline-block;
+  width: 100%;
+}
+
+.autocomplete-items {
+  position: absolute;
+  border: 1px solid #d4d4d4;
+  border-bottom: none;
+  border-top: none;
+  z-index: 99;
+  /*position the autocomplete items to be the same width as the container:*/
+  top: 100%;
+  left: 0;
+  right: 0;
+  font-family: "Open Sans";
+  width: 95%;
+  max-height: 121px;
+  overflow-y: scroll;
+}
+.autocomplete-items div {
+  padding: 10px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #d4d4d4;
+}
+.autocomplete-items div:hover {
+  /*when hovering an item:*/
+  background-color: #e9e9e9;
+}
+.autocomplete-active {
+  /*when navigating through the items using the arrow keys:*/
+  background-color: #e9e9e9 !important;
 }

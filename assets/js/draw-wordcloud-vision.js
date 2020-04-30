@@ -3,10 +3,14 @@ var fill = color = d3.scaleLinear()
     .range(["#26747c", "#ffd166"]);
 
 d3.csv("data/data/vision.csv", function (data) {
-    var vision = data
-        .map(function (d) { return { text: d.word, size: d.n } })
 
-    d3.layout.cloud().size([800, 800])
+    var width = document.getElementById("wordCloudVision").offsetWidth;
+    var height = document.getElementById("wordCloudVision").offsetHeight;
+
+    var vision = data
+        .map(function (d) { return { text: d.word, size: d.n * 0.75 * width / 486 } })
+
+    d3.layout.cloud().size([width * 0.975, height * 0.975])
         .words(vision)
         .rotate(function () { return ~~(Math.random() * 2) * 90; })
         .font("Open Sans")
@@ -16,11 +20,15 @@ d3.csv("data/data/vision.csv", function (data) {
 })
 
 function drawVision(words) {
-    d3.select("#word-cloud-vision").append("svg")
-        .attr("width", 800)
-        .attr("height", 800)
+
+    var width = document.getElementById("wordCloudVision").offsetWidth;
+    var height = document.getElementById("wordCloudVision").offsetHeight;
+
+    d3.select("#wordCloudVision").append("svg")
+        .attr("width", width)
+        .attr("height", height)
         .append("g")
-        .attr("transform", "translate(500,500)")
+        .attr("transform", "translate(" + width / 2 + "," + height / 2 + ")")
         .selectAll("text")
         .data(words)
         .enter().append("text")

@@ -180,8 +180,8 @@ function plotRadar(cca, specialProg, subjects) {
         .attr("id", "radar")
         .attr("d", line)
         .attr("stroke-width", 3)
-        .attr("stroke", "red")
-        .attr("fill", "red")
+        .attr("stroke", "#fe982a")
+        .attr("fill", "#fe982a")
         .attr("stroke-opacity", 1)
         .attr("opacity", 0.5)
         .attr("transform", "translate(" + margin.left + ", " + margin.top + ")");
@@ -209,7 +209,7 @@ function plotRadar(cca, specialProg, subjects) {
         .style("font-size", "1.2em")
         .style("font-weight", "bold")
         .style("text-anchor", "middle")
-        .attr("transform", "translate(" + margin.left + ", " + margin.top + ")")
+        .attr("transform", "translate(" + margin.left + ", " + margin.top * 1.07 + ")")
 
     // animations
     var pie = d3.pie().value(function (d) { return d.value });
@@ -298,9 +298,10 @@ function plotAchieve(award) {
     yAxis.select(".domain").remove()
 
     // Build color scale
-    var myColor = d3.scaleSequential()
-        .interpolator(d3.interpolateInferno)
+    var myColor = d3.scaleSequential(d3.schemeAccent)
+        .interpolator(d3.interpolateRgb('#f2f5f7', '#29586c'))
         .domain([1, d3.max(d3.map(award, function (d) { return d.Total; }).keys())])
+
 
     // create a tooltip
     var tooltip = d3.select("#sch-achievement")
@@ -459,6 +460,8 @@ function offerTable(cca, subject, specialProgs) {
         "info": "",
         scroller: false
     });
+
+    $("#offerTable > tbody > tr:odd").css("background-color", "red");
 };
 
 function achieveTable(award) {
@@ -484,6 +487,9 @@ function achieveTable(award) {
             $(row).addClass(data.Category.slice(0, 2));
         },
     });
+
+
+    $("#achieveTable > tbody > tr:odd").css("background-color", "yellow");
 
 };
 
@@ -539,7 +545,7 @@ function plotVacancies(data, name) {
         // color palette = one color per subgroup
         var color = d3.scaleOrdinal()
             .domain(subgroups)
-            .range(['#e41a1c', '#377eb8'])
+            .range(['#e21737', '#0b648f'])
 
         // Show the bars
         svg.append("g")
@@ -573,7 +579,8 @@ function plotVacancies(data, name) {
             .attr("y", function (d, i) {
                 return i * 25 - 60;
             })
-            .attr("x", 0);
+            .attr("x", 0)
+            .attr("opacity", 0.85);
 
         legend.append("text")
             .attr("class", "label")
@@ -782,9 +789,9 @@ function schMap(lat, lng, bus, mrt) {
         .attr("cx", schoolMap.latLngToLayerPoint([lat, lng]).x)
         .attr("cy", schoolMap.latLngToLayerPoint([lat, lng]).y)
         .attr("r", 50)
-        .attr("stroke", "red")
-        .attr("fill", "red")
-        .attr("fill-opacity", 0.1);
+        .attr("stroke", "#005236")
+        .attr("fill", "#005236")
+        .attr("fill-opacity", 0.2);
 
     var tooltip = d3.select("#school").append("div")
         .attr("class", "tooltip");
