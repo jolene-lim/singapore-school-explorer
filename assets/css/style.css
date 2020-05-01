@@ -20,6 +20,7 @@ input {
     border-top: 0px;
     border-left: 0px;
     border-right: 0px;
+    font-family: "Open Sans";
 }
 
 .container {
@@ -97,24 +98,43 @@ input {
     padding-right: 2.5%;
 
     display: flex;
-
     flex-direction: column;
-    justify-content: center;
+
+
+    animation: moveLanding 3s;
+    animation-delay: 0.5s;
+    animation-fill-mode: forwards;
+
+    position: relative;
+    top: 45%;
+    opacity: 0;
+}
+
+@keyframes moveLanding {
+    from {
+        top: 45%;
+        opacity: 0;
+    }
+    to {
+        top: 25%;
+        opacity: 1
+    }
 }
 
 #landingTitle {
     font-size: 3.5em;
     font-family: Quicksand;
     font-weight: 400;
-    padding-bottom: 5%;
-    white-space: normal;
+    padding-bottom: 4%;
+    white-space: normal;	
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.05);
 }
 
 #landingSubtitle {
     font-size: 1.5em;
     font-family: "Open Sans";
     white-space: normal;
-    padding-bottom: 5%;
+    padding-bottom: 4%;
 }
 
 
@@ -141,6 +161,32 @@ input {
 
 #searchInputOuter {
     width: 100%;
+}
+
+#searchBtn {
+    cursor: pointer;
+}
+
+#landingErrorMessage {
+    padding-top: 10px;
+    padding-left: 5px;
+    font-size: 1.25em;
+    font-family: "Quicksand";
+    opacity: 0;
+}
+
+.landingErrorBox {
+    animation: moveError 1s; 
+    animation-fill-mode: forwards;
+}
+
+@keyframes moveError {
+    from {
+        opacity: 0;
+    }
+    to {
+        opacity: 1;
+    }
 }
 
 #landingContainerRight {
@@ -204,7 +250,8 @@ input {
 
 .btn {
 	display: inline-block;
-	font-weight: 400;
+    font-weight: 400;
+    font-family: Quicksand;
 	color: #212529;
 	text-align: center;
 	vertical-align: middle;
@@ -334,13 +381,28 @@ input {
 /* Sidebar */
 .sidebar {
     font-size: 13px;
-    color: #ffffff;
-    height: calc(100% - 10px);
+    color: #FFFFFF;
+    height: calc(100% - 20px);
     width: 25%;
-    background: #2c3e50;
+    background: #2c3e50; /*#2c3e50*/
     white-space: normal;
-    padding: 5px;
-    text-align: justify;
+    padding: 10px;
+    text-align: justify;    
+
+    -webkit-box-shadow: 5px 0px 5px -4px rgba(0,0,0,0.2);
+    -moz-box-shadow: 5px 0px 5px -4px rgba(0,0,0,0.2);
+    box-shadow: 5px 0px 5px -4px rgba(0,0,0,0.2);
+
+    z-index: 1;
+}
+
+a:link {
+    color: #FFFFFF;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #fe982a;
 }
 
 .box {
@@ -348,7 +410,16 @@ input {
     height: 50%;
 }
 
-#school-info{padding-left: 5px; padding-right: 5px;}
+#school-info{
+    padding-left: 5px; 
+    padding-right: 5px;
+}
+
+#school-map {
+    border-radius: 10px;
+    box-shadow: 0px 0px 2px 2px rgba(141, 141, 141, 0.1);
+}
+
 
 /* Main */
 .main {
@@ -402,9 +473,10 @@ tr:hover {background-color: grey !important; font-weight: bold;}
     padding: 5px;
     pointer-events: none;
     max-width: 300px;
+    z-index: 999;
+    white-space: normal;
+    font-family: "Open Sans";
 }
-
-
 
 /*To Be Pushed in*/
 .form {

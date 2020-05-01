@@ -25,10 +25,27 @@ button.addEventListener("click", function () {
 
 function sendCode(school_name) {
     d3.json("data/data/translationDictionary.json", function (d) {
-        var name = school_name.toUpperCase();
-        var code = d[name]["code"][0];
-        loadSchool();
-        plotSchool(code);
 
+        var name = school_name.toUpperCase();
+
+        if (name in d) {
+
+            var code = d[name]["code"][0];
+
+            loadSchool();
+            plotSchool(code);
+
+            $("#landingErrorMessage").removeClass("landingErrorBox")
+
+        } else {
+
+            $("#landingErrorMessage").removeClass("landingErrorBox")
+
+            setTimeout(function () {
+                $("#landingErrorMessage").addClass("landingErrorBox")
+            }, 50)
+
+
+        }
     });
 };

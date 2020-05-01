@@ -68,11 +68,11 @@ function schInfo(web, add, phone, fax, email, mission, vision) {
     document.getElementById("school-info")
         .innerHTML = "<b>Mission</b>: " + mission + "<br>" +
         "<b>Vision</b>: " + vision + "<br><br>" +
-        '<i class="fas fa-map-marker-alt"></i> ' + add + "<br>" +
-        '<i class="fas fa-phone"></i> ' + phone.join(", ") + "<br>" +
-        '<i class="fas fa-print"></i> ' + fax.join(", ") + "<br>" +
-        '<i class="fas fa-envelope"></i> ' + email + "<br>" +
-        '<i class="fas fa-desktop"></i> ' + "<a href='" + web + "'>" + web + "</a><br>"
+        '<i class="fas fa-map-marker-alt"></i>  ' + add + "<br>" +
+        '<i class="fas fa-phone"></i>  ' + phone.join(", ") + "<br>" +
+        '<i class="fas fa-print"></i>  ' + fax.join(", ") + "<br>" +
+        '<i class="fas fa-envelope"></i>  ' + email + "<br>" +
+        '<i class="fas fa-desktop"></i>  ' + "<a href='" + web + "'>" + web + "</a><br>"
 };
 
 // school radar
@@ -676,7 +676,8 @@ function plotEntry(entry, entryRange) {
 
         // left circle
         element.append("circle")
-            .attr("cx", function (d) { return x(d.range[0]) - radius; })
+            .attr("id", "circleL")
+            .attr("cx", function (d) { return x(d.range[0]) - radius * 1; })
             .attr("cy", function (d) { return y(d.type); })
             .attr("r", radius)
             .attr("fill", function (d) { return color(d.type); })
@@ -685,7 +686,7 @@ function plotEntry(entry, entryRange) {
             .attr("stroke-width", 0);
 
         element.append("text")
-            .attr("x", function (d) { return x(d.range[0]) - radius; })
+            .attr("x", function (d) { return x(d.range[0]) - radius * 1.75; })
             .attr("y", function (d) { return y(d.type) + 3; })
             .text(function (d) { return d.range[0]; })
             .style("font-size", "0.85em")
@@ -695,7 +696,8 @@ function plotEntry(entry, entryRange) {
 
         // right circle
         element.append("circle")
-            .attr("cx", function (d) { return x(d.range[1]) + radius; })
+            .attr("id", "circleR")
+            .attr("cx", function (d) { return x(d.range[1]) + radius * 1; })
             .attr("cy", function (d) { return y(d.type); })
             .attr("r", radius)
             .attr("fill", function (d) { return color(d.type); })
@@ -704,7 +706,7 @@ function plotEntry(entry, entryRange) {
             .attr("stroke-width", 0);
 
         element.append("text")
-            .attr("x", function (d) { return x(d.range[1]) + radius; })
+            .attr("x", function (d) { return x(d.range[1]) + radius * 1.75; })
             .attr("y", function (d) { return y(d.type) + 3; })
             .text(function (d) { return d.range[1]; })
             .style("font-size", "0.85em")
@@ -713,29 +715,49 @@ function plotEntry(entry, entryRange) {
             .style("visibility", "hidden");
 
         element.on("mouseover", function () {
-            d3.select(this).selectAll("circle")
+            d3.select(this)
+                .selectAll("#circleL")
+                .attr("transform", "translate(" + (radius * -0.75) + ",0)")
                 .attr("r", radius * 1.75)
-                .attr("stroke-width", 1);
+                .attr("stroke-width", 1)
+                .attr("fill-opacity", 0.5);
+
+            d3.select(this)
+                .selectAll("#circleR")
+                .attr("transform", "translate(" + (radius * 0.75) + ",0)")
+                .attr("r", radius * 1.75)
+                .attr("stroke-width", 1)
+                .attr("fill-opacity", 0.5);
 
             d3.select(this).selectAll("text")
                 .style("visibility", "visible");
 
             d3.select(this).selectAll("line")
-                .attr("stroke-width", 7);
-
-
+                .attr("stroke-width", 5)
+                .attr("fill-opacity", 0.75);
 
         }).on("mouseout", function () {
 
-            d3.select(this).selectAll("circle")
+            d3.select(this)
+                .selectAll("#circleL")
+                .attr("transform", "translate(" + (radius * 0.5 * 0.5) + ",0)")
                 .attr("r", radius)
-                .attr("stroke-width", 0);
+                .attr("stroke-width", 0)
+                .attr("fill-opacity", 0.85);
+
+            d3.select(this)
+                .selectAll("#circleR")
+                .attr("transform", "translate(" + (radius * -0.5 * 0.5) + ",0)")
+                .attr("r", radius)
+                .attr("stroke-width", 0)
+                .attr("fill-opacity", 0.85);
 
             d3.select(this).selectAll("text")
                 .style("visibility", "hidden");
 
             d3.select(this).selectAll("line")
-                .attr("stroke-width", 5);
+                .attr("stroke-width", 5)
+                .attr("fill-opacity", 0.75);
         })
 
         // legend

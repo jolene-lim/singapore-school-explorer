@@ -36,7 +36,7 @@ var simulation = d3.forceSimulation()
 
 d3.json("data/network_data.json", function (error, graph) {
     if (error) throw error;
-    console.log(graph);
+
     var link = svg.append("g")
         .selectAll("line")
         .data(graph.links).enter()
