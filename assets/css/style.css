@@ -396,8 +396,8 @@ input {
     z-index: 1;
 }
 
-a:link {
-    color: #FFFFFF;
+a {
+    color: inherit;
     text-decoration: none;
 }
 
@@ -502,7 +502,7 @@ tr:hover {background-color: grey !important; font-weight: bold;}
   right: 0;
   font-family: "Open Sans";
   width: 95%;
-  max-height: 121px;
+  max-height: 117px;
   overflow-y: scroll;
 }
 .autocomplete-items div {
