@@ -101,22 +101,22 @@ input {
     flex-direction: column;
 
 
-    animation: moveLanding 3s;
+    animation: moveLanding 2.5s;
     animation-delay: 0.5s;
     animation-fill-mode: forwards;
 
     position: relative;
-    top: 45%;
+    top: 40%;
     opacity: 0;
 }
 
 @keyframes moveLanding {
     from {
-        top: 45%;
+        top: 40%;
         opacity: 0;
     }
     to {
-        top: 25%;
+        top: 30%;
         opacity: 1
     }
 }
@@ -202,30 +202,62 @@ input {
     border-color: #e2211c;
     opacity: 85%;
     border-radius: 0 0 0 10px;
+
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    box-shadow: 0px 0px -5px 3px rgba(0,0,0,0.15); 
 }
+
+#PRIMARY:hover {
+    opacity: 100%;
+}
+
 #SECONDARY {
     background-color: #0056b8;
     border-color: #0056b8;
     opacity: 85%;
     border-radius: 0px;
 }
+
+#SECONDARY:hover {
+    opacity: 100%;
+}
+
 #JUNIORCOLLEGE {
     background-color: #ff9e1a;
     border-color: #ff9e1a;
     opacity: 85%;
     border-radius: 0px;
 }
+
+#JUNIORCOLLEGE:hover {
+    opacity: 100%;
+}
+
 #MIXEDLEVEL {
     background-color: #00943a;
     border-color: #00943a;
     opacity: 85%;
     border-radius: 0px;
 }
+
+#MIXEDLEVEL:hover {
+    opacity: 100%;
+}
+
 #CENTRALISEDINSTITUTE {
     background-color: #9e27b5;
     border-color: #9e27b5;
     opacity: 85%;
     border-radius: 0 0 10px 0;
+
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    box-shadow: 0px 0px -5px 3px rgba(0,0,0,0.15);
+}
+
+#CENTRALISEDINSTITUTE:hover {
+    opacity: 100%;
 }
 
 /* b. Map*/
@@ -235,6 +267,10 @@ input {
     
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
+
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
 }
 
 #buttons {
@@ -242,6 +278,7 @@ input {
     display: flex;
     margin:  0 auto;
     justify-content: space-evenly;
+    
 }
 
 .btn-width {
@@ -264,13 +301,18 @@ input {
 	border: 1px solid transparent;
 	padding: .375rem .75rem;
 	font-size: 0.8rem;
-	line-height: 1.5;
+    line-height: 1.5;
+    
+    -webkit-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    -moz-box-shadow: 0px 0px 5px 3px rgba(0,0,0,0.15);
+    box-shadow: 0px 0px -5px 3px rgba(0,0,0,0.15);
 
 }
 
 .btn:focus {
     outline: none;
 }
+
 
 .btn-secondary {
 	color: #fff;

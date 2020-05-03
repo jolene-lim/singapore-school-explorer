@@ -46,7 +46,7 @@ d3.json("data/map_data.json", function (data) {
         .attr("cy", function (d) { return interactiveMap.latLngToLayerPoint([d.lat, d.lon]).y })
         .attr("r", 8)
         .style("fill", function (d) { return levelColours[d.mainlevel_code] })
-        .attr("stroke", "black")
+        .attr("stroke", function (d) { return levelColours[d.mainlevel_code] })
         .attr("stroke-width", 0)
         .attr("fill-opacity", 0)
         .attr("text", function (d) { return d.school_name })
@@ -57,14 +57,16 @@ d3.json("data/map_data.json", function (data) {
         .transition()
         .delay(function (d, i) { return i * 2.5 })
         .duration(1000)
-        .attr("fill-opacity", 0.85)
+        .attr("fill-opacity", 0.75)
 
     var tooltip = d3.select("#interactive-map")
         .append("div")
         .attr("class", "tooltip");
 
     interactiveCircles.on("mouseover", function () {
-        d3.select(this).style("stroke-width", 3).style("opacity", 1)
+        d3.select(this)
+            .style("stroke-width", 2.5)
+            .attr("r", 12)
 
         var schoolname = d3.select(this).attr("text")
 
@@ -83,7 +85,9 @@ d3.json("data/map_data.json", function (data) {
     })
 
     interactiveCircles.on("mouseout", function () {
-        d3.select(this).style("stroke-width", 0).style("opacity", 1)
+        d3.select(this)
+            .style("stroke-width", 0)
+            .attr("r", 8)
 
         tooltip.transition()
             .duration(10)
