@@ -1,3 +1,4 @@
+// load school
 let input = document.getElementById("searchInput");
 let button = document.getElementById("searchBtn");
 
@@ -49,3 +50,10 @@ function sendCode(school_name) {
         }
     });
 };
+
+// return to home
+let back = document.getElementById("back");
+
+back.addEventListener("click", function() {
+    document.getElementById("homepage").scrollIntoView();
+})

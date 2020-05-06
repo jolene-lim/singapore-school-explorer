@@ -452,6 +452,8 @@ a:hover {
     height: 50%;
 }
 
+#back {padding-left: 5px; font-size: large;}
+
 #school-info{
     padding-left: 5px; 
     padding-right: 5px;
@@ -501,7 +503,7 @@ table {
 }
 thead th {position: sticky; top: 0; background-color: #ffffff;}
 /* .even {background-color: rgba(254, 152, 42, 0.6) !important;}*/
-tr:hover {background-color: grey !important; font-weight: bold;}
+tr:hover {background-color: #cacaca !important; font-weight: bold;}
 #sch-offerings { overflow-y: scroll; }
 
 
