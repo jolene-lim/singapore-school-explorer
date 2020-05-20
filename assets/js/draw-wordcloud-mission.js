@@ -7,7 +7,7 @@ $("#wordCloudPage").mouseover(function () {
             .domain([1, 100])
             .range(["#26747c", "#ffd166"]);
 
-        d3.csv("data/data/mission.csv", function (data) {
+        d3.csv("data/mission.csv", function (data) {
 
             var width = document.getElementById("wordCloudMission").offsetWidth;
             var height = document.getElementById("wordCloudMission").offsetHeight;

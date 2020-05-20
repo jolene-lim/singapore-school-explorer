@@ -25,7 +25,7 @@ button.addEventListener("click", function () {
 });
 
 function sendCode(school_name) {
-    d3.json("data/data/translationDictionary.json", function (d) {
+    d3.json("data/translationDictionary.json", function (d) {
 
         var name = school_name.toUpperCase();
 

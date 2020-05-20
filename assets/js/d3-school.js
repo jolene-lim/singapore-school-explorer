@@ -848,7 +848,7 @@ function schMap(lat, lng, bus, mrt) {
 };
 
 function nameToCode(value) {
-    d3.json("data/data/translationDictionary.json", function (d) {
+    d3.json("data/translationDictionary.json", function (d) {
         return (d[value]["code"][0])
     })
 };
